@@ -33,6 +33,12 @@ Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je de afbeeldingen eerst in
 
 <br>
 
+**Download de volgende afbeeldingen en plaats in jouw project**
+<br>
+<img src="./resources/pikachu.png" alt="Pikachu" title="Pikachu" width="150">
+<img src="./resources/mewtwo.png" alt="Mewtwo" title="Mewtwo" width="150">
+<img src="./resources/arceus.png" alt="Arceus" title="Arceus" width="150">
+
 ## Opdracht 4 - Formulier
 Maak het formulier 1-op-1 na. 
 
