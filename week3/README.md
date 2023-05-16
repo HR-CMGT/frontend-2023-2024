@@ -20,7 +20,7 @@ In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
 
 <br>
 
-[<img src="images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="500">](images/Opdracht1.png "Opdracht 1")
+<img src="images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="500">
 <br>*Klik op de afbeelding om te vergroten.*
 
 <br>
@@ -29,7 +29,7 @@ In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
 ## Opdracht 2 - Basis CSS
 Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je exact dezelfde kleuren, margins en paddings gebruikt.
 
-[<img src="images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="500">](images/Opdracht2.png "Opdracht 2")
+<img src="images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="500">
 <br>*Klik op de afbeelding om te vergroten.*
 
 <br>
@@ -38,7 +38,7 @@ Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je exact dezelfde kleuren, 
 ## Opdracht 3 - Structuur aanbrengen met CSS
 Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens inlaadt.
 
-[<img src="images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">](images/Opdracht3.png "Opdracht 3")
+<img src="images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">
 <br>*Klik op de afbeelding om te vergroten.*
 
 <br>
@@ -46,5 +46,5 @@ Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je de afbeeldingen eerst in
 ## Opdracht 4 - Formulier
 Maak het formulier 1-op-1 na. 
 
-[<img src="images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="500">](images/Opdracht4.png "Opdracht 4")
+<img src="images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="500">
 <br>*Klik op de afbeelding om te vergroten.*
