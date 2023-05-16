@@ -10,7 +10,7 @@ In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
 [![Opdracht 1](images/Opdracht1.png "Opdracht 1")](images/Opdracht1.png "Opdracht 1")
 *Klik op de afbeelding om te vergroten*
 
-<a href="images/Opdracht1.png"><img src="images/Opdracht1.png" width="500"></a>
+<a href="images/Opdracht1.png" title="Opdracht 1" target="_blank"><img src="images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="500"></a>
 
 <br>
 
