@@ -8,7 +8,7 @@ Intro
 
 | Desktop                                              | Mobile     |
 |------------------------------------------------------| --------------- |
-| <img src="./week3/images/Opdracht1.png" width="440"> | <img src="./week3/images/Opdracht2.png" width="140">       |
+| <img src="./images/Opdracht1.png" width="440"> | <img src="./images/Opdracht2.png" width="140">       |
 
 
 ## Opdracht 1 - Semantische HTML
