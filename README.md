@@ -1,8 +1,5 @@
 # Frontend Development 2023-2024
 
-Lesmaterialen voor front-end development 2023-2024
-
-<br>
 
 ## Programma
 
@@ -17,7 +14,3 @@ Lesmaterialen voor front-end development 2023-2024
 | 7 | [TOPICS](./week7.md)                                                               |[Uitwerking](week7-uitwerking.md)|  | 
 | 8 | [TOPICS](./week8.md)                                                               |  [Code voorbeelden](./week8-voorbeelden.md) | [Opdracht 3: een responsive contactformulier](https://feedbackfruits.com) | 
 | 9 | Deadline eindopdracht                                                              | | [Evaluatie CLE website](https://feedbackfruits.com) | 
-
-<br>
-
-> *De code voor de uitwerking wordt na de les geplaatst*
