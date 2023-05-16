@@ -2,21 +2,12 @@
 
 Intro
 
-## Test
-
-*Klik met rechts op de afbeeldingen om ze te vergroten*.
-
-| Desktop                                              | Mobile     |
-|------------------------------------------------------| --------------- |
-| <img src="./images/Opdracht1.png" width="440"> | <img src="./images/Opdracht2.png" width="140">       |
-
-
 ## Opdracht 1 - Semantische HTML
 Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je precies dezelfde opbouw hebt. Denk hierbij ook terug aan hoe je bij de studiekeuzecheck verschillende secties maakte.
 <br>
 In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
 
-> Gebruik voor de teksten gebruik van de zogenaamde **lorum ipsum**. Dit gebruiken developers vaak wanneer de uiteindelijke teksten er nog niet zijn om toch genoeg tekst te hebben. Google op **lorum ipsum** en je vindt genoeg websites en extensies die dit voor je genereren.
+> Gebruik voor de teksten de zogenaamde **lorum ipsum**. Dit gebruiken developers vaak wanneer de uiteindelijke teksten er nog niet zijn om toch genoeg tekst te hebben. Google op **lorum ipsum** en je vindt genoeg websites en extensies die dit voor je genereren.
 
 <br>
 
