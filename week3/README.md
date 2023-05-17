@@ -38,8 +38,6 @@ Je hebt hier het volgende voor nodig:
 In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
 
 
-> Klik op een afbeelding om deze te vergroten
-
 <br><br><hr><br>
 
 ## Opdracht 2 - Basis CSS
@@ -65,12 +63,18 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Structuur aanbrengen met CSS
 
-Maak het volgende ontwerp 1-op-1 na. Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
-inlaadt.
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+> Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
+gebruikt in de HTML
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">
 
-<br>
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS | Gebruikte kleuren |
+|------|-----|-------------------|
+| -    | -   | -                 |
+
 
 **Download de volgende afbeeldingen en plaats in jouw project**
 <br>
@@ -82,6 +86,12 @@ inlaadt.
 
 ## Opdracht 4 - Formulier
 
-Maak het formulier 1-op-1 na.
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="500">
+
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS | Gebruikte kleuren |
+|------|-----|-------------------|
+| -    | -   | -                 |
