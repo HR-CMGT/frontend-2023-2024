@@ -32,6 +32,10 @@
 
 <br><br><hr><br>
 
+
+
+
+
 ## Opdracht 2 - HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
@@ -61,6 +65,10 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><hr><br>
 
+
+
+
+
 ## Opdracht 3 - Basisstructuur HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
@@ -87,6 +95,10 @@ Je hebt hier het volgende voor nodig:
 2. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><br><hr><br>
+
+
+
+
 
 ## Opdracht 4 - CSS
 
