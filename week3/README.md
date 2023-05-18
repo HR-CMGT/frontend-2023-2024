@@ -65,7 +65,7 @@ Je hebt hier het volgende voor nodig:
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 > Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
-gebruikt in de HTML
+gebruikt in de HTML.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">
 
