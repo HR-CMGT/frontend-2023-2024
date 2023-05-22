@@ -28,3 +28,7 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 
 <img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="500">
+
+<br><hr><br>
+
+[Terug naar week 3](../..)
