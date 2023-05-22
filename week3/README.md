@@ -1,14 +1,24 @@
 # Week 3
 
+<br>
+
+**Inhoudsopgave**
 <!-- TOC -->
-* [Week 3](#week-3)
-  * [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
-  * [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
-  * [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
-  * [Opdracht 4 - Formulier](#opdracht-4---formulier)
+- [Week 3](#week-3)
+  - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
+  - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
+  - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
+  - [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
+  - [Opdracht 4 - Formulier](#opdracht-4---formulier)
 <!-- TOC -->
 
-<br><br><hr><br>
+<br><hr><br>
+
+## Mini-oefeningen - Padding & margin
+
+[Doorloop alle mini-oefeningen.](./mini-oefeningen/padding-margin)
+
+<br><hr><br>
 
 ## Opdracht 1 - Semantische HTML
 
@@ -18,13 +28,12 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="500">
 
-Zorg ervoor dat je precies dezelfde opbouw hebt. Denk hierbij ook terug aan hoe je
-bij de studiekeuzecheck verschillende secties maakte.
+<br>
 
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
-|---------|-----|-------------------|
+| ------- | --- | ----------------- |
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
@@ -32,13 +41,11 @@ Je hebt hier het volgende voor nodig:
 | section |     |                   |
 | h1      |     |                   |
 | h2      |     |                   |
-| p       |     |                   |   
-| a       |     |                   |   
-<br>
-In deze opdracht werk je nog niet met CSS, dat komt pas bij opdracht 2.
+| p       |     |                   |
+| a       |     |                   |
 
 
-<br><br><hr><br>
+<br><hr><br>
 
 ## Opdracht 2 - Basis CSS
 
@@ -46,20 +53,20 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="500">
 
-Zorg ervoor dat je exact dezelfde kleuren, margins en paddings gebruikt.
+<br>
 
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-|------|------------------------|-------------------|
-| -    | Selecting o.b.v. tag   | .....             |
-|      | Selecting o.b.v. class | .....             |
-|      | font-family            | .....             |
-|      | color                  | .....             |
-|      | background-color       | .....             |   
-|      | text-align             | .....             |   
+| ---- | ---------------------- | ----------------- |
+| -    | Selecting o.b.v. tag   | #B0DCFF           |
+|      | Selecting o.b.v. class | #000000           |
+|      | font-family            |                   |
+|      | color                  |                   |
+|      | background-color       |                   |
+|      | text-align             |                   |
 
-<br><br><hr><br>
+<br><hr><br>
 
 ## Opdracht 3 - Structuur aanbrengen met CSS
 
@@ -69,11 +76,13 @@ gebruikt in de HTML.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">
 
+<br>
+
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS | Gebruikte kleuren |
-|------|-----|-------------------|
-| -    | -   | -                 |
+| ---- | --- | ----------------- |
+| img  | -   | -                 |
 
 
 **Download de volgende afbeeldingen en plaats in jouw project**
@@ -82,16 +91,22 @@ Je hebt hier het volgende voor nodig:
 <img src="./resources/mewtwo.png" alt="Mewtwo" title="Mewtwo" width="150">
 <img src="./resources/arceus.png" alt="Arceus" title="Arceus" width="150">
 
-<br><br><hr><br>
+<br><hr><br>
 
 ## Opdracht 4 - Formulier
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het formulier in volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="500">
 
+<br>
+
 Je hebt hier het volgende voor nodig:
 
-| HTML | CSS | Gebruikte kleuren |
-|------|-----|-------------------|
-| -    | -   | -                 |
+| HTML  | CSS                      | Gebruikte kleuren |
+| ----- | ------------------------ | ----------------- |
+| form  | width                    | #A0ABC0           |
+| input | background-color         | #2D3648           |
+| label | **BONUS:** border-radius | #FFFFFF           |
+| h2    |                          |                   |
+| p     |                          |                   |
