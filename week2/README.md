@@ -32,10 +32,6 @@
 
 <br><br><hr><br>
 
-
-
-
-
 ## Opdracht 2 - HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
@@ -65,10 +61,6 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><hr><br>
 
-
-
-
-
 ## Opdracht 3 - Basisstructuur HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
@@ -96,10 +88,6 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><hr><br>
 
-
-
-
-
 ## Opdracht 4 - CSS
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
@@ -110,12 +98,12 @@ Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
 |------|------------------------|-------------------|
-| -    | Selecting o.b.v. tag   | #4A5468           |
-|      | Selecting o.b.v. class | #4A5468           |
-|      | font-family            | #4A5468           |
-|      | color                  | #717D96           |
-|      | background-color       | #E2E7F0           |   
-|      | text-align             | #FFFFFF           |   
+| -    | Selecting o.b.v. tag   | #717D96           |
+|      | Selecting o.b.v. class | #A0ABC0           |
+|      | font-family            | #E2E7F0           |
+|      | color                  | #4A5468           |
+|      | background-color       | #FFFFFF           |   
+|      | text-align             |                   |   
 
 ### Hulpbronnen opdracht 4
 
