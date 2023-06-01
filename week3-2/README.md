@@ -55,6 +55,25 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <br>
 
+### Kleuren bepalen
+
+Elementen hebben een voorgrond (tekst) en achtergrondkleur. Deze kan je op verschillende manieren bepalen
+
+```css
+div {
+    color: #FFFFFF;                                 /* Hexadecimale kleur */
+    color: rgb(255, 255, 255);                      /* RGB kleur */
+    color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
+
+    background-color: #FFFFFF;                      /* Hexadecimale kleur */
+    background-color: rgb(255, 255, 255);           /* RGB kleur */
+    background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met transparantie */
+}
+```
+
+
+<br>
+
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
