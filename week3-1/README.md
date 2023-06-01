@@ -40,12 +40,9 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <br>
 
-> Wanneer je aan het programmeren bent en je hebt nog niet de teksten die uiteindelijk getoond moeten worden, dan
-> gebruik je vaak zogenaamde `lorum ipsum` teksten ter vervanging.
-> Deze teksten maak je zo lang als de uiteindelijke tekst ongeveer zal zijn, zodat je zo goed mogelijk het gewenste
-> eindresultaat nabootst.
-> Google op [lorum ipsum](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") en je vindt genoeg
-> websites en extensies die zulke teksten voor je genereren.
+### Dummy text
+
+Bij het maken van je website kan het nodig zijn om alvast **dummy tekst** te plaatsen, om te zien of je layout goed werkt. Je kan hier [lorum ipsum tekst](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") of [ChatGPT](https://chat.openai.com) voor gebruiken.
 
 <br>
 
