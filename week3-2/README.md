@@ -5,12 +5,22 @@
 **Inhoudsopgave**
 <!-- TOC -->
 - [Week 3](#week-3)
+  - [Werken met de inspector](#inspector)
   - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
   - [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
   - [Opdracht 4 - Formulier](#opdracht-4---formulier)
 <!-- TOC -->
+
+<br><hr><br>
+
+## Werken met de inspector
+
+- Rechts klikken op een element toont de inspector
+- Je kan typen in de inspector om een CSS regel te testen (*designing in the browser*)
+
+![designing](./images/designing.png)
 
 <br><hr><br>
 
@@ -61,10 +71,12 @@ Elementen hebben een voorgrond (tekst) en achtergrondkleur. Deze kan je op versc
 
 ```css
 div {
+    color: aliceblue;                               /* Kleur naam */
     color: #FFFFFF;                                 /* Hexadecimale kleur */
     color: rgb(255, 255, 255);                      /* RGB kleur */
     color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
 
+    background-color: darkblue;                     /* Kleur naam */
     background-color: #FFFFFF;                      /* Hexadecimale kleur */
     background-color: rgb(255, 255, 255);           /* RGB kleur */
     background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met transparantie */
