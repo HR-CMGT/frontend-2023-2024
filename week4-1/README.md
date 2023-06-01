@@ -1,11 +1,11 @@
 # Week 4 les 1
 
 - Werken met flex. 
-- CSS Tricks poster
 - Afbeeldingen en tekst naast elkaar
-- Flex inspector
 - Nav bar bouwen
 - Card grid bouwen met flex-wrap
+- CSS Tricks poster
+- Flex inspector
 
 <br><Br><br>
 
