@@ -17,9 +17,10 @@
 
 ## Afbeeldingen
 
+- Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
+- Aspect-ratio instellen
 - Werken met object fit (cover - contain)
 - Background images (cover - contain)
-- Aspect-ratio 
 - Wat is 72dpi, afbeeldingen voor HiDPI schermen
 - Lazy loading
 
