@@ -20,6 +20,7 @@
 - Werken met object fit (cover - contain)
 - Background images (cover - contain)
 - Aspect-ratio 
+- Wat is 72dpi, afbeeldingen voor HiDPI schermen
 - Lazy loading
 
 <br><Br><br>
