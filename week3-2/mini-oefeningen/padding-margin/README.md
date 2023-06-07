@@ -31,4 +31,4 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <br><hr><br>
 
-[Terug naar week 3](../..)
+[Terug naar hoofdpagina](../..)
