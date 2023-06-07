@@ -1,0 +1,21 @@
+main {
+
+    /* Voer jouw code hieronder in */
+
+    /* display: flex;
+    gap: 20px; */
+}
+
+section {
+
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+    /* Voer jouw code hieronder in */
+
+    /* flex: 1; */
+
+}

@@ -1,0 +1,18 @@
+main {
+
+    /* Voer jouw code hieronder in */
+
+    /* display: flex;
+    gap: 20px;
+    justify-content: space-between; */
+}
+
+section {
+
+    text-align: center;
+    padding: 20px 40px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
