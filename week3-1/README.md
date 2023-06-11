@@ -11,10 +11,10 @@
     - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
     - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
     - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
-  - [Opdracht 3 - HTML](#opdracht-3---html)
+  - [Opdracht 2 - HTML](#opdracht-2---html)
     - [Dummy text](#dummy-text)
-  - [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
-  - [Opdracht 5 - CSS](#opdracht-5---css)
+  - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
+  - [Opdracht 4 - CSS](#opdracht-4---css)
 <!-- TOC -->
 
 <br><hr><br>
@@ -87,7 +87,7 @@ Het project is gereed en je bent klaar om te beginnen met programmeren! Om de do
 
 <br><hr><br>
 
-## Opdracht 3 - HTML
+## Opdracht 2 - HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
@@ -119,7 +119,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 4 - Basisstructuur HTML
+## Opdracht 3 - Basisstructuur HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
@@ -149,7 +149,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 5 - CSS
+## Opdracht 4 - CSS
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
