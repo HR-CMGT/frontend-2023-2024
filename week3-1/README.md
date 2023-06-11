@@ -29,7 +29,7 @@ Om te kunnen beginnen met programmeren heb je een app nodig waarin dit kan, ook 
 ### Opdracht 1a - Visual Studio Code installeren
 
 1. Ga naar https://code.visualstudio.com en klik op de download-knop;
-2. Op een MacBook: pak het gedownloade bestand uit en versleep de app naar de apps-map;
+2. Op een MacBook: open het gedownloade bestand en versleep de app naar de apps-map;
 3. Op een Windows: open het gedownloade bestand en doorloop de stappen van de installatie met de standaard instellingen.
        
 
@@ -73,7 +73,7 @@ Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` 
 
 5. Zorg ervoor dat de `bestandsstructuur` en de code van de `index.html` er als volgt uitzien:
 
-<img  src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="500"/>
+<img  src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800"/>
 
 <br><br>
 
