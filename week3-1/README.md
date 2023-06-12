@@ -12,9 +12,9 @@
     - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
     - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
   - [Opdracht 2 - HTML](#opdracht-2---html)
-    - [Dummy text](#dummy-text)
   - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
   - [Opdracht 4 - CSS](#opdracht-4---css)
+  - [Opdracht 5 - Images](#opdracht-5---images)
 <!-- TOC -->
 
 <br><hr><br>
@@ -95,9 +95,9 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <br>
 
-### Dummy text
-
-Bij het maken van je website kan het nodig zijn om alvast **dummy tekst** te plaatsen, om te zien of je layout goed werkt. Je kan hier [lorum ipsum tekst](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") of [ChatGPT](https://chat.openai.com) voor gebruiken.
+> ### Dummy text
+> 
+> Bij het maken van je website kan het nodig zijn om alvast **dummy tekst** te plaatsen, om te zien of je layout goed werkt. Je kan hier [lorum ipsum tekst](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") of [ChatGPT](https://chat.openai.com) voor gebruiken.
 
 <br>
 
@@ -175,3 +175,20 @@ Je hebt hier het volgende voor nodig:
 1. [CSS cheatsheet](./images/CSS-cheatsheet.png  )
 2. [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
+
+
+   <br><hr><br>
+
+## Opdracht 5 - Images
+
+Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen waar je dit op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die vervolgens in te laden in de HTML. Doorloop de volgende stappen:
+
+1. Maak in de map `week3-les1` een nieuwe map aan met de naam `images`;
+2. Plaats in deze nieuwe map jouw afbeelding(en);
+3. Voer tot slot de afbeelding in de HTML in met de volgende code (vervang de placeholders):
+
+```html
+<img src="images/[NAAM_EN_EXTENSIE_BESTAND]" alt="[ALTERNATIEVE_TEKST]">
+```
+
+Zoals je kunt zien gebruik je hier als `src` niet de gehele url (zoals wel nodig was in Codepen), maar je voert het `pad naar de afbeelding` in vanaf de `index.html` gezien. Dit noem je een `relatief pad`.
