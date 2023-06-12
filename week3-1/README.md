@@ -91,7 +91,7 @@ Het project is gereed en je bent klaar om te beginnen met programmeren! Om de do
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
-<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="500">
+<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
 
 <br>
 
@@ -123,7 +123,7 @@ Je hebt hier het volgende voor nodig:
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
-<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="500">
+<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
 
 <br>
 Je hebt hier het volgende voor nodig:
@@ -153,7 +153,7 @@ Je hebt hier het volgende voor nodig:
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
-<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="500">
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
 
 <br>
 

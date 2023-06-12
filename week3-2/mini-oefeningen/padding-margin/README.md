@@ -17,7 +17,7 @@
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 
-<img src="./images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="500">
+<img src="./images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="800">
 
 
 <br><hr><br>
@@ -27,7 +27,7 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 
-<img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="500">
+<img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="800">
 
 <br><hr><br>
 
