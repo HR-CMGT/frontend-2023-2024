@@ -87,6 +87,10 @@ Het project is gereed en je bent klaar om te beginnen met programmeren! Om de do
 
 <br><hr><br>
 
+> ⚠️ Opdracht 2 t/m 5 maak in de bestanden de je bij `opdracht 1d` hebt gemaakt.
+
+<br>
+
 ## Opdracht 2 - HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
