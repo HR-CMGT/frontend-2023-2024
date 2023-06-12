@@ -191,4 +191,4 @@ Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen waa
 <img src="images/[NAAM_EN_EXTENSIE_BESTAND]" alt="[ALTERNATIEVE_TEKST]">
 ```
 
-Zoals je kunt zien gebruik je hier als `src` niet de gehele url (zoals wel nodig was in Codepen), maar je voert het `pad naar de afbeelding` in vanaf de `index.html` gezien. Dit noem je een `relatief pad`.
+Zoals je kunt zien gebruik je hier als `src` niet de gehele url (zoals wel nodig was in Codepen), maar je voert het `pad naar de afbeelding` in vanaf de `index.html` gezien. Dit noem je een `relatief pad`. Dus stel, de bestandsnaam van jouw afbeelding is `profielfoto.jpg`, dan is het relatieve pad dat je moet invoeren `images/profielfoto.jpg`.
