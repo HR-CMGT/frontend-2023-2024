@@ -19,7 +19,7 @@ Kort aanstippen
 
 <br><br><br>
 
-## Oefeningen
+## Oefening
 
 Chat request popup
 
@@ -28,3 +28,9 @@ Chat request popup
 - `transform` gebruik je als je een item wil animeren
 - `transition` is animatie die afspeelt na een gebruikers interactie (zoals `hover` of `scroll`)
 - `animation` is animatie die automatisch kan afspelen
+
+<Br><br><br>
+  
+## Voorbeelden
+  
+- [Animeer de header image kleuren](https://codepen.io/tommiehansen/pen/BaGyVVy)
