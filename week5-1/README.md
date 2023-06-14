@@ -13,7 +13,7 @@
 - meta-viewport
 - Werken met `vw` `vh`, `%`, `em` en `rem`.
 - Media queries
-- Flex
+- Flex row naar flex column
 
 <br><Br><br>
 
