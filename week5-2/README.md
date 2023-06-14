@@ -8,6 +8,17 @@
 
 <br><br><br>
 
+## UI / UX design
+
+Kort aanstippen
+
+- Voor wie is jouw website bedoeld?
+- Welke uitstraling past daarbij?
+- Keuze maken over kleurpalet, fotografie, typografie, algemene layout (rustig, onrustig)
+- Mogelijkheden voor User Interface elementen (inspiratie uit bestaande succesvolle interfaces)
+
+<br><br><br>
+
 ## Oefeningen
 
 Chat request popup
