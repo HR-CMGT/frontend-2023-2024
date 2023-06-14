@@ -1,13 +1,19 @@
 # Week 4 les 1
 
-- Werken met flex. 
-- Afbeeldingen en tekst naast elkaar
-- Nav bar bouwen
-- Card grid bouwen met flex-wrap
-- CSS Tricks poster
-- Flex inspector
+- Werken met flex:
+  - Afbeeldingen en tekst naast elkaar
+  - Justify content voor verschillende soorten uitlijning
+  - Nav bar bouwen met flex
+  - Card grid bouwen met flex-wrap
+- [Mini oefeningen](#mini-oefeningen)
+- [CSS Tricks poster](#css-tricks-poster)
+- [Flex inspector](#flex-inspector)
 
-<br><br><br>
+## Mini oefeningen
+
+[Doorloop alle mini-oefeningen.](./mini-oefeningen/flexbox)
+
+<br><hr><br>
 
 ## CSS Tricks Poster
 
@@ -25,8 +31,3 @@ https://developer.chrome.com/docs/devtools/css/flexbox/
 
 ![inspect-flex](./flex-inspector.png)
 
-## Mini-oefeningen - Padding & margin
-
-[Doorloop alle mini-oefeningen.](./mini-oefeningen/flexbox)
-
-<br><hr><br>
