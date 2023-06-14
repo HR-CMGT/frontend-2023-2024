@@ -1,5 +1,7 @@
 # Week 5 les 1
 
+> *“A Pixel is Not a Pixel”*
+
 - [Responsive design](#responsive-design)
 - [Afbeeldingen](#afbeeldingen)
 - [Forms](#forms)
@@ -18,10 +20,11 @@
 ## Afbeeldingen
 
 - Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
-- Aspect-ratio instellen
+- Aspect-ratio
 - Werken met object fit (cover - contain)
 - Background images (cover - contain)
-- Wat is 72dpi, afbeeldingen voor HiDPI schermen
+- Werken met DPI waarden: `srcset`
+- Werken met `picture`
 - Lazy loading
 
 <br><Br><br>
@@ -33,3 +36,9 @@
 - Feedback geven met CSS
 
 <br><Br><br>
+  
+## Links
+  
+- [Guide to responsive images](https://elad.medium.com/a-complete-guide-for-responsive-images-b13db359c6c7)
+- [Werken met `srcset` en `picture`](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+- [Lazy Loading](https://www.w3schools.com/tags/att_img_loading.asp)
