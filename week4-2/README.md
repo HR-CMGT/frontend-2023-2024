@@ -12,7 +12,8 @@ Je gaat een website bouwen om een product te verkopen. Je oefent met het omzette
 ## Wireframe nabouwen
 
 - Het is de bedoeling dat je alleen de ***stof uit de voorgaande lessen*** gebruikt om je gekozen wireframe om te zetten naar HTML en CSS. Je schrijft alle code zelf.
-- Je bouwt de structuur op met `semantic` tags, een `nav` balk, een `form` en afbeeldingen. Je kan `div` elementen gebruiken als child van de `semantic` tags.
+- Je bouwt de basis structuur op met `semantic` tags. Je kan `div` elementen gebruiken als child van deze `semantic` tags.
+- Je gebruikt een `nav` balk, een `form` en `img` afbeeldingen. 
 - Je gebruikt `margin`, `padding` en `flex` om de layout te bouwen.
 
 ## Inleveren
