@@ -13,3 +13,9 @@ Je gaat een website bouwen om een product te verkopen. Je oefent met het omzette
 
 - Het is de bedoeling dat je stof uit de voorgaande lessen gebruikt om je gekozen wireframe om te zetten naar HTML en CSS.
 - Je werkt zoveel mogelijk met `margin`, `padding` en `flex` om het wireframe te vertalen.
+
+## Inleveren
+
+- Maak een account op github.com als je dat nog niet had
+- Maak een nieuwe repository voor je website
+- Klik op `upload files` om je `index.html`, en je `css` map met `styles.css` te uploaden.
