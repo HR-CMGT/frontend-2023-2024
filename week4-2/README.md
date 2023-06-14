@@ -1,24 +1,28 @@
 # Week 4 les 2
 
-Je gaat een website bouwen om een product te verkopen. Je oefent met het omzetten van een wireframe naar een werkende website.
+Je gaat oefenen met de stof uit de voorgaande lessen om een wireframe na te bouwen
 
 ## Voorbereiding
 
 - Kies een van de wireframes 
-- Verzamel content in de vorm van foto's en tekst. Het mag een fictief product zijn of een bestaand product. Zorg dat er voldoende content is om de website body te geven. Je gebruikt echte tekst en geen fake tekst. Je kan eventueel ChatGPT gebruiken om een fake product voor je te bedenken en teksten te genereren.
-- Stel een huisstijlkleur vast. Dit wordt de basiskleur van je buttons en accent elementen.
-- Kies een google font. Je mag een apart font voor headers en body tekst gebruiken.
+- Kies een onderwerp om je site te vullen met content. Verzamel hier ***afbeeldingen en tekst*** voor. Dit kan zijn:
+  - Pokémon
+  - Games
+  - Films   
+  - ...
 
 ## Wireframe nabouwen
 
 - Het is de bedoeling dat je alleen de ***stof uit de voorgaande lessen*** gebruikt om je gekozen wireframe om te zetten naar HTML en CSS. Je schrijft alle code zelf.
-- Je bouwt de basis structuur op met `semantic` tags. Je kan `div` elementen gebruiken als child van deze `semantic` tags.
-- Je gebruikt een `nav` balk, een `form` en `img` afbeeldingen. 
-- Je gebruikt `margin`, `padding` en `flex` om de layout te bouwen.
+- Je bouwt de basis structuur op met `semantic` tags. 
+- Begin met `section` elementen die `display:flex` hebben. 
+- Je kan `div` elementen gebruiken als child van de `section` tags.
+- Gebruik de verschillende `flex` eigenschappen om de items binnen de sections uit te lijnen
+- Gebruik `margin`, `padding` om ruimte toe te voegen.
 
 ## Inleveren
 
-- Maak een account op github.com als je dat nog niet had
+- Maak een account op [github.com](https://www.github.com) als je dat nog niet had
 - Maak een nieuwe repository voor je website
 - Klik op `upload files` om je `index.html`, en je `css` map met `styles.css` te uploaden.
-- De deadline is de opvolgende week (week 5) dinsdagochtend, vóór de start van de les.
+- Ga naar [Feedbackfruits.com](https://www.feedbackfruits.com) voor de deadline en lever daar je werk in
