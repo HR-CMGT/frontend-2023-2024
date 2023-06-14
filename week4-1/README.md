@@ -6,12 +6,21 @@
   - Nav bar bouwen met flex
   - Card grid bouwen met flex-wrap
 - [Mini oefeningen](#mini-oefeningen)
+- [Github Account maken](#github)
 - [CSS Tricks poster](#css-tricks-poster)
 - [Flex inspector](#flex-inspector)
 
 ## Mini oefeningen
 
 [Doorloop alle mini-oefeningen.](./mini-oefeningen/flexbox)
+
+<br><hr><br>
+
+## Github account
+
+- Maak alvast een account aan op github.com.
+- Maak een nieuwe repository aan.
+- Test of je via de `uplaod files` button bestanden kan uploaden.
 
 <br><hr><br>
 
