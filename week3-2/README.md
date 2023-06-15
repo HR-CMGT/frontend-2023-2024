@@ -4,14 +4,40 @@
 
 **Inhoudsopgave**
 <!-- TOC -->
-- [Week 3](#week-3)
-  - [Werken met de inspector](#inspector)
+- [Week 3 les 2](#week-3-les-2)
+  - [Semantiek](#semantiek)
+  - [Werken met de inspector](#werken-met-de-inspector)
   - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
+    - [Kleuren bepalen](#kleuren-bepalen)
   - [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
   - [Opdracht 4 - Formulier](#opdracht-4---formulier)
 <!-- TOC -->
+
+<br><hr><br>
+
+## Semantiek
+AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste stijl te krijgen. Dit doe je altijd met CSS. Dus niet `<strong>` gebruiken, omdat het dan dikgedrukt wordt, gebruik het vanwege de semantische betekenis.
+
+**Veelgebruikte semantische tags voor structuur**
+| Tag     | Omschrijving                                        |
+| ------- | --------------------------------------------------- |
+| header  | De header (bovenkant) van de pagina.                |
+| main    | De hoofdinhoud van de pagina.                       |
+| footer  | De footer (onderkant) van de pagina.                |
+| nav     | Bevat de navigatie van de website.                  |
+| section | Is om één sectie van de pagina aan te duiden.       |
+| article | Is voor onafhankelijke, op zichzelf staande inhoud. |
+
+**Veelgebruikte semantische tags voor content**
+| Tag    | Omschrijving                                                                           | Voorbeeld in HTML                                                                                                         | Eindresultaat                                                                                   |
+| ------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| strong | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.        | `<p>`Before entering, he read the warning at the entrance: `<strong>`Caution! Fire-breathing dragon ahead.`</strong></p>` | Before entering, he read the warning at the entrance: **Caution! Fire-breathing dragon ahead.** |
+| em     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. | `<p>`Get out of bed `<em>`now`</em>`!`</p>`                                                                               | Get out of bed *now*!                                                                           |
+
+
+
 
 <br><hr><br>
 
