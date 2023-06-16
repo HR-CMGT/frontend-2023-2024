@@ -42,3 +42,4 @@
 - [Guide to responsive images](https://elad.medium.com/a-complete-guide-for-responsive-images-b13db359c6c7)
 - [Werken met `srcset` en `picture`](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [Lazy Loading](https://www.w3schools.com/tags/att_img_loading.asp)
+- [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
