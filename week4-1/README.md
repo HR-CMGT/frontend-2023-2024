@@ -20,7 +20,7 @@
 
 - Maak alvast een account aan op github.com.
 - Maak een nieuwe repository aan.
-- Test of je via de `uplaod files` button bestanden kan uploaden.
+- Test of je via de `upload files` button bestanden kan uploaden.
 
 <br><hr><br>
 
@@ -28,7 +28,7 @@
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-![flex-boy](./css-flexbox-poster.png)
+<img src="./css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 
 <br><br><br>
 

@@ -47,10 +47,10 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 ## Werken met de inspector
 
-- Open de inspector op een specifiek HTML-element, door met de rechter muistoets op dat element te klikken en vervolgens op **Inspecteren**;
+- Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens op **Inspecteren**;
   - Ook is de inspector te openen met de sneltoets ⌥⌘i op Mac en F12 op Windows;
 - Van het geselecteerde element zie je ook alle bijbehorende CSS staan. Deze CSS is in de inspector aan te passen en dit is dan direct zichtbaar in de browser. Zo kan je spelen met de waardes en real-time wijzingen zien om het ontwerp te bepalen. Dit noemen we `Designing in the browser`;
-  -  **Let op:** wanneer je CSS in de inspector wijzigt, verandert het niet ook in de bestanden in Visual Studio Code. Dit moet je handmatig wijzigen;
+  -  **Let op:** wanneer je CSS in de inspector wijzigt, verandert het ***niet*** in de bestanden in Visual Studio Code. Dit moet je handmatig wijzigen;
 
 <img src="./images/designing.png" alt="Inspector" title="Inspector" width="800">
 
