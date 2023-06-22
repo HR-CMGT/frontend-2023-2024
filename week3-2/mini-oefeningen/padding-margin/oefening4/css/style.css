@@ -1,0 +1,9 @@
+p {
+
+    border: 1px solid #000000;
+    width: 500px;
+    text-align: justify;
+
+    /* Voer jouw code hieronder in */
+    padding: 0 20px;
+}

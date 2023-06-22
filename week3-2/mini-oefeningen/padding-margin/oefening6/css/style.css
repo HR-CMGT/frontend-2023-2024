@@ -1,0 +1,10 @@
+button {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+/* Voer jouw code hieronder in */
+button {
+    padding: 30px;
+}
