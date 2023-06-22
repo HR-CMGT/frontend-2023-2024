@@ -1,9 +1,13 @@
-button {
-    background-color: #FFFFFF;
+p {
+
     border: 1px solid #000000;
+    width: 500px;
+    text-align: justify;
+    padding: 30px;
     border-radius: 5px;
-    font-size: 20px;
+}
 
+.second-text {
     /* Voer jouw code hieronder in */
-
+    
 }

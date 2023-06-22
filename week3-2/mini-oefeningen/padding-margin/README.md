@@ -29,7 +29,7 @@ Bouw het volgende ontwerp na met de aangegeven waardes (klik op de afbeelding om
 ## Mini-oefening 2
 
 Bouw het volgende ontwerp na met de aangegeven waardes (klik op de afbeelding om te vergroten).
-<br>Je mag alleen maar in het CSS-bestand werken met `padding` en `margin`.
+<br>Je mag alleen maar in het CSS-bestand werken met `selectors`, `padding` en `margin`.
 
 <img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="800">
 
@@ -38,7 +38,7 @@ Bouw het volgende ontwerp na met de aangegeven waardes (klik op de afbeelding om
 ## Mini-oefening 3
 
 Bouw het volgende ontwerp na met de aangegeven waardes (klik op de afbeelding om te vergroten).
-<br>Je mag alleen maar in het CSS-bestand werken met `padding` en `margin`.
+<br>Je mag alleen maar in het CSS-bestand werken met `selectors`, `padding` en `margin`.
 
 <img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="800">
 
