@@ -3,6 +3,7 @@
 - [Week 4 les 1](#week-4-les-1)
   - [Flex inspector 🔍](#flex-inspector-)
   - [Mini oefeningen](#mini-oefeningen)
+  - [Github accounts](#github-accounts)
 
 
 <br><hr><br>
@@ -28,3 +29,10 @@ Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `insp
 1. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 2. [Flexbox cheatsheet](./images/css-flexbox-poster.png)<br><img src="./images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 
+<br><hr><br>
+
+## Github accounts
+
+- Maak alvast een account aan op github.com.
+- Maak een nieuwe repository aan.
+- Test of je via de `upload files` button bestanden kan uploaden.
