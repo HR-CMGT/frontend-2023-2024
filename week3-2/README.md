@@ -6,6 +6,7 @@
 <!-- TOC -->
 - [Week 3 les 2](#week-3-les-2)
   - [Semantiek](#semantiek)
+  - [Quiz over semantische HTML](#quiz-over-semantische-html)
   - [Werken met de inspector](#werken-met-de-inspector)
   - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
@@ -41,7 +42,10 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 | em     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. | `<p>`This will be `<em>`very`</em>` dangerous.`</p>`                                                                      | This will be *very* dangerous.                                                                  |
 
 
+<br><hr><br>
 
+## Quiz over semantische HTML
+[Klik hier om de quiz over semantische HTML te doen](./quiz/)
 
 <br><hr><br>
 
