@@ -3,6 +3,9 @@
 Dit is een quiz over semantische HTML.
 <br>
 Noteer voor jezelf het antwoord per vraag. Later deze les worden de antwoorden online gezet. Vergelijk dan zelf jouw antwoorden met het antwoordmodel.
+<br><br>
+
+>Vul deze quiz in zo vaak als je wilt, het liefst totdat je geen fouten meer maakt.
 
 <br><hr><br>
 
