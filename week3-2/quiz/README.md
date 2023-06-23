@@ -11,7 +11,7 @@ Noteer voor jezelf het antwoord per vraag. Later deze les worden de antwoorden o
 
 ## Vraag 1
 
-Geef aan of de volgende stelling klopt: In de volgende HTML moet op regel 3 en 6 `<div>` naar `<section>` worden omgezet.
+Geef aan of de volgende stelling klopt: In onderstaande HTML moet op regel 3 en 6 `<div>` naar `<section>` worden omgezet.
 
 ```html
 1.  <main>
