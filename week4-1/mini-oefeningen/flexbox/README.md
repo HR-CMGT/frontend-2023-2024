@@ -5,6 +5,7 @@
 **Inhoudsopgave**
 <!-- TOC -->
 - [Week 4 - Mini-oefeningen - Flexbox](#week-4---mini-oefeningen---flexbox)
+  - [Inleiding](#inleiding)
   - [Mini-oefening 1](#mini-oefening-1)
   - [Mini-oefening 2](#mini-oefening-2)
   - [Mini-oefening 3](#mini-oefening-3)
@@ -12,6 +13,18 @@
   - [Mini-oefening 5](#mini-oefening-5)
   - [Mini-oefening 6](#mini-oefening-6)
 <!-- TOC -->
+
+<br><hr><br>
+
+## Inleiding
+Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
+
+<br>
+
+**Hulpbronnen voor de mini-oefeningen**
+
+1. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+2. [Flexbox cheatsheet](../../images/css-flexbox-poster.png)<br><img src="../../images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 
 
 <br><hr><br>

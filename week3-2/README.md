@@ -58,7 +58,7 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 ## Mini-oefeningen - Padding & margin
 
-[Doorloop alle mini-oefeningen.](./mini-oefeningen/padding-margin)
+[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
 
 <br><hr><br>
 
