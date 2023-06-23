@@ -5,7 +5,7 @@ Dit is een quiz over semantische HTML.
 Noteer voor jezelf het antwoord per vraag. Later deze les worden de antwoorden online gezet. Vergelijk dan zelf jouw antwoorden met het antwoordmodel.
 <br><br>
 
->Vul deze quiz in zo vaak als je wilt, het liefst totdat je geen fouten meer maakt.
+>Vul deze quiz de komende dagen zo vaak in als je wilt. Blijf hem herhalen, totdat je alles begrijpt.
 
 <br><hr><br>
 
