@@ -5,15 +5,23 @@
 **Inhoudsopgave**
 <!-- TOC -->
 - [Week 3 les 2](#week-3-les-2)
+- [Inhoud](#inhoud)
   - [Semantiek](#semantiek)
-  - [Quiz over semantische HTML](#quiz-over-semantische-html)
   - [Werken met de inspector](#werken-met-de-inspector)
-  - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
   - [Relatieve units](#relatieve-units)
-  - [Opdrachten](#opdrachten)
+- [Quiz over semantische HTML](#quiz-over-semantische-html)
+- [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
+- [Hoofdopdracht](#hoofdopdracht)
+  - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
+  - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
+    - [Kleuren bepalen](#kleuren-bepalen)
+  - [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
+  - [Opdracht 4 - Formulier](#opdracht-4---formulier)
 <!-- TOC -->
 
 <br><hr><br>
+
+# Inhoud
 
 ## Semantiek
 AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste stijl te krijgen. Dit doe je altijd met CSS. Dus niet `<strong>` gebruiken, omdat het dan dikgedrukt wordt, gebruik het vanwege de semantische betekenis.
@@ -41,11 +49,6 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 <br><hr><br>
 
-## Quiz over semantische HTML
-[Klik hier om de quiz over semantische HTML te doen](./quiz/)
-
-<br><hr><br>
-
 ## Werken met de inspector
 
 - Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens op **Inspecteren**;
@@ -57,19 +60,155 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 <br><hr><br>
 
-## Mini-oefeningen - Padding & margin
-
-[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
-
-<br><hr><br>
-
 ## Relatieve units
 
 ⚠️⚠️⚠️ **@TODO** maak cheatsheet over relatieve units ⚠️⚠️⚠️
 
+<br><hr><br><br><br><br><br>
+
+# Quiz over semantische HTML
+[Klik hier om de quiz over semantische HTML te doen](./quiz/)
+
+<br><hr><br><br><br><br><br>
+
+
+# Mini-oefeningen - Padding & margin
+
+[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
+
+
+<br><hr><br><br><br><br><br>
+
+
+# Hoofdopdracht
+
+## Opdracht 1 - Semantische HTML
+
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+<br>
+Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud, maar op de code.
+
+>⚠️⚠️⚠️ **@TODO** Breidt het ontwerp uit, zodat ook de basisstructuur (nav, header, main, footer) erin moet. ⚠️⚠️⚠️
+
+<img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
+
+<br>
+
+>Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
+> <br>
+> <br>
+><img src="./images/wireframe-basisstructuur.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+
+<br>
+
+Je hebt hier het volgende voor nodig:
+
+| HTML    | CSS | Gebruikte kleuren |
+| ------- | --- | ----------------- |
+| header  | -   | -                 |
+| main    |     |                   |
+| footer  |     |                   |
+| nav     |     |                   |
+| section |     |                   |
+| h1      |     |                   |
+| h2      |     |                   |
+| p       |     |                   |
+| a       |     |                   |
+
+
 <br><hr><br>
 
+## Opdracht 2 - Basis CSS
 
-## Opdrachten
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
-[Klik hier om de naar de opdrachten van deze les te gaan.](./opdrachten/)
+<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
+
+<br>
+
+### Kleuren bepalen
+
+Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
+
+```css
+section {
+
+    /* Tekstkleur bepalen */
+    color: aliceblue;                               /* Kleur naam */
+    color: #FFFFFF;                                 /* Hexadecimale kleur */
+    color: rgb(255, 255, 255);                      /* RGB kleur */
+    color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
+
+    /* Achtergrond bepalen */
+    background-color: darkblue;                     /* Kleur naam */
+    background-color: #FFFFFF;                      /* Hexadecimale kleur */
+    background-color: rgb(255, 255, 255);           /* RGB kleur */
+    background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met transparantie */
+}
+```
+
+
+<br>
+
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS                    | Gebruikte kleuren |
+| ---- | ---------------------- | ----------------- |
+| -    | Selectors o.b.v. tag   | #B0DCFF           |
+|      | Selectors o.b.v. class | #000000           |
+|      | font-family            |                   |
+|      | color                  |                   |
+|      | background-color       |                   |
+|      | text-align             |                   |
+|      | border                 |                   |
+
+<br><hr><br>
+
+## Opdracht 3 - Structuur aanbrengen met CSS
+
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+> Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
+gebruikt in de HTML.
+
+<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
+
+<br>
+
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS | Gebruikte kleuren |
+| ---- | --- | ----------------- |
+| img  | -   | -                 |
+
+
+**Download de volgende afbeeldingen en plaats in jouw project**
+<br>
+<img src="./resources/pikachu.png" alt="Pikachu" title="Pikachu" width="150">
+<img src="./resources/mewtwo.png" alt="Mewtwo" title="Mewtwo" width="150">
+<img src="./resources/arceus.png" alt="Arceus" title="Arceus" width="150">
+
+<br><hr><br>
+
+>⚠️⚠️⚠️ **@TODO** Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
+
+## Opdracht 4 - Formulier
+
+Bouw het formulier in volgende ontwerp na (klik op de afbeelding om te vergroten).
+
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
+
+<br>
+
+Je hebt hier het volgende voor nodig:
+
+| HTML  | CSS                      | Gebruikte kleuren |
+| ----- | ------------------------ | ----------------- |
+| form  | width                    | #A0ABC0           |
+| input | background-color         | #2D3648           |
+| label | **BONUS:** border-radius | #FFFFFF           |
+| h2    |                          |                   |
+| p     |                          |                   |
+
+<br><hr>
+
+[Terug naar hoofdpagina](..)

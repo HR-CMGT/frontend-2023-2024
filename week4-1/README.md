@@ -1,13 +1,15 @@
 # Week 4 les 1
 
 - [Week 4 les 1](#week-4-les-1)
+- [Inhoud](#inhoud)
   - [Flex inspector 🔍](#flex-inspector-)
-  - [Mini oefeningen](#mini-oefeningen)
-  - [Github accounts](#github-accounts)
+- [Mini oefeningen - Flexbox](#mini-oefeningen---flexbox)
+- [Github account](#github-account)
 
 
 <br><hr><br>
 
+# Inhoud
 ## Flex inspector 🔍
 
 Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `inspector`. Hierin kun je namelijk met simpelweg drukken op knopjes alle opties uitproberen. Inspecteer een HTML-element die staat ingesteld als een Flexbox en klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de volgende video: https://developer.chrome.com/docs/devtools/css/flexbox/
@@ -18,9 +20,9 @@ Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `insp
 
 > Reminder: je opent de inspector door met de rechter muistoets op een specifiek HTML-element te klikken en vervolgens op **Inspecteren**, óf met de sneltoets ⌥⌘i op Mac en F12 op Windows.
 
-<br><hr><br>
+<br><hr><br><br><br><br><br>
 
-## Mini oefeningen
+# Mini oefeningen - Flexbox
 
 [Klik hier om naar de mini-oefeningen te gaan.](./mini-oefeningen/flexbox)
 
@@ -29,9 +31,9 @@ Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `insp
 1. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 2. [Flexbox cheatsheet](./images/css-flexbox-poster.png)<br><img src="./images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 
-<br><hr><br>
+<br><hr><br><br><br><br><br>
 
-## Github accounts
+# Github account
 
 - Maak alvast een account aan op github.com.
 - Maak een nieuwe repository aan.
