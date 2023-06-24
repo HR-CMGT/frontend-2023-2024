@@ -9,6 +9,7 @@
   - [Quiz over semantische HTML](#quiz-over-semantische-html)
   - [Werken met de inspector](#werken-met-de-inspector)
   - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
+  - [Relatieve units](#relatieve-units)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
     - [Kleuren bepalen](#kleuren-bepalen)
@@ -66,6 +67,12 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 <br><hr><br>
 
+## Relatieve units
+
+⚠️⚠️⚠️ **@TODO** maak cheatsheet over relatieve units ⚠️⚠️⚠️
+
+<br><hr><br>
+
 ## Opdracht 1 - Semantische HTML
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
@@ -78,7 +85,7 @@ Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt i
 
 <br>
 
->Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van iedere webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
+>Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
 > <br>
 > <br>
 ><img src="./images/wireframe-basisstructuur.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
