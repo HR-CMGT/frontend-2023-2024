@@ -68,7 +68,9 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 ## Opdracht 1 - Semantische HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+<br>
+Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud, maar op de code.
 
 >⚠️⚠️⚠️ **@TODO** Breidt het ontwerp uit, zodat ook de basisstructuur (nav, header, main, footer) erin moet. ⚠️⚠️⚠️
 
@@ -95,7 +97,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 2 - Basis CSS
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
 
@@ -140,7 +142,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Structuur aanbrengen met CSS
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 > Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
 gebruikt in de HTML.
 
@@ -163,11 +165,11 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
->⚠️⚠️⚠️ Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
+>⚠️⚠️⚠️ **@TODO** Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
 
 ## Opdracht 4 - Formulier
 
-Bouw het formulier in volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het formulier in volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
 
