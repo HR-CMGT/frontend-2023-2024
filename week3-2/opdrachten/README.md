@@ -126,3 +126,7 @@ Je hebt hier het volgende voor nodig:
 | label | **BONUS:** border-radius | #FFFFFF           |
 | h2    |                          |                   |
 | p     |                          |                   |
+
+<br><hr><br>
+
+[Terug naar hoofdpagina](..)

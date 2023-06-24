@@ -5,3 +5,6 @@
 | 1     | ❌ A. In dit voorbeeld wordt <div> puur gebruikt voor de styling van de pagina, dus dat mag. Het staat namelijk al netjes in een <section> die de introductie van de pagina representeert.<br><br>✅ B. Deze sectie van de pagina staat al netjes in een`<section>`, dus daarbinnen mag je`<div>` gebruiken als het puur voor de styling nodig is en geen inhoudelijke waarde heeft.                                                               |
 | 2     | ❌ A. De `<nav>` mag zowel in als buiten de `<header>` staan. <br><br>✅ B. Omdat de `<div>` in dit geval een nieuwe sectie aanduidt, moet het een `<section>` zijn.<br><br>❌ C. De `<h1>` hoeft niet in de `<header>` te staan, maar moet wel hiërarchisch gebruikt worden met de andere headings.<br><br>❌ D. Je kan op iedere HTML-tag een id instellen.<br><br>✅ E. De hoofdcontent van de pagina moet altijd in de `<main>` worden geplaatst. |
 
+<br><hr><br>
+
+[Terug naar hoofdpagina](../..)
