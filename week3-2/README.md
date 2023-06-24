@@ -70,7 +70,7 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
-> **@TODO** Breidt het ontwerp uit, zodat ook de basisstructuur (nav, header, main, footer) erin moet.
+>⚠️⚠️⚠️ **@TODO** Breidt het ontwerp uit, zodat ook de basisstructuur (nav, header, main, footer) erin moet. ⚠️⚠️⚠️
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
 
@@ -103,15 +103,17 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 ### Kleuren bepalen
 
-Elementen hebben een voorgrond (tekst) en achtergrondkleur. Deze kan je op verschillende manieren bepalen
+Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
 
 ```css
-div {
+section {
+    /* Tekstkleur bepalen */
     color: aliceblue;                               /* Kleur naam */
     color: #FFFFFF;                                 /* Hexadecimale kleur */
     color: rgb(255, 255, 255);                      /* RGB kleur */
     color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
 
+    /* Achtergrond bepalen */
     background-color: darkblue;                     /* Kleur naam */
     background-color: #FFFFFF;                      /* Hexadecimale kleur */
     background-color: rgb(255, 255, 255);           /* RGB kleur */
@@ -126,12 +128,13 @@ Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
 | ---- | ---------------------- | ----------------- |
-| -    | Selecting o.b.v. tag   | #B0DCFF           |
-|      | Selecting o.b.v. class | #000000           |
+| -    | Selectors o.b.v. tag   | #B0DCFF           |
+|      | Selectors o.b.v. class | #000000           |
 |      | font-family            |                   |
 |      | color                  |                   |
 |      | background-color       |                   |
 |      | text-align             |                   |
+|      | border                 |                   |
 
 <br><hr><br>
 
@@ -159,6 +162,8 @@ Je hebt hier het volgende voor nodig:
 <img src="./resources/arceus.png" alt="Arceus" title="Arceus" width="150">
 
 <br><hr><br>
+
+>⚠️⚠️⚠️ Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
 
 ## Opdracht 4 - Formulier
 
