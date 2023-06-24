@@ -127,6 +127,6 @@ Je hebt hier het volgende voor nodig:
 | h2    |                          |                   |
 | p     |                          |                   |
 
-<br><hr><br>
+<br><hr>
 
 [Terug naar hoofdpagina](..)

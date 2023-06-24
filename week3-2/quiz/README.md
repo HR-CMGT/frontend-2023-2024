@@ -62,6 +62,6 @@ D. De id moet ingesteld staan op de `<h1>` in plaats van de `<div>`
 <br>
 E. De `<section>` op regel 7 moet in een `<main>` worden geplaatst.
 
-<br><hr><br>
+<br><hr>
 
 [Terug naar hoofdpagina](..)

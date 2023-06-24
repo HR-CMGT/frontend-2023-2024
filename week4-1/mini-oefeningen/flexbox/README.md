@@ -82,6 +82,6 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
 
 <img src="./images/Mini-oefening6.png" alt="Mini-oefening 6" title="Mini-oefening 6" width="800">
 
-<br><hr><br>
+<br><hr>
 
 [Terug naar hoofdpagina](../..)
