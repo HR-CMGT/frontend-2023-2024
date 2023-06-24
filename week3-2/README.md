@@ -78,6 +78,13 @@ Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt i
 
 <br>
 
+>Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van iedere webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
+> <br>
+> <br>
+><img src="./images/wireframe-basisstructuur.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+
+<br>
+
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
@@ -109,6 +116,7 @@ Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschil
 
 ```css
 section {
+
     /* Tekstkleur bepalen */
     color: aliceblue;                               /* Kleur naam */
     color: #FFFFFF;                                 /* Hexadecimale kleur */
