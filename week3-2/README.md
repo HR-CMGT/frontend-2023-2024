@@ -97,7 +97,7 @@ Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt i
 >Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
 > <br>
 > <br>
-><img src="./images/wireframe-basisstructuur.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+><img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
 
 <br>
 

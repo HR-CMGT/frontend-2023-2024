@@ -87,23 +87,20 @@ Het project is gereed en je bent klaar om te beginnen met programmeren! Om de do
 
 <br><hr><br>
 
-> ⚠️ Opdracht 2 t/m 5 maak in de bestanden de je bij `opdracht 1d` hebt gemaakt.
+> ⚠️ Opdracht 2 t/m 5 maak je in de bestanden de je bij `opdracht 1d` hebt gemaakt.
 
 <br>
 
 ## Opdracht 2 - HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+<br>
+In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
 
 <br>
 
-> ### Dummy text
-> 
-> Bij het maken van je website kan het nodig zijn om alvast **dummy tekst** te plaatsen, om te zien of je layout goed werkt. Je kan hier [lorum ipsum tekst](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") of [ChatGPT](https://chat.openai.com) voor gebruiken.
-
-<br>
 
 Je hebt hier het volgende voor nodig:
 
@@ -112,6 +109,12 @@ Je hebt hier het volgende voor nodig:
 | h1   | -   | -                 |
 | h2   |     |                   |
 | p    |     |                   |
+
+<br>
+
+> ### Dummy text
+> 
+> Bij het maken van je website kan het nodig zijn om alvast **dummy tekst** te plaatsen, om te zien of je layout goed werkt. Je kan hier [lorum ipsum tekst](https://www.google.nl/search?q=lorum+ipsum "Google op lorum ipsum") of [ChatGPT](https://chat.openai.com) voor gebruiken.
 
 <br>
 
@@ -125,7 +128,9 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Basisstructuur HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+<br>
+Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen. In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
 
@@ -148,14 +153,17 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 3**
 
-1. [HTML cheatsheet](./images/HTML-cheatsheet.png  )
-2. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
+1. [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
+2. [HTML cheatsheet](./images/HTML-cheatsheet.png  )
+3. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
 
 ## Opdracht 4 - CSS
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten):
+Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+<br>
+De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor deze opdracht.
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
 
@@ -189,7 +197,7 @@ Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen waa
 
 1. Maak in de map `week3-les1` een nieuwe map aan met de naam `images`;
 2. Plaats in deze nieuwe map jouw afbeelding(en);
-3. Voer tot slot de afbeelding in de HTML in met de volgende code (vervang de placeholders):
+3. Voer tot slot de afbeelding(en) in de HTML in met de volgende code (vervang de placeholders):
 
 ```html
 <img src="images/[NAAM_EN_EXTENSIE_BESTAND]" alt="[ALTERNATIEVE_TEKST]">
