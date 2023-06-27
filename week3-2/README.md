@@ -148,8 +148,7 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 <br>
 
-><br>
->
+
 >### Kleuren bepalen
 >
 >Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
@@ -170,7 +169,6 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 >    background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met >transparantie */
 >}
 >```
-><br>
 
 <br><hr><br>
 
