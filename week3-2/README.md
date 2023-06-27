@@ -8,15 +8,14 @@
 - [Inhoud](#inhoud)
   - [Semantiek](#semantiek)
   - [Werken met de inspector](#werken-met-de-inspector)
+    - [Opdracht inspector](#opdracht-inspector)
   - [Relatieve units](#relatieve-units)
 - [Quiz over semantische HTML](#quiz-over-semantische-html)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
-- [Hoofdopdracht](#hoofdopdracht)
+- [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
-  - [Opdracht 2 - Basis CSS](#opdracht-2---basis-css)
-    - [Kleuren bepalen](#kleuren-bepalen)
-  - [Opdracht 3 - Structuur aanbrengen met CSS](#opdracht-3---structuur-aanbrengen-met-css)
-  - [Opdracht 4 - Formulier](#opdracht-4---formulier)
+  - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
+  - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
 <!-- TOC -->
 
 <br><hr><br>
@@ -58,6 +57,16 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 
 <img src="./images/designing.png" alt="Inspector" title="Inspector" width="800">
 
+<br>
+
+### Opdracht inspector
+Nu je weet hoe je de inspector opent, wordt het tijd om deze te gaan gebruiken. Ga naar een website die jij vaak bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de inspector en voer de volgende opdrachten daarin uit:
+
+1. Pas van minimaal 3 teksten de kleur aan;
+2. Pas van minimaal 3 teksten het lettertype aan;
+3. Pas van minimaal 3 elementen de achtergrondkleur aan;
+4. Pas de achtergrondkleur van de gehele webpagina aan;
+
 <br><hr><br>
 
 ## Relatieve units
@@ -80,21 +89,21 @@ AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste sti
 <br><hr><br><br><br><br><br>
 
 
-# Hoofdopdracht
+# Opdracht: Top 3
 
 ## Opdracht 1 - Semantische HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Maak in het project waar jij de lesopdrachten in maakt eerst een nieuwe map aan met de naam `top3` (zonder spaties).
+<br>
+Bouw vervolgens het volgende ontwerp na (klik op de afbeelding om te vergroten).
 <br>
 Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud, maar op de code.
-
->⚠️⚠️⚠️ **@TODO** Breidt het ontwerp uit, zodat ook de basisstructuur (nav, header, main, footer) erin moet. ⚠️⚠️⚠️
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
 
 <br>
 
->Denk nog even terug aan de wireframe die je gezien hebt bij de studiekeuzecheck, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig.
+>Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig, de rest wel.
 > <br>
 > <br>
 ><img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
@@ -108,7 +117,6 @@ Je hebt hier het volgende voor nodig:
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
-| nav     |     |                   |
 | section |     |                   |
 | h1      |     |                   |
 | h2      |     |                   |
@@ -118,57 +126,57 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 2 - Basis CSS
+## Opdracht 2 - CSS: teksten en kleuren
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
+  
+  <br>
+  
+  Je hebt hier het volgende voor nodig:
+  
+  | HTML | CSS                    | Gebruikte kleuren |
+  | ---- | ---------------------- | ----------------- |
+  | -    | Selectors o.b.v. tag   | #B0DCFF           |
+  |      | Selectors o.b.v. class | #000000           |
+  |      | font-family            |                   |
+  |      | color                  |                   |
+  |      | background-color       |                   |
+  |      | text-align             |                   |
+  |      | border                 |                   |
 
 <br>
 
-### Kleuren bepalen
-
-Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
-
-```css
-section {
-
-    /* Tekstkleur bepalen */
-    color: aliceblue;                               /* Kleur naam */
-    color: #FFFFFF;                                 /* Hexadecimale kleur */
-    color: rgb(255, 255, 255);                      /* RGB kleur */
-    color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
-
-    /* Achtergrond bepalen */
-    background-color: darkblue;                     /* Kleur naam */
-    background-color: #FFFFFF;                      /* Hexadecimale kleur */
-    background-color: rgb(255, 255, 255);           /* RGB kleur */
-    background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met transparantie */
-}
-```
-
-
-<br>
-
-Je hebt hier het volgende voor nodig:
-
-| HTML | CSS                    | Gebruikte kleuren |
-| ---- | ---------------------- | ----------------- |
-| -    | Selectors o.b.v. tag   | #B0DCFF           |
-|      | Selectors o.b.v. class | #000000           |
-|      | font-family            |                   |
-|      | color                  |                   |
-|      | background-color       |                   |
-|      | text-align             |                   |
-|      | border                 |                   |
+><br>
+>
+>### Kleuren bepalen
+>
+>Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
+>
+>```css
+>section {
+>
+>    /* Tekstkleur bepalen */
+>    color: aliceblue;                               /* Kleur naam */
+>    color: #FFFFFF;                                 /* Hexadecimale kleur */
+>    color: rgb(255, 255, 255);                      /* RGB kleur */
+>    color: rgba(255, 255, 255, 0.5);                /* RGB kleur met transparantie */
+>
+>    /* Achtergrond bepalen */
+>    background-color: darkblue;                     /* Kleur naam */
+>    background-color: #FFFFFF;                      /* Hexadecimale kleur */
+>    background-color: rgb(255, 255, 255);           /* RGB kleur */
+>    background-color: rgba(255, 255, 255, 0.5);     /* RGB kleur met >transparantie */
+>}
+>```
+><br>
 
 <br><hr><br>
 
-## Opdracht 3 - Structuur aanbrengen met CSS
+## Opdracht 3 - CSS: padding & margin
 
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
-> Zorg ervoor dat je de afbeeldingen eerst in jouw project zet en die vervolgens
-gebruikt in de HTML.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
 
@@ -176,39 +184,8 @@ gebruikt in de HTML.
 
 Je hebt hier het volgende voor nodig:
 
-| HTML | CSS | Gebruikte kleuren |
-| ---- | --- | ----------------- |
-| img  | -   | -                 |
+| HTML | CSS     | Gebruikte kleuren |
+| ---- | ------- | ----------------- |
+| -    | padding | -                 |
+|      | margin  |                   |
 
-
-**Download de volgende afbeeldingen en plaats in jouw project**
-<br>
-<img src="./resources/pikachu.png" alt="Pikachu" title="Pikachu" width="150">
-<img src="./resources/mewtwo.png" alt="Mewtwo" title="Mewtwo" width="150">
-<img src="./resources/arceus.png" alt="Arceus" title="Arceus" width="150">
-
-<br><hr><br>
-
->⚠️⚠️⚠️ **@TODO** Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
-
-## Opdracht 4 - Formulier
-
-Bouw het formulier in volgende ontwerp na (klik op de afbeelding om te vergroten).
-
-<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
-
-<br>
-
-Je hebt hier het volgende voor nodig:
-
-| HTML  | CSS                      | Gebruikte kleuren |
-| ----- | ------------------------ | ----------------- |
-| form  | width                    | #A0ABC0           |
-| input | background-color         | #2D3648           |
-| label | **BONUS:** border-radius | #FFFFFF           |
-| h2    |                          |                   |
-| p     |                          |                   |
-
-<br><hr>
-
-[Terug naar hoofdpagina](..)

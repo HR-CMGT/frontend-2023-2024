@@ -37,7 +37,7 @@ Om te kunnen beginnen met programmeren heb je een app nodig waarin dit kan, ook 
 
 
 ### Opdracht 1b - Extensie Live Server installeren
-Om de door jou geschreven code te testen in de browser heb je een extensie nodig die dit mogelijk maakt, genaamd `Live Server`. Hiermee worden wijzigingen die je in de code maakt direct zichtbaar in de browser. In deze opdracht ga je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij `Opdracht 1d`.
+Om de door jou geschreven code te testen in de browser heb je een extensie nodig die dit mogelijk maakt, genaamd `Live Server`. Hiermee worden wijzigingen die je in de code maakt direct zichtbaar in de browser. In deze opdracht ga je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css).
 
 1. Wanneer Visual Studio Code geopend is, klik je links op `Extensions` (het icoontje met vier blokjes);
 2. Voer `Live Server` in de zoekbalk in en installeer de extensie (het is degene gemaakt door Ritwick Dey);
@@ -50,7 +50,7 @@ Om de door jou geschreven code te testen in de browser heb je een extensie nodig
 
 ### Opdracht 1c - Eerste project aanmaken
 
-Voor ieder project waaraan je werkt maak je een nieuw project aan in Visual Studio Code. Je gaat nu jouw eerste project aanmaken. Dit project kan je gedurende het vak gebruiken om de lesopdrachten te maken. Voor de eindopdracht maak je (op een later moment) weer een nieuw project aan.
+Voor ieder project waaraan je werkt maak je een nieuw project aan in Visual Studio Code. Je gaat nu jouw eerste project aanmaken. Dit project kan je gedurende het vak gebruiken om de lesopdrachten te maken. Voor de eindopdracht van dit vak maak je (op een later moment) weer een nieuw project aan.
 
 1. Het aanmaken van een nieuw project is zo simpel als het aanmaken van een nieuwe map. Klik links boven op `File -> Open Folder...`;
 2. Ga naar de map waar je dit project wilt neerzetten en maak daar een nieuwe map aan met de gewenste naam, bijvoorbeeld `frontend-development` (de naam mag geen spaties bevatten). Klik vervolgens op `Open` of `Map selecteren`;
@@ -60,9 +60,9 @@ Voor ieder project waaraan je werkt maak je een nieuw project aan in Visual Stud
 <br><br>
 
 ### Opdracht 1d - Bestandsstructuur HTML en CSS
-Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga je in deze opdracht aanmaken. Aangezien je per les weer nieuwe opdrachten krijgt, heb je per les een nieuwe map nodig, met daarin dezelfde bestandsstructuur, dus je gaat nu als eerst een map voor de les van vandaag maken. De benodigde knoppen voor deze opdracht vind je aan de linkerzijde, rechts van de projectnaam.
+Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga je in deze opdracht aanmaken. Allereerst is het goed om te weten dat je door de lessen heen een aantal hoofdopdrachten maakt. Iedere hoofdopdracht maak je in een eigen map, met daarin weer diezelfde bestandsstructuur die je in deze opdracht gaat maken. Je gaat nu dus eerst een map voor de les van vandaag maken. Zorg ervoor dat links de `Explorer` geopend is (icoontje met de twee A4'tjes). De benodigde knoppen om deze opdracht uit te voeren vind je aan de linkerzijde, rechts van de projectnaam.
 
-1. Maak een map aan met de naam `week3-les1` (zonder spaties);
+1. Maak een map aan met de naam `les1` (zonder spaties);
 2. Maak in deze nieuwe map een bestand aan met de naam `index.html` en zet de basis-HTML neer door een `!` te typen en op de tab-toets te drukken;
 3. Maak een map aan met de naam `css` en maak hierin een bestand aan met de naam `style.css`;
 4. Koppel het CSS-bestand aan het HTML-bestand door de volgende regel aan de `<head>` in de `index.html` toe te voegen:
@@ -78,7 +78,7 @@ Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` 
 <br><br>
 
 ### Opdracht 1e - Code testen
-Het project is gereed en je bent klaar om te beginnen met programmeren! Om de door jou geschreven code te testen heb je de extensie `Live Server` nodig (geïnstalleerd in `Opdracht 1b`). Met de volgende stappen leer je hoe je deze extensie gebruikt.
+Het project is gereed en je bent klaar om te beginnen met programmeren! Om de door jou geschreven code te testen heb je de extensie `Live Server` nodig (geïnstalleerd in [opdracht 1b](#opdracht-1b---extensie-live-server-installeren)). Met de volgende stappen leer je hoe je deze extensie gebruikt.
 
 1. Plaats eerst content in de `<body>`, bijvoorbeeld: `<h1>Hallo Wereld</h1>`
 2. Klik met de rechter muistoets op `index.html` in de linker zijbalk en vervolgens op `Open with Live Server`.
@@ -87,7 +87,7 @@ Het project is gereed en je bent klaar om te beginnen met programmeren! Om de do
 
 <br><hr><br>
 
-> ⚠️ Opdracht 2 t/m 5 maak je in de bestanden de je bij `opdracht 1d` hebt gemaakt.
+> ⚠️ Opdracht 2 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css) hebt gemaakt.
 
 <br>
 
@@ -184,7 +184,7 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 4**
 
-1. [CSS cheatsheet](./images/CSS-cheatsheet.png  )
+1. [CSS cheatsheet](./images/CSS-cheatsheet.png)
 2. [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 
