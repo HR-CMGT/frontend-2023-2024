@@ -78,7 +78,7 @@ past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus ont
 Wanneer mag je een tag dan wel gebruiken? Wanneer het de type content representeert die het moet zijn. Is het de
 hoofdtitel? Dan gebruik je `<h1>`. Is het de titel daaronder? Dan gebruik je `<h2>`, etc.
 <br><br>
-De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlijk die ze krijgen:
+De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlijk die ze krijgen, maar gebruik ze dus alleen voor de inhoudelijke waarde die het heeft.
 
 | Tag        | Omschrijving                                                                                                                                                                                                                              | Voorbeeld in HTML                                                                                                                       | Eindresultaat                                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
