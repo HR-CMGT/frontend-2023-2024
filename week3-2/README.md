@@ -4,9 +4,13 @@
 
 **Inhoudsopgave**
 <!-- TOC -->
+
 - [Week 3 les 2](#week-3-les-2)
 - [Inhoud](#inhoud)
-  - [Semantiek](#semantiek)
+  - [Semantische tags](#semantische-tags)
+    - [Waarom semantische tags?](#waarom-semantische-tags)
+    - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+    - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
   - [Werken met de inspector](#werken-met-de-inspector)
     - [Opdracht inspector](#opdracht-inspector)
   - [Relatieve units](#relatieve-units)
@@ -16,51 +20,93 @@
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
   - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
+
 <!-- TOC -->
 
 <br><hr><br>
 
 # Inhoud
 
-## Semantiek
-AANTEKENING: Je mag HTML ***nooit*** gebruiken om een element in de gewenste stijl te krijgen. Dit doe je altijd met CSS. Dus niet `<strong>` gebruiken, omdat het dan dikgedrukt wordt, gebruik het vanwege de semantische betekenis.
+## Semantische tags
+
+Er zijn in totaal meer dan 100 HTML-tags en slechts twee ervan zijn **niet** semantisch: `<div>` en `<span>`. Ze zeggen
+namelijk niets over de soort inhoud die erin staat. Je mag ze dan ook alleen gebruiken wanneer je het puur nodig hebt
+voor de styling van je pagina en er geen semantisch alternatief is.
 
 <br>
 
-**Veelgebruikte semantische tags voor structuur**
-| Tag     | Omschrijving                                                                            |
-| ------- | --------------------------------------------------------------------------------------- |
-| header  | De header (bovenkant) van de pagina.                                                    |
-| main    | De hoofdinhoud van de pagina.                                                           |
-| footer  | De footer (onderkant) van de pagina.                                                    |
-| nav     | Bevat de navigatie van de website.                                                      |
-| section | Is om één sectie van de pagina aan te duiden.                                           |
-| article | Is voor onafhankelijke, op zichzelf staande inhoud, zoals nieuwsberichten en blogposts. |
+### Waarom semantische tags?
+
+Er zijn drie belangrijke redenen waarom je gebruik moet maken van semantische tags:
+
+1. Toegankelijkheid: screenreaders kunnen zo de webpagina beter interpreteren, waardoor slechtzienden een betere
+   ervaring hebben op jouw webpagina;
+2. SEO: dit staat voor Search Engine Optimization, oftewel zo goed mogelijk gevonden worden door zoekmachines, zoals
+   Google;
+3. Leesbaarheid voor developers.
 
 <br>
 
-**Veelgebruikte semantische tags voor content**
-| Tag    | Omschrijving                                                                           | Voorbeeld in HTML                                                                                                         | Eindresultaat                                                                                   |
-| ------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| strong | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.        | `<p>`Before entering, he read the warning at the entrance: `<strong>`Caution! Fire-breathing dragon ahead.`</strong></p>` | Before entering, he read the warning at the entrance: **Caution! Fire-breathing dragon ahead.** |
-| em     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. | `<p>`This will be `<em>`very`</em>` dangerous.`</p>`                                                                      | This will be *very* dangerous.                                                                  |
+### Semantische tags voor structuur
 
+Hieronder volgt een lijstje met semantische tags die je gebruikt om structuur aan de pagina te geven. Dit zijn niet alle
+tags, maar wel de veel voorkomende.
+
+| Tag         | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<header>`  | Definieert inhoud die moet worden beschouwd als de inleidende informatie van een pagina of sectie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| `<nav>`     | Wordt gebruikt voor navigatielinks, oftewel het menu. Het kan worden geplaatst binnen de `<header>`, maar mag ook daarbuiten worden geplaatst. Nagenoeg iedere webpagina heeft een hoofdmenu, maar soms heb je ook een secundair menu, bijvoorbeeld in de `<footer>`                                                                                                                                                                                                                                                                                                             |
+| `<main>`    | Bevat de hoofdinhoud van een pagina. Hiervan mag er slechts één tag per pagina zijn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| `<footer>`  | Je gebruikt `<footer>` altijd onderaan een pagina. Het is de afsluiter van de pagina en bevat meestal contactgegevens, copyrightinformatie en wat sitenavigatie.                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| `<section>` | Je gebruikt `<section>` om een webpagina op te splitsen in afzonderlijke secties met gerelateerde inhoud. Dus stel, je hebt een webpagina die gaat over jouw ervaring met een game, dan zou een sectie kunnen gaan over de graphics en een andere over de gameplay; twee verschillende onderwerpen, maar gerelateerd aan elkaar, omdat het over dezelfde game gaat.                                                                                                                                                                                                              |
+| `<article>` | In tegenstelling tot `<section>` gebruik je `<article>` om een op zichzelf staand stukje content weer te geven, die juist ***niet*** gerelateerd is aan het hoofdonderwerp. Het is bedoeld om onafhankelijk verspreid te kunnen worden door de website of herbruikbaar te zijn. Voorbeelden hiervan zijn: een forumbericht, een tijdschrift- of krantenartikel, of een blogbericht, een productkaart, een door een gebruiker ingediende opmerking, een interactieve widget of gadget, of enig ander onafhankelijk inhoudsitem.                                                   |
+| `<aside>`   | Wordt gebruikt om content weer te geven die indirect gerelateerd is aan de hoofdinhoud van de `<section>` of `<article>`waarin die geplaatst is. Ook kan die daarbuiten worden geplaatst, bijvoorbeeld direct in de `<body>`, dan moet de content gerelateerd zijn aan de website zelf, bijvoorbeeld tweets van de auteur, aanvullende navigatie, laatste blogberichten, laatste opmerkingen, etc. Een `<aside>` wordt vaak weergegeven als zijbalk, maar dit zal handmatig moeten worden bereikt met CSS. [Lees meer](https://aastudio.fr/Sidebar-and-Aside-are-different.html) |
+
+> ⚠️ Let op: de tag `<div>` is dus ***niet*** semantisch. Je mag hem wel gebruiken binnen semantische tags
+> als `<section>`, maar niet ter vervanging ervan.
+
+<br>
+
+### Valkuil van semantische tags
+
+De grote valkuil van het gebruiken van semantische tags, is dat je ze gebruikt voor het uiterlijk dat ze standaard
+hebben. Zo is een `<h1>` standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die het meest
+past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus onthoudt:
+
+> ⚠️ Je mag een tag *nooit* gebruiken, vanwege het standaard uiterlijk. ***Nooit!***
+
+Wanneer mag je een tag dan wel gebruiken? Wanneer het de type content representeert die het moet zijn. Is het de
+hoofdtitel? Dan gebruik je `<h1>`. Is het de titel daaronder? Dan gebruik je `<h2>`, etc.
+<br><br>
+De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlijk die ze krijgen:
+
+| Tag        | Omschrijving                                                                                                                                                                                                                              | Voorbeeld in HTML                                                                                                                       | Eindresultaat                                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
+| `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
 <br><hr><br>
 
 ## Werken met de inspector
 
-- Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens op **Inspecteren**;
-  - Ook is de inspector te openen met de sneltoets ⌥⌘i op Mac en F12 op Windows;
-- Van het geselecteerde element zie je ook alle bijbehorende CSS staan. Deze CSS is in de inspector aan te passen en dit is dan direct zichtbaar in de browser. Zo kan je spelen met de waardes en real-time wijzingen zien om het ontwerp te bepalen. Dit noemen we `Designing in the browser`;
-  -  **Let op:** wanneer je CSS in de inspector wijzigt, verandert het ***niet*** in de bestanden in Visual Studio Code. Dit moet je handmatig wijzigen;
+- Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens
+  op **Inspecteren**;
+    - Ook is de inspector te openen met de sneltoets ⌥⌘i op Mac en F12 op Windows;
+- Van het geselecteerde element zie je ook alle bijbehorende CSS staan. Deze CSS is in de inspector aan te passen en dit
+  is dan direct zichtbaar in de browser. Zo kan je spelen met de waardes en real-time wijzingen zien om het ontwerp te
+  bepalen. Dit noemen we `Designing in the browser`;
+    - **Let op:** wanneer je CSS in de inspector wijzigt, verandert het ***niet*** in de bestanden in Visual Studio
+      Code. Dit moet je handmatig wijzigen;
 
 <img src="./images/designing.png" alt="Inspector" title="Inspector" width="800">
 
 <br>
 
 ### Opdracht inspector
-Nu je weet hoe je de inspector opent, wordt het tijd om deze te gaan gebruiken. Ga naar een website die jij vaak bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de inspector en voer de volgende opdrachten daarin uit:
+
+Nu je weet hoe je de inspector opent, wordt het tijd om deze te gaan gebruiken. Ga naar een website die jij vaak
+bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de
+inspector en voer de volgende opdrachten daarin uit:
 
 1. Pas van minimaal 3 teksten de kleur aan;
 2. Pas van minimaal 3 teksten het lettertype aan;
@@ -76,18 +122,16 @@ Nu je weet hoe je de inspector opent, wordt het tijd om deze te gaan gebruiken. 
 <br><hr><br><br><br><br><br>
 
 # Quiz over semantische HTML
+
 [Klik hier om de quiz over semantische HTML te doen](./quiz/)
 
 <br><hr><br><br><br><br><br>
-
 
 # Mini-oefeningen - Padding & margin
 
 [Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
 
-
 <br><hr><br><br><br><br><br>
-
 
 # Opdracht: Top 3
 
@@ -97,16 +141,18 @@ Maak in het project waar jij de lesopdrachten in maakt eerst een nieuwe map aan 
 <br>
 Bouw vervolgens het volgende ontwerp na (klik op de afbeelding om te vergroten).
 <br>
-Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud, maar op de code.
+Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud,
+maar op de code.
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
 
 <br>
 
->Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig, de rest wel.
+> Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een
+> webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig, de rest wel.
 > <br>
 > <br>
-><img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+> <img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
 
 <br>
 
@@ -123,7 +169,6 @@ Je hebt hier het volgende voor nodig:
 | p       |     |                   |
 | a       |     |                   |
 
-
 <br><hr><br>
 
 ## Opdracht 2 - CSS: teksten en kleuren
@@ -131,25 +176,25 @@ Je hebt hier het volgende voor nodig:
 Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
-  
+
   <br>
-  
-  Je hebt hier het volgende voor nodig:
-  
-  | HTML | CSS                    | Gebruikte kleuren |
-  | ---- | ---------------------- | ----------------- |
-  | -    | Selectors o.b.v. tag   | #B0DCFF           |
-  |      | Selectors o.b.v. class | #000000           |
-  |      | font-family            |                   |
-  |      | color                  |                   |
-  |      | background-color       |                   |
-  |      | text-align             |                   |
-  |      | border                 |                   |
+
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS                    | Gebruikte kleuren |
+| ---- | ---------------------- | ----------------- |
+| -    | Selectors o.b.v. tag   | #B0DCFF           |
+|      | Selectors o.b.v. class | #000000           |
+|      | font-family (Arial)    |                   |
+|      | font-size              |                   |
+|      | color                  |                   |
+|      | background-color       |                   |
+|      | border                 |                   |
 
 <br>
 
 
->### Kleuren bepalen
+> ### Kleuren bepalen
 >
 >Elementen hebben een tekstkleur en een achtergrondkleur. Deze kan je op verschillende manieren bepalen:
 >
@@ -182,8 +227,9 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 
 Je hebt hier het volgende voor nodig:
 
-| HTML | CSS     | Gebruikte kleuren |
-| ---- | ------- | ----------------- |
-| -    | padding | -                 |
-|      | margin  |                   |
+| HTML | CSS        | Gebruikte kleuren |
+| ---- | ---------- | ----------------- |
+| -    | padding    | -                 |
+|      | margin     |                   |
+|      | text-align |                   |
 
