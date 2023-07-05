@@ -10,6 +10,6 @@
 |   | Donderdag | [Wireframe oefening](./week4-2) en [inleveropdracht](https://www.feedbackfruits.com)          |  
 | 5  | Dinsdag | [Responsive, werken met afbeeldingen](./week5-1)                           |                                                           
 |    | Donderdag | [position, animation, transition](./week5-2)                          |                                                           
-| 6  | Dinsdag | [forms advanced, werken aan eindopdracht](./week6-1)                                              |                                                          
+| 6  | Dinsdag | [forms advanced](./week6-1), werken aan eindopdracht                                              |                                                          
 |    | Donderdag | Werken aan eindopdracht                                             |    
 | 7  | Dinsdag | [Deadline eindopdracht](https://www.feedbackfruits.com)                                             | 
