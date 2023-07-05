@@ -4,7 +4,6 @@
 
 - [Responsive design](#responsive-design)
 - [Afbeeldingen](#afbeeldingen)
-- [Forms](#forms)
 
 <br><Br><br>
 
@@ -28,15 +27,7 @@
 - Lazy loading
 
 <br><Br><br>
-
-## Forms
-
-- Form labels naast of onder het invoerveld
-- Advanced field types
-- Feedback geven met CSS
-
-<br><Br><br>
-  
+ 
 ## Links
   
 - [Guide to responsive images](https://elad.medium.com/a-complete-guide-for-responsive-images-b13db359c6c7)
