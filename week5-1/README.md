@@ -2,10 +2,13 @@
 
 > *“A Pixel is Not a Pixel”*
 
-- [Responsive design](#responsive-design)
-- [Afbeeldingen](#afbeeldingen)
+- [Week 5 les 1](#week-5-les-1)
+  - [Responsive design](#responsive-design)
+  - [Afbeeldingen](#afbeeldingen)
+  - [Relatieve units](#relatieve-units)
+  - [Links](#links)
 
-<br><Br><br>
+<br><br><br>
 
 ## Responsive design
 
@@ -14,7 +17,7 @@
 - Media queries
 - Flex row naar flex column
 
-<br><Br><br>
+<br><br><br>
 
 ## Afbeeldingen
 
@@ -26,7 +29,14 @@
 - Werken met `picture`
 - Lazy loading
 
-<br><Br><br>
+<br><hr><br>
+
+## Relatieve units
+
+⚠️⚠️⚠️ **@TODO** maak cheatsheet over relatieve units ⚠️⚠️⚠️
+
+
+<br><br><br>
  
 ## Links
   

@@ -13,7 +13,6 @@
     - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
   - [Werken met de inspector](#werken-met-de-inspector)
     - [Opdracht inspector](#opdracht-inspector)
-  - [Relatieve units](#relatieve-units)
 - [Quiz over semantische HTML](#quiz-over-semantische-html)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
@@ -70,7 +69,7 @@ tags, maar wel de veel voorkomende.
 ### Valkuil van semantische tags
 
 De grote valkuil van het gebruiken van semantische tags, is dat je ze gebruikt voor het uiterlijk dat ze standaard
-hebben. Zo is een `<h1>` standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die het meest
+hebben. Zo is een `<h1>` bijvoorbeeld standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die het meest
 past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus onthoudt:
 
 > ⚠️ Je mag een tag *nooit* gebruiken, vanwege het standaard uiterlijk. ***Nooit!***
@@ -90,7 +89,7 @@ De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlij
 ## Werken met de inspector
 
 - Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens
-  op **Inspecteren**;
+  op **Inspecteren** te klikken;
     - Ook is de inspector te openen met de sneltoets ⌥⌘i op Mac en F12 op Windows;
 - Van het geselecteerde element zie je ook alle bijbehorende CSS staan. Deze CSS is in de inspector aan te passen en dit
   is dan direct zichtbaar in de browser. Zo kan je spelen met de waardes en real-time wijzingen zien om het ontwerp te
@@ -112,12 +111,6 @@ inspector en voer de volgende opdrachten daarin uit:
 2. Pas van minimaal 3 teksten het lettertype aan;
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
-
-<br><hr><br>
-
-## Relatieve units
-
-⚠️⚠️⚠️ **@TODO** maak cheatsheet over relatieve units ⚠️⚠️⚠️
 
 <br><hr><br><br><br><br><br>
 

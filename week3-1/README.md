@@ -5,7 +5,7 @@
 **Inhoudsopgave**
 <!-- TOC -->
 - [Week 3 - Les 1](#week-3---les-1)
-  - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
+  - [Opdracht 1 - Werkomgeving gereed makenddd](#opdracht-1---werkomgeving-gereed-makenddd)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
     - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
     - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
