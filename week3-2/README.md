@@ -7,18 +7,18 @@
 
 - [Week 3 les 2](#week-3-les-2)
 - [Inhoud](#inhoud)
-  - [Semantische tags](#semantische-tags)
-    - [Waarom semantische tags?](#waarom-semantische-tags)
-    - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
-    - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
-  - [Werken met de inspector](#werken-met-de-inspector)
-    - [Opdracht inspector](#opdracht-inspector)
+    - [Semantische tags](#semantische-tags)
+        - [Waarom semantische tags?](#waarom-semantische-tags)
+        - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+        - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
+    - [Werken met de inspector](#werken-met-de-inspector)
+        - [Opdracht inspector](#opdracht-inspector)
 - [Quiz over semantische HTML](#quiz-over-semantische-html)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
-  - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
-  - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
-  - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
+    - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
+    - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
+    - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
 
 <!-- TOC -->
 
@@ -132,22 +132,16 @@ inspector en voer de volgende opdrachten daarin uit:
 
 ## Opdracht 1 - Semantische HTML
 
-Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd in [opdracht 1d van vorige les.](../week3-1/#opdracht-1d---bestandsstructuur-html-en-css).
-<br>
+Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak
+hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd
+in [opdracht 1d van vorige les](../week3-1/#opdracht-1d---bestandsstructuur-html-en-css).
+<br><br>
 Bouw vervolgens het volgende ontwerp na (klik op de afbeelding om te vergroten).
 <br>
 Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud,
 maar op de code.
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
-
-<br>
-
-> Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een
-> webpagina.
-> <br>
-> <br>
-> <img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
 
 <br>
 
@@ -165,6 +159,14 @@ Je hebt hier het volgende voor nodig:
 | p       |     |                   |
 | a       |     |                   |
 
+<br>
+
+> Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een
+> webpagina.
+> <br>
+> <br>
+> <img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+
 <br><hr><br>
 
 ## Opdracht 2 - CSS: teksten en kleuren
@@ -180,8 +182,8 @@ Je hebt hier het volgende voor nodig:
 | HTML | CSS                    | Gebruikte kleuren |
 |------|------------------------|-------------------|
 | -    | Selectors o.b.v. tag   | #B0DCFF           |
-|      | Selectors o.b.v. class | #000000           |
-|      | font-family (Arial)    |                   |
+|      | Selectors o.b.v. class | #FFEDAD           |
+|      | font-family (Arial)    | #000000           |
 |      | font-size              |                   |
 |      | color                  |                   |
 |      | background-color       |                   |
