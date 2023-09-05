@@ -52,7 +52,7 @@ Hieronder volgt een lijstje met semantische tags die je gebruikt om structuur aa
 tags, maar wel de veel voorkomende.
 
 | Tag         | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `<header>`  | Definieert inhoud die moet worden beschouwd als de inleidende informatie van een pagina of sectie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | `<nav>`     | Wordt gebruikt voor navigatielinks, oftewel het menu. Het kan worden geplaatst binnen de `<header>`, maar mag ook daarbuiten worden geplaatst. Nagenoeg iedere webpagina heeft een hoofdmenu, maar soms heb je ook een secundair menu, bijvoorbeeld in de `<footer>`                                                                                                                                                                                                                                                                                                             |
 | `<main>`    | Bevat de hoofdinhoud van een pagina. Hiervan mag er slechts één tag per pagina zijn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -69,7 +69,8 @@ tags, maar wel de veel voorkomende.
 ### Valkuil van semantische tags
 
 De grote valkuil van het gebruiken van semantische tags, is dat je ze gebruikt voor het uiterlijk dat ze standaard
-hebben. Zo is een `<h1>` bijvoorbeeld standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die het meest
+hebben. Zo is een `<h1>` bijvoorbeeld standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die
+het meest
 past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus onthoudt:
 
 > ⚠️ Je mag een tag *nooit* gebruiken, vanwege het standaard uiterlijk. ***Nooit!***
@@ -77,10 +78,11 @@ past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus ont
 Wanneer mag je een tag dan wel gebruiken? Wanneer het de type content representeert die het moet zijn. Is het de
 hoofdtitel? Dan gebruik je `<h1>`. Is het de titel daaronder? Dan gebruik je `<h2>`, etc.
 <br><br>
-De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlijk die ze krijgen, maar gebruik ze dus alleen voor de inhoudelijke waarde die het heeft.
+De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlijk die ze krijgen, maar gebruik ze dus
+alleen voor de inhoudelijke waarde die het heeft.
 
 | Tag        | Omschrijving                                                                                                                                                                                                                              | Voorbeeld in HTML                                                                                                                       | Eindresultaat                                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
 | `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
@@ -130,7 +132,7 @@ inspector en voer de volgende opdrachten daarin uit:
 
 ## Opdracht 1 - Semantische HTML
 
-Maak in het project waar jij de lesopdrachten in maakt eerst een nieuwe map aan met de naam `top3` (zonder spaties).
+Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd in [opdracht 1d van vorige les.](../week3-1/#opdracht-1d---bestandsstructuur-html-en-css).
 <br>
 Bouw vervolgens het volgende ontwerp na (klik op de afbeelding om te vergroten).
 <br>
@@ -142,7 +144,7 @@ maar op de code.
 <br>
 
 > Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een
-> webpagina. Voor deze opdracht heb je alleen de `nav` niet nodig, de rest wel.
+> webpagina.
 > <br>
 > <br>
 > <img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
@@ -152,10 +154,11 @@ maar op de code.
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
-| ------- | --- | ----------------- |
+|---------|-----|-------------------|
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
+| nav     |     |                   |
 | section |     |                   |
 | h1      |     |                   |
 | h2      |     |                   |
@@ -175,7 +178,7 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-| ---- | ---------------------- | ----------------- |
+|------|------------------------|-------------------|
 | -    | Selectors o.b.v. tag   | #B0DCFF           |
 |      | Selectors o.b.v. class | #000000           |
 |      | font-family (Arial)    |                   |
@@ -221,7 +224,7 @@ Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS        | Gebruikte kleuren |
-| ---- | ---------- | ----------------- |
+|------|------------|-------------------|
 | -    | padding    | -                 |
 |      | margin     |                   |
 |      | text-align |                   |
