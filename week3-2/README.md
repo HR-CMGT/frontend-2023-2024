@@ -7,18 +7,18 @@
 
 - [Week 3 les 2](#week-3-les-2)
 - [Inhoud](#inhoud)
-    - [Semantische tags](#semantische-tags)
-        - [Waarom semantische tags?](#waarom-semantische-tags)
-        - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
-        - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
-    - [Werken met de inspector](#werken-met-de-inspector)
-        - [Opdracht inspector](#opdracht-inspector)
+  - [Semantische tags](#semantische-tags)
+    - [Waarom semantische tags?](#waarom-semantische-tags)
+    - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+    - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
+  - [Werken met de inspector](#werken-met-de-inspector)
 - [Quiz over semantische HTML](#quiz-over-semantische-html)
+- [Oefenen met de inspector](#oefenen-met-de-inspector)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
-    - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
-    - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
-    - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
+  - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
+  - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
+  - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
 
 <!-- TOC -->
 
@@ -103,9 +103,17 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 <br>
 
-### Opdracht inspector
+<br><hr><br><br><br><br><br>
 
-Nu je weet hoe je de inspector opent, wordt het tijd om deze te gaan gebruiken. Ga naar een website die jij vaak
+# Quiz over semantische HTML
+
+[Klik hier om de quiz over semantische HTML te doen](./quiz/)
+
+<br><hr><br><br><br><br><br>
+
+# Oefenen met de inspector
+
+In het hoofdstuk [Werken met de inspector](./#werken-met-de-inspector) heb je geleerd hoe je de inspector opent en gebruikt. Nu wordt het tijd om deze te gaan gebruiken! Ga naar een website die jij vaak
 bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de
 inspector en voer de volgende opdrachten daarin uit:
 
@@ -113,12 +121,6 @@ inspector en voer de volgende opdrachten daarin uit:
 2. Pas van minimaal 3 teksten het lettertype aan;
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
-
-<br><hr><br><br><br><br><br>
-
-# Quiz over semantische HTML
-
-[Klik hier om de quiz over semantische HTML te doen](./quiz/)
 
 <br><hr><br><br><br><br><br>
 
