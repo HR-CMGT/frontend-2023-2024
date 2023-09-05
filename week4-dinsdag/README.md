@@ -1,6 +1,6 @@
-# Week 4 les 1
+# Week 4 - Dinsdag
 
-- [Week 4 les 1](#week-4-les-1)
+- [Week 4 - Dinsdag](#week-4---dinsdag)
 - [Inhoud](#inhoud)
   - [Flex inspector 🔍](#flex-inspector-)
 - [Mini oefeningen - Flexbox](#mini-oefeningen---flexbox)

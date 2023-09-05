@@ -1,4 +1,4 @@
-# Week 5 les 2
+# Week 5 - Donderdag
 
 - Wat is UI/UX design
 - Een kleurpalet en lettertype kiezen

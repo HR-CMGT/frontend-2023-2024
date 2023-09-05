@@ -1,11 +1,11 @@
-# Week 3 les 2
+# Week 3 - Donderdag
 
 <br>
 
 **Inhoudsopgave**
 <!-- TOC -->
 
-- [Week 3 les 2](#week-3-les-2)
+- [Week 3 - Donderdag](#week-3---donderdag)
 - [Inhoud](#inhoud)
   - [Semantische tags](#semantische-tags)
     - [Waarom semantische tags?](#waarom-semantische-tags)
@@ -138,7 +138,7 @@ Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je dez
 hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd
 in [opdracht 1d van vorige les](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
 <br><br>
-Bouw vervolgens het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht **niet** op de inhoud,
 maar op de code.
@@ -173,7 +173,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 2 - CSS: teksten en kleuren
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
 
@@ -219,7 +219,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - CSS: padding & margin
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
 

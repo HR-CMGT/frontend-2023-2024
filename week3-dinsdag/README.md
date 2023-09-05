@@ -1,21 +1,21 @@
-# Week 3 - Les 1
+# Week 3 - Dinsdag
 
 <br>
 
 **Inhoudsopgave**
 <!-- TOC -->
 
-- [Week 3 - Les 1](#week-3---les-1)
-    - [Opdracht 1 - Werkomgeving gereed makenddd](#opdracht-1---werkomgeving-gereed-makenddd)
-        - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
-        - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
-        - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
-        - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
-        - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
-    - [Opdracht 2 - HTML](#opdracht-2---html)
-    - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
-    - [Opdracht 4 - CSS](#opdracht-4---css)
-    - [Opdracht 5 - Images](#opdracht-5---images)
+- [Week 3 - Dinsdag](#week-3---dinsdag)
+  - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
+    - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
+    - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
+    - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
+    - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
+    - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
+  - [Opdracht 2 - HTML](#opdracht-2---html)
+  - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
+  - [Opdracht 4 - CSS](#opdracht-4---css)
+  - [Opdracht 5 - Images](#opdracht-5---images)
 
 <!-- TOC -->
 
@@ -118,7 +118,7 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 ## Opdracht 2 - HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
@@ -155,7 +155,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Basisstructuur HTML
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen.
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
@@ -190,7 +190,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 4 - CSS
 
-Bouw het volgende ontwerp na (klik op de afbeelding om te vergroten).
+Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder
 zie je wat je nodig hebt in de CSS voor deze opdracht.

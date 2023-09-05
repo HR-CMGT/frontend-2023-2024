@@ -1,8 +1,8 @@
-# Week 5 les 1
+# Week 5 - Dinsdag
 
 > *“A Pixel is Not a Pixel”*
 
-- [Week 5 les 1](#week-5-les-1)
+- [Week 5 - Dinsdag](#week-5---dinsdag)
   - [Responsive design](#responsive-design)
   - [Afbeeldingen](#afbeeldingen)
   - [Relatieve units](#relatieve-units)

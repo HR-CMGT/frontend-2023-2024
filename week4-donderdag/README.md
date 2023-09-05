@@ -1,4 +1,4 @@
-# Week 4 les 2
+# Week 4 - Donderdag
 
 Je gaat oefenen met de stof uit de voorgaande lessen om een wireframe na te bouwen
 

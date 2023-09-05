@@ -1,4 +1,4 @@
-# Week 6 les 2
+# Week 6 - Donderdag
 
 Je gaat nu je eindproduct afronden. Dit is een website over een fictief product. 
 
