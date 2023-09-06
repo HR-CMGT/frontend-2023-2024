@@ -10,6 +10,6 @@
 |      | Donderdag | [Wireframe oefening](./week4-donderdag) |  
 | 5    | Dinsdag   | [Responsive, werken met afbeeldingen](./week5-dinsdag)                                     |                                                           
 |      | Donderdag | [Nested selectors, position, animation, transition](./week5-donderdag)                       |                                                           
-| 6    | Dinsdag   | [forms advanced](./week6-dinsdag), werken aan eindopdracht                                 |                                                          
-|      | Donderdag | Werken aan eindopdracht                                                              |    
-| 7    | Dinsdag   | [Deadline eindopdracht](https://www.brightspace.com)                              | 
+| 6    | Dinsdag   | [Forms](./week6-dinsdag), starten met [eindopdracht](./week6-eindopdracht)                                 |                                                          
+|      | Donderdag | Werken aan [eindopdracht](./week6-eindopdracht)                                                              |    
+| 7    | Dinsdag   | [Deadline eindopdracht](http://brightspace.hr.nl)                            | 
