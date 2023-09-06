@@ -26,7 +26,7 @@ In deze opdracht bouw je een wireframe na met de skills die je hebt geleerd in a
 - Hou de flex documentatie bij de hand, en gebruik de flex inspector in je browser.
 - Je kan div elementen gebruiken om binnen sections containers aan te maken
 - Gebruik margin, padding om witruimte toe te voegen rondom je containers en binnen je containers
-- 😱 Als iets niet lukt, ga dan niet "paniek-googlen". Geef aan waar je op vast loopt bij je docent of medestudent, of vraag een peercoach.
+- 😱 Als iets niet lukt, ga dan niet "paniek-googlen". Geef aan waar je op vast loopt bij je docent of medestudent, of vraag een peercoach. Je mag ook in je video uitleggen welke onderdelen je nog niet gelukt zijn.
 
 ## Wireframes
 
