@@ -2,7 +2,7 @@
 
 ## Inleveropdracht
 
-In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. Je gebruikt het wireframe als layout voor een *productpagina*. Dit mag een zelfbedacht of een bestaand product zijn. De pagina vertelt alles over dit product. Er staat geen fake tekst of fake afbeeldingen in je pagina. Je bent vrij om toevoegingen en verbeteringen aan de pagina te doen.  
+In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. Je gebruikt het wireframe als layout voor een *productpagina*. Dit mag een zelfbedacht of een bestaand product zijn. De pagina vertelt alles over dit product. Er staat geen fake tekst of fake afbeeldingen in je pagina. De wireframe is een layout, maar geen vormgeving. Je geeft zelf een stijl aan de pagina door kleuren, afbeeldingen en lettertypes te kiezen. Je bent vrij om toevoegingen en verbeteringen aan de pagina te doen. 
  
 Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Probeer zoveel mogelijk de opdracht uit te voeren vanuit je eigen begrip, en door vragen te stellen in de les.  
  
