@@ -30,9 +30,13 @@ In deze opdracht bouw je een wireframe na met de skills die je hebt geleerd in a
 
 ## Wireframes
 
+### Desktop view
+
 <img width="800" alt="week6-desktop" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/7eb43fee-e20d-4965-a0e1-ba3fe6a890a7">
 
 <br>
+
+### Mobile view
 
 <img width="220" alt="week6-mobile" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/44077b45-d580-4c6c-a1b7-c8814083ffe9">
 
