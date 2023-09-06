@@ -26,7 +26,7 @@ Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Pr
 
 ## Wireframe
 
-<img width="850" alt="WireframeWeek4" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/b65950b9-4c41-466d-bfce-66b35a68a1b9">
+<img width="850" alt="WireframeWeek4" src="./week4-wireframe.png">
 
 <br>
 
