@@ -9,6 +9,7 @@ Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Pr
 ## Tips
 
 - Je bouwt de basis structuur op met `semantic` tags. Begin met `section` elementen.
+- Bouw één voor één de sections na, in plaats van alles tegelijk op te willen lossen.
 - Gebruik `display:flex` om elementen naast elkaar te zetten.
 - Hou de `flex` documentatie bij de hand, en gebruik de `flex` inspector in je browser.
 - Je kan `div` elementen gebruiken om binnen sections containers aan te maken
