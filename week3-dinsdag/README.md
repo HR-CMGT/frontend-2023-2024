@@ -122,6 +122,8 @@ Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
+> Als bonus mag je de navigatielinkjes bovenin werkend maken, maar dit is niet vereist voor deze opdracht.
+
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
 
 <br>
@@ -134,6 +136,7 @@ Je hebt hier het volgende voor nodig:
 | h1   | -   | -                 |
 | h2   |     |                   |
 | p    |     |                   |
+| a    |     |                   |
 
 <br>
 
@@ -172,10 +175,6 @@ Je hebt hier het volgende voor nodig:
 | footer  |     |                   |
 | nav     |     |                   |
 | section |     |                   |
-| h1      |     |                   |
-| h2      |     |                   |
-| p       |     |                   |
-| a       |     |                   |
 
 <br>
 

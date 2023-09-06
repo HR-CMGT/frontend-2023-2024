@@ -163,11 +163,12 @@ Je hebt hier het volgende voor nodig:
 
 <br>
 
-> Denk nog even terug aan de wireframe die je gezien hebt tijdens de CMGT-dag, met daarin de basisstructuur van een
-> webpagina.
-> <br>
-> <br>
-> <img src="./images/Basisstructuur-HTML.jpg" alt="Wireframe basisstructuur" title="Wireframe basisstructuur" width="300">
+**Hulpbronnen opdracht 1**
+
+1. [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
+   op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
+2. [HTML cheatsheet](./images/HTML-cheatsheet.png  )
+3. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
 
@@ -192,6 +193,12 @@ Je hebt hier het volgende voor nodig:
 |      | border                 |                   |
 
 <br>
+
+**Hulpbronnen opdracht 2**
+
+1. [CSS cheatsheet](./images/CSS-cheatsheet.png)
+2. [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
+   deel erna is niet van toepassing voor dit vak*)
 
 
 > ### Kleuren bepalen
