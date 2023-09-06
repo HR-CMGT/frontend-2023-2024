@@ -4,7 +4,7 @@
 
 In deze opdracht bouw je een wireframe na met de skills die je hebt geleerd in alle lessen, op dezelfde manier als in week 4. Bij het bouwen hou je rekening met de criteria uit het beoordelingsmodel. Je gaat het wireframe inhoud geven met een zelfgekozen onderwerp: 
 
-- De inhoud van je website (teksten en afbeeldingen) gaan over dit onderwerp (er is geen “fake content”). 
+- De inhoud van je website (teksten en afbeeldingen) gaat over dit onderwerp (er is geen “fake content”). 
 - Hou rekening met de designer notes in de wireframe. 
 - Let op! Er is nu ook een wireframe voor de mobile weergave. Maak je pagina responsive. 
 - Middels CSS pas je een eigen stijl toe. Dit bestaat uit het kiezen van een lettertype en bestaand kleurpalet, en het maken van bewuste keuzes in de vormgeving en animatie.
