@@ -27,3 +27,21 @@ In deze opdracht bouw je een wireframe na met de skills die je hebt geleerd in a
 - Je kan div elementen gebruiken om binnen sections containers aan te maken
 - Gebruik margin, padding om witruimte toe te voegen rondom je containers en binnen je containers
 - 😱 Als iets niet lukt, ga dan niet "paniek-googlen". Geef aan waar je op vast loopt bij je docent of medestudent, of vraag een peercoach.
+
+## Wireframes
+
+<img width="800" alt="week6-desktop" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/7eb43fee-e20d-4965-a0e1-ba3fe6a890a7">
+
+<br>
+
+<img width="220" alt="week6-mobile" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/44077b45-d580-4c6c-a1b7-c8814083ffe9">
+
+<br><br>
+
+### PDF files
+
+[week6 desktop pdf](https://github.com/HR-CMGT/frontend-2023-2024/files/12535978/week6-desktop.pdf) en [week6 mobile pdf](https://github.com/HR-CMGT/frontend-2023-2024/files/12535984/week6-mobile.pdf)
+
+
+
+
