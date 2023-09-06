@@ -6,6 +6,8 @@ In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. 
  
 Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Probeer zoveel mogelijk de opdracht uit te voeren vanuit je eigen begrip, en door vragen te stellen in de les.  
 
+> Als iets niet lukt, ga dan niet "paniek-googlen". Dit hoort ook bij het leren van een vak. Geef aan waar je op vast loopt bij je docent of vraag een peercoach.
+
 ## Tips
 
 - Je bouwt de basis structuur op met `semantic` tags. Begin met `section` elementen.
