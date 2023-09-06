@@ -21,7 +21,7 @@ Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Pr
 - Maak een account op [github.com](https://www.github.com) en maak een repository voor je website
 - Klik op `upload files` om je `index.html`, en `styles.css` te uploaden.
 - Activeer Github Pages (onder "settings") en check of jouw `index.html` pagina nu zichtbaar is als live website.
-- Ga naar [Brightspace](https://www.brightspace.com) en lever daar de link in naar je live website.
+- Ga naar [Brightspace](https://brightspace.hr.nl) en lever daar de link in naar je live website.
 - Let op de deadline: donderdag 21 september om 23:00 uur.
 
 ## Wireframe
