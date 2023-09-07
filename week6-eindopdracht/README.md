@@ -2,13 +2,12 @@
 
 ## Bouwen wireframe deel 2 
 
-In de eindopdracht bouw je een wireframe na met de skills die je hebt geleerd in alle lessen. Bij het bouwen hou je rekening met de criteria uit het beoordelingsmodel en het volgende: 
-
+In de eindopdracht bouw je een wireframe na met de skills die je hebt geleerd in alle lessen en volgens de criteria uit het beoordelingsmodel. De opdracht luidt verder als volgt:
 - Je geeft inhoud aan jouw website met een zelfgekozen onderwerp en er staan geen *placeholder teksten* of *placeholder afbeeldingen* op;
 - Hou rekening met de *designer notes* in het wireframe;
-- Let op! Er is nu ook een wireframe voor de mobiele weergave, dus hou deze wireframe aan bij het responsive maken;
-- Je gebruikt alleen stof uit les 1 t/m les 8 om de HTML en CSS op te bouwen
+- Hou voor het responsive maken van jouw website het wireframe van de mobiele weergave aan;
 - Met CSS pas je een *eigen stijl* toe. Dit bestaat uit het kiezen van een lettertype en bestaand kleurpalet en het maken van bewuste keuzes in de vormgeving en animatie.
+- Je gebruikt alleen stof uit les 1 t/m les 8 om de HTML en CSS op te bouwen
 
 
 ## Inleveren

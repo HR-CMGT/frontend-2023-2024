@@ -1,6 +1,6 @@
 # Week 4 - Donderdag
 
-## Inleveropdracht
+## Tussenopdracht
 
 In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. Je gebruikt het wireframe als layout voor een *productpagina*. De content voor de pagina mag een zelfbedacht of een bestaand product zijn. Je plaatst tekst en afbeeldingen die hier over gaan en gebruik geen *placeholder teksten* of *placeholder afbeeldingen*. De wireframe is een layout, maar geen vormgeving. Je geeft zelf een stijl aan de pagina door kleuren, afbeeldingen en lettertypes te kiezen. Je bent vrij om toevoegingen en verbeteringen aan de pagina te doen. 
  
