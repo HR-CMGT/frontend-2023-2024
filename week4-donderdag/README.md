@@ -2,13 +2,13 @@
 
 ## Inleveropdracht
 
-In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. Je gebruikt het wireframe als layout voor een *productpagina*. De content voor de pagina mag een zelfbedacht of een bestaand product zijn. Je plaatst tekst en afbeeldingen die hier over gaan. Er staat geen fake tekst of fake afbeeldingen in je pagina. De wireframe is een layout, maar geen vormgeving. Je geeft zelf een stijl aan de pagina door kleuren, afbeeldingen en lettertypes te kiezen. Je bent vrij om toevoegingen en verbeteringen aan de pagina te doen. 
+In deze opdracht bouw je een wireframe na met de skills uit de eerste 4 lessen. Je gebruikt het wireframe als layout voor een *productpagina*. De content voor de pagina mag een zelfbedacht of een bestaand product zijn. Je plaatst tekst en afbeeldingen die hier over gaan en gebruik geen *placeholder teksten* of *placeholder afbeeldingen*. De wireframe is een layout, maar geen vormgeving. Je geeft zelf een stijl aan de pagina door kleuren, afbeeldingen en lettertypes te kiezen. Je bent vrij om toevoegingen en verbeteringen aan de pagina te doen. 
  
 Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Probeer zoveel mogelijk de opdracht uit te voeren vanuit je eigen begrip, en door vragen te stellen in de les.  
 
 ## Tips
 
-- Je bouwt de basis structuur op met `semantic` tags. Begin met `section` elementen.
+- Je bouwt eerst de basisstructuur op met `semantic` tags.
 - Bouw één voor één de sections na, in plaats van alles tegelijk op te willen lossen.
 - Gebruik `display:flex` om elementen naast elkaar te zetten.
 - Hou de `flex` documentatie bij de hand, en gebruik de `flex` inspector in je browser.
@@ -22,7 +22,7 @@ Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Pr
 - Klik op `upload files` om je `index.html`, en `styles.css` te uploaden.
 - Activeer Github Pages (onder "settings") en check of jouw `index.html` pagina nu zichtbaar is als live website.
 - Ga naar [Brightspace](https://brightspace.hr.nl) en lever daar de link in naar je live website.
-- Let op de deadline: donderdag 21 september om 23:00 uur.
+- Let op de deadline: zondag 24 september om 15:00 uur.
 
 ## Wireframe
 
