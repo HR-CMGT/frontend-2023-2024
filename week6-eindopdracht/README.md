@@ -16,7 +16,7 @@ In de eindopdracht bouw je een wireframe na met de skills die je hebt geleerd in
 - Je neemt vervolgens een ***screencast*** op. Dit is een opname van jouw beeldscherm met voice-over, waarin jij jouw eigen project beoordeelt. Dit doe je volgens het boordelingsmodel uit deze handleiding.
 - Benoem per criterium wat het door jou behaalde niveau is. Door jouw voortgang in de HTML, CSS, LAYOUT, en RESPONSIVE criteria aan te tonen komt je cijfer tot stand. In je video toon je zowel je eindproduct (de website) als jouw code.
 - De video lever je in op [Brightspace](https://brightspace.hr.nl)
-- Let op de deadline: zondag 8 oktober om 17:00!
+- Let op de deadline: zondag 8 oktober om 17:00.
 
 ## Tips
 
