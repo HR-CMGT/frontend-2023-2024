@@ -17,6 +17,8 @@ De informatie over de opdracht, de voorwaarden en het inleveren is te vinden in 
 <br>
 ***Lees de cursushandleiding aandachtig door!***
 
+<br>
+
 ## Stap 1: Repository aanmaken
 
 - Ga naar [github.com](https://www.github.com) en maak een nieuwe `repository` aan voor de eindopdracht;
