@@ -136,7 +136,7 @@ inspector en voer de volgende opdrachten daarin uit:
 
 Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak
 hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd
-in [opdracht 1d van vorige les](../les1-week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
+in [opdracht 1d van vorige les](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
 <br><br>
 Bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
