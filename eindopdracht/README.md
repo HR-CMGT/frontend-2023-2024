@@ -1,6 +1,9 @@
 # Week 6 eindopdracht
 
-## Bouwen wireframe deel 2 
+## De opdracht 
+
+In de cursushandleiding is de volledige omschrijving van de opdracht te vinden, inclusief de voorwaarden.
+
 
 In de eindopdracht bouw je een wireframe na met de skills die je hebt geleerd in alle lessen en volgens de criteria uit het beoordelingsmodel. De opdracht luidt verder als volgt:
 - Je geeft inhoud aan jouw website met een zelfgekozen onderwerp en er staan geen *placeholder teksten* of *placeholder afbeeldingen* op;
@@ -20,13 +23,14 @@ In de eindopdracht bouw je een wireframe na met de skills die je hebt geleerd in
 
 ## Tips
 
-- Je bouwt eerst de basisstructuur op met `semantic` tags.
-- Bouw één voor één de sections na, in plaats van alles tegelijk op te willen lossen.
-- Gebruik `display:flex` om elementen naast elkaar te zetten.
-- Hou de `flex` documentatie bij de hand, en gebruik de `flex` inspector in je browser.
-- Je kan `div` elementen gebruiken om binnen sections containers aan te maken
-- Gebruik `margin`, `padding` om witruimte toe te voegen rondom je containers en binnen je containers
-- 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vast loopt bij je docent of medestudent, of vraag een peercoach.
+- Bouw eerst de basisstructuur op met `semantic` tags;
+- Bouw één voor één de rijen na, in plaats van alles tegelijk op te willen lossen;
+- Gebruik `display:flex` om elementen naast elkaar te zetten;
+- Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
+- Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig hebt;
+- Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
+- 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vastloopt bij je docent, medestudent of peercoach.
+
 
 ## Wireframes
 

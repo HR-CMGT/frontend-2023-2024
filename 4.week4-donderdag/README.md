@@ -36,4 +36,4 @@ Je gebruikt *alleen stof uit les 1 t/m les 4* om de HTML en CSS op te bouwen. Pr
 
 <br>
 
-[Wireframe tussenopdracht PDF](./images/wireframe-tussenopdracht.pdf)
+[Wireframe Week4 PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12535686/WireframeWeek4.pdf)
