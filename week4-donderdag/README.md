@@ -13,6 +13,8 @@
 
 De informatie over de opdracht, de voorwaarden en het inleveren is te vinden in de cursushandleiding.
 
+<br>
+
 ## Stap 1: GitHub gereed maken
 
 - Maak een account op [github.com](https://www.github.com). Dit account ga je de rest van je studieloopbaan (en daarna) gebruiken;
@@ -25,6 +27,8 @@ De informatie over de opdracht, de voorwaarden en het inleveren is te vinden in 
 - Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken;
 - Refresh de instellingenpagina een paar minuten later en dan staat bovenin de link naar jouw website. `Dat is de link die je moet inleveren in [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/169219)`;
   - ⚠️ Let op: doorloop bovenstaande stappen van het uploaden nogmaals vóórdat je het inlevert, zodat de meest recente bestanden online te zien zijn.
+
+<br>
 
 ## Stap 2: Wireframe nabouwen
 De opdracht is om onderstaande wireframe na te bouwen, zoals omschreven in de cursushandleiding.
