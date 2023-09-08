@@ -3,8 +3,6 @@
 <br>
 
 **Inhoudsopgave**
-<!-- TOC -->
-
 - [Week 3 - Donderdag](#week-3---donderdag)
 - [Inhoud](#inhoud)
   - [Semantische tags](#semantische-tags)
@@ -20,7 +18,6 @@
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
   - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
 
-<!-- TOC -->
 
 <br><hr><br>
 

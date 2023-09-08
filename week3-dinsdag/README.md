@@ -3,8 +3,6 @@
 <br>
 
 **Inhoudsopgave**
-<!-- TOC -->
-
 - [Week 3 - Dinsdag](#week-3---dinsdag)
   - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
@@ -16,8 +14,6 @@
   - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
   - [Opdracht 4 - CSS](#opdracht-4---css)
   - [Opdracht 5 - Images](#opdracht-5---images)
-
-<!-- TOC -->
 
 <br><hr><br>
 

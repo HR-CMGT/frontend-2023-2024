@@ -3,7 +3,6 @@
 <br>
 
 **Inhoudsopgave**
-<!-- TOC -->
 - [Week 3 - Mini-oefeningen - Padding \& margin](#week-3---mini-oefeningen---padding--margin)
   - [Inleiding](#inleiding)
   - [Mini-oefening 1](#mini-oefening-1)
@@ -12,7 +11,7 @@
   - [Mini-oefening 4](#mini-oefening-4)
   - [Mini-oefening 5](#mini-oefening-5)
   - [Mini-oefening 6](#mini-oefening-6)
-<!-- TOC -->
+
 
 <br><hr><br>
 
