@@ -54,19 +54,19 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 ### Desktop wireframe
 
-<img width="800" alt="week6-desktop" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/7eb43fee-e20d-4965-a0e1-ba3fe6a890a7">
+<img width="800" alt="week6-desktop" src="./wireframes/Wireframe-desktop.png">
 
 <br>
 
 ### Mobile wireframe
 
-<img width="220" alt="week6-mobile" src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/44077b45-d580-4c6c-a1b7-c8814083ffe9">
+<img width="220" alt="week6-mobile" src="./wireframes/Wireframe-mobile.png">
 
 <br><br>
 
-[Wireframe desktop eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12535978/week6-desktop.pdf)
+[Wireframe desktop eindopdracht PDF](./wireframes/Wireframe-desktop.pdf)
 
-[Wireframe mobile eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12535984/week6-mobile.pdf)
+[Wireframe mobile eindopdracht PDF](./wireframes/Wireframe-mobile.pdf)
 
 
 

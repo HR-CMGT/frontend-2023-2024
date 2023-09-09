@@ -46,7 +46,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <br>
 
-<img width="850" alt="WireframeWeek4" src="./images/week4-wireframe.png">
+<img width="850" alt="WireframeWeek4" src="wireframe/week4-wireframe.png">
 
 <br>
 
