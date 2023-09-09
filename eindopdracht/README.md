@@ -60,7 +60,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 ### Mobile wireframe
 
-<img width="220" alt="week6-mobile" src="./wireframes/Wireframe-mobile.png">
+<img width="390" alt="week6-mobile" src="./wireframes/Wireframe-mobile.png">
 
 <br><br>
 
