@@ -106,6 +106,8 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
    maar eens aan naar: `<h1>Hallo wereld, mijn naam is [JOUW NAAM]</h1>` en sla het bestand op (MacBook: CMD+S /
    Windows: CTRL+S). Wanneer je de browser opent zie je als het goed is dat deze wijziging direct zichtbaar is.
 
+> Je hoeft dus niet telkens opnieuw de `live server` te starten!
+
 <br><hr><br>
 
 > ⚠️ Opdracht 2 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
