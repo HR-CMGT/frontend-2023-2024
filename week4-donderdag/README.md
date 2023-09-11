@@ -50,4 +50,4 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <br>
 
-[Wireframe tussenopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12535686/WireframeWeek4.pdf)
+[Wireframe tussenopdracht PDF]([wireframe-tussenopdracht.pdf](https://github.com/HR-CMGT/frontend-2023-2024/files/12573584/wireframe-tussenopdracht.pdf))

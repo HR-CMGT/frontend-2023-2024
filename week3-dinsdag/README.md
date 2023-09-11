@@ -154,9 +154,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Basisstructuur HTML
 
-Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
-<br>
-Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen.
+Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd zijn, maar op de achtergrond heb je essentiële stappen genomen.
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
