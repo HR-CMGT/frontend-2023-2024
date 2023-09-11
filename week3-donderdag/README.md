@@ -10,7 +10,7 @@
     - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
     - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
   - [Werken met de inspector](#werken-met-de-inspector)
-- [Quiz over semantische HTML](#quiz-over-semantische-html)
+- [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Oefenen met de inspector](#oefenen-met-de-inspector)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
@@ -102,9 +102,9 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 <br><hr><br>
 
-# Quiz over semantische HTML
+# Quiz over semantische HTML-tags
 
-[Klik hier om de quiz over semantische HTML te doen](./quiz/)
+[Klik hier om de quiz over semantische HTML-tags te doen](./quiz/)
 
 <br><hr><br>
 
