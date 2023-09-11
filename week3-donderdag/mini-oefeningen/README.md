@@ -5,6 +5,7 @@
 **Inhoudsopgave**
 - [Week 3 - Mini-oefeningen - Padding \& margin](#week-3---mini-oefeningen---padding--margin)
   - [Inleiding](#inleiding)
+    - [Hulpbronnen](#hulpbronnen)
   - [Mini-oefening 1](#mini-oefening-1)
   - [Mini-oefening 2](#mini-oefening-2)
   - [Mini-oefening 3](#mini-oefening-3)
@@ -17,6 +18,12 @@
 
 ## Inleiding
 Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
+
+<br>
+
+### Hulpbronnen
+- [Documentatie padding](https://www.w3schools.com/css/css_padding.asp)
+- [Documentatie margin](https://www.w3schools.com/css/css_margin.asp)
 
 <br><hr><br><br>
 

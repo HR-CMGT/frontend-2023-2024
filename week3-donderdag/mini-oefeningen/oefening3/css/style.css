@@ -8,17 +8,3 @@ a {
 }
 
 /* Voer jouw code hieronder in */
-a {
-    padding: 30px;
-}
-
-.left {
-    padding-right: 10px;
-}
-.right {
-    padding-left: 10px;
-}
-
-.middle {
-    margin: 0 100px;
-}
