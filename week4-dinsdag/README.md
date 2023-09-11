@@ -6,7 +6,7 @@
 - [Mini oefeningen - Flexbox](#mini-oefeningen---flexbox)
 
 
-<br><hr><br><br>
+<br><hr><br>
 
 # Inhoud
 ## Flex inspector 🔍
@@ -19,7 +19,7 @@ Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `insp
 
 > Reminder: je opent de inspector door met de rechter muistoets op een specifiek HTML-element te klikken en vervolgens op **Inspecteren**, óf met de sneltoets ⌥⌘i op Mac en F12 op Windows.
 
-<br><hr><br><br>
+<br><hr><br>
 
 # Mini oefeningen - Flexbox
 

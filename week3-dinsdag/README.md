@@ -16,7 +16,7 @@
   - [Opdracht 4 - CSS](#opdracht-4---css)
   - [Opdracht 5 - Images](#opdracht-5---images)
 
-<br><hr><br><br>
+<br><hr><br>
 
 ## Opdracht 1 - Werkomgeving gereed maken
 
@@ -106,7 +106,7 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
    maar eens aan naar: `<h1>Hallo wereld, mijn naam is [JOUW NAAM]</h1>` en sla het bestand op (MacBook: CMD+S /
    Windows: CTRL+S). Wanneer je de browser opent zie je als het goed is dat deze wijziging direct zichtbaar is.
 
-<br><hr><br><br>
+<br><hr><br>
 
 > ⚠️ Opdracht 2 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
 > hebt gemaakt.
@@ -151,7 +151,7 @@ Je hebt hier het volgende voor nodig:
 2. [Introductievideo HTML](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo HTML") (*bekijk tot 04:33, het
    deel erna is niet van toepassing voor dit vak*)
 
-<br><hr><br><br>
+<br><hr><br>
 
 ## Opdracht 3 - Basisstructuur HTML
 
@@ -183,7 +183,7 @@ Je hebt hier het volgende voor nodig:
 2. [HTML cheatsheet](./images/HTML-cheatsheet.png  )
 3. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
-<br><hr><br><br>
+<br><hr><br>
 
 ## Opdracht 4 - CSS
 
@@ -214,7 +214,7 @@ Je hebt hier het volgende voor nodig:
 2. [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 
-<br><hr><br><br>
+<br><hr><br>
 
 ## Opdracht 5 - Images
 

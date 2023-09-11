@@ -29,7 +29,7 @@
 - Werken met `picture`
 - Lazy loading
 
-<br><hr><br><br>
+<br><hr><br>
 
 ## Relatieve units
 
