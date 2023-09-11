@@ -23,7 +23,7 @@ Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `insp
 
 # Mini oefeningen - Flexbox
 
-[Klik hier om naar de mini-oefeningen te gaan.](./mini-oefeningen/flexbox)
+[Klik hier om naar de mini-oefeningen te gaan.](./mini-oefeningen)
 
 **Hulpbronnen voor de mini-oefeningen**
 

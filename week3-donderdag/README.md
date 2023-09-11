@@ -123,7 +123,7 @@ inspector en voer de volgende opdrachten daarin uit:
 
 # Mini-oefeningen - Padding & margin
 
-[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
+[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen)
 
 <br><hr><br><br><br><br>
 
