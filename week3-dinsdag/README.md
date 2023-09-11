@@ -3,6 +3,7 @@
 <br>
 
 **Inhoudsopgave**
+
 - [Week 3 - Dinsdag](#week-3---dinsdag)
   - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
@@ -154,7 +155,9 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 3 - Basisstructuur HTML
 
-Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd zijn, maar op de achtergrond heb je essentiële stappen genomen.
+Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen
+met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd
+zijn, maar op de achtergrond heb je essentiële stappen genomen.
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
@@ -185,8 +188,7 @@ Je hebt hier het volgende voor nodig:
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
-De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder
-zie je wat je nodig hebt in de CSS voor deze opdracht.
+De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor deze opdracht.
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
 
@@ -215,9 +217,7 @@ Je hebt hier het volgende voor nodig:
 
 ## Opdracht 5 - Images
 
-Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen waar je dit op de pagina toevoegt. Dit werkt
-iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die
-vervolgens in te laden in de HTML. Doorloop de volgende stappen:
+Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die vervolgens in te laden in de HTML. Doorloop de volgende stappen:
 
 1. Maak in de map `week3-les1` een nieuwe map aan met de naam `images`;
 2. Plaats in deze nieuwe map jouw afbeelding(en);

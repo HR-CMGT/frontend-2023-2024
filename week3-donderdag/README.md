@@ -100,17 +100,17 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 <br>
 
-<br><hr><br><br><br><br><br>
+<br><hr><br><br><br><br>
 
 # Quiz over semantische HTML
 
 [Klik hier om de quiz over semantische HTML te doen](./quiz/)
 
-<br><hr><br><br><br><br><br>
+<br><hr><br><br><br><br>
 
 # Oefenen met de inspector
 
-In het hoofdstuk [Werken met de inspector](./#werken-met-de-inspector) heb je geleerd hoe je de inspector opent en gebruikt. Nu wordt het tijd om deze te gaan gebruiken! Ga naar een website die jij vaak
+In het hoofdstuk [Werken met de inspector](#werken-met-de-inspector) heb je geleerd hoe je de inspector opent en gebruikt. Nu wordt het tijd om deze te gaan gebruiken! Ga naar een website die jij vaak
 bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de
 inspector en voer de volgende opdrachten daarin uit:
 
@@ -119,13 +119,13 @@ inspector en voer de volgende opdrachten daarin uit:
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
 
-<br><hr><br><br><br><br><br>
+<br><hr><br><br><br><br>
 
 # Mini-oefeningen - Padding & margin
 
 [Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen/padding-margin)
 
-<br><hr><br><br><br><br><br>
+<br><hr><br><br><br><br>
 
 # Opdracht: Top 3
 
