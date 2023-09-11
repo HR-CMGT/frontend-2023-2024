@@ -104,7 +104,7 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 # Quiz over semantische HTML-tags
 
-[Klik hier om de quiz over semantische HTML-tags te doen](./quiz/)
+[Klik hier om de quiz over semantische HTML-tags te doen](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/192858)
 
 <br><hr><br>
 
