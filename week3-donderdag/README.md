@@ -96,7 +96,7 @@ alleen voor de inhoudelijke waarde die het heeft.
     - **Let op:** wanneer je CSS in de inspector wijzigt, verandert het ***niet*** in de bestanden in Visual Studio
       Code. Dit moet je handmatig wijzigen;
 
-<img src="./images/designing.png" alt="Inspector" title="Inspector" width="800">
+<img src="./images/designing.png" alt="Inspector" title="Inspector" width="1012">
 
 <br>
 
@@ -139,7 +139,7 @@ Bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)
 <br>
 Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt in deze opdracht ***niet*** op de inhoud, maar op de code.
 
-<img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800">
+<img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
 
 <br>
 
@@ -173,7 +173,7 @@ Je hebt hier het volgende voor nodig:
 
 Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de afbeelding om te vergroten)*.
 
-<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
+<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
 
   <br>
 
@@ -226,7 +226,7 @@ Je hebt hier het volgende voor nodig:
 
 Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de afbeelding om te vergroten)*.
 
-<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
+<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
 
 <br>
 

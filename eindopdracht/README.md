@@ -54,7 +54,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 ### Desktop wireframe
 
-<img width="800" alt="week6-desktop" src="wireframes/wireframe-eindopdracht-desktop.png">
+<img width="1012" alt="week6-desktop" src="wireframes/wireframe-eindopdracht-desktop.png">
 
 [Download: Wireframe desktop eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573629/wireframe-eindopdracht-desktop.pdf)
 

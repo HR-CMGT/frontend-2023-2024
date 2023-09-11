@@ -46,6 +46,6 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <br>
 
-<img width="850" alt="WireframeWeek4" src="wireframe/wireframe-tussenopdracht.png">
+<img width="1012" alt="WireframeWeek4" src="wireframe/wireframe-tussenopdracht.png">
 
 [Download: Wireframe tussenopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573584/wireframe-tussenopdracht.pdf)

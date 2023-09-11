@@ -31,7 +31,7 @@ Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaarge
 
 Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 
-<img src="./images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="800">
+<img src="./images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="1012">
 
 
 <br><hr><br><br>
@@ -40,7 +40,7 @@ Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aa
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*. Ook heb je `selectors` nodig voor deze opdracht.
 
-<img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="800">
+<img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="1012">
 
 <br><hr><br><br>
 
@@ -48,7 +48,7 @@ Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieron
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*. Ook heb je `selectors` nodig voor deze opdracht.
 
-<img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="800">
+<img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="1012">
 
 <br><hr><br><br>
 
@@ -57,7 +57,7 @@ Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieron
 Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 > **LET OP:** Je moet het met 1 regel code oplossen in het CSS-bestand.
 
-<img src="./images/Mini-oefening4.png" alt="Mini-oefening 4" title="Mini-oefening 4" width="800">
+<img src="./images/Mini-oefening4.png" alt="Mini-oefening 4" title="Mini-oefening 4" width="1012">
 
 <br><hr><br><br>
 
@@ -66,7 +66,7 @@ Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aa
 Maak de code af door in de CSS `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 > **LET OP:** Je moet het met 1 regel code oplossen in het CSS-bestand.
 
-<img src="./images/Mini-oefening5.png" alt="Mini-oefening 5" title="Mini-oefening 5" width="800">
+<img src="./images/Mini-oefening5.png" alt="Mini-oefening 5" title="Mini-oefening 5" width="1012">
 
 <br><hr><br><br>
 
@@ -74,7 +74,7 @@ Maak de code af door in de CSS `margin` toe te passen, zoals hieronder staat aan
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, maar deze keer worden de waardes niet weergegeven in het ontwerp, die moet je *op het blote oog* proberen na te bootsen *(klik op de afbeelding om te vergroten)*.
 
-<img src="./images/Mini-oefening6.png" alt="Mini-oefening 6" title="Mini-oefening 6" width="800">
+<img src="./images/Mini-oefening6.png" alt="Mini-oefening 6" title="Mini-oefening 6" width="1012">
 
 <br><hr>
 

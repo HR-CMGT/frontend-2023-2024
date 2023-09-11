@@ -89,7 +89,7 @@ linkerzijde, rechts van de projectnaam.
 
 5. Zorg ervoor dat de `bestandsstructuur` en de code van de `index.html` er als volgt uitzien:
 
-<img  src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="800"/>
+<img  src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="1012"/>
 
 <br><br>
 
@@ -121,7 +121,7 @@ In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 > Als bonus mag je de navigatielinkjes bovenin werkend maken, maar dit is niet vereist voor deze opdracht.
 
-<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="800">
+<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
 
 <br>
 
@@ -160,7 +160,7 @@ met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht
 zijn, maar op de achtergrond heb je essentiële stappen genomen.
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
-<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="800">
+<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
 
 <br>
 Je hebt hier het volgende voor nodig:
@@ -191,7 +191,7 @@ Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor deze opdracht.
 
-<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="800">
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="1012">
 
 <br>
 
