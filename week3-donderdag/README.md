@@ -19,7 +19,7 @@
   - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
 
 
-<br><hr><br>
+<br><hr><br><br>
 
 # Inhoud
 
@@ -83,7 +83,7 @@ alleen voor de inhoudelijke waarde die het heeft.
 | `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
 | `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Werken met de inspector
 
@@ -100,13 +100,13 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 <br>
 
-<br><hr><br><br><br><br>
+<br><hr><br><br>
 
 # Quiz over semantische HTML
 
 [Klik hier om de quiz over semantische HTML te doen](./quiz/)
 
-<br><hr><br><br><br><br>
+<br><hr><br><br>
 
 # Oefenen met de inspector
 
@@ -119,13 +119,13 @@ inspector en voer de volgende opdrachten daarin uit:
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
 
-<br><hr><br><br><br><br>
+<br><hr><br><br>
 
 # Mini-oefeningen - Padding & margin
 
 [Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen)
 
-<br><hr><br><br><br><br>
+<br><hr><br><br>
 
 # Opdracht: Top 3
 
@@ -167,7 +167,7 @@ Je hebt hier het volgende voor nodig:
 2. [HTML cheatsheet](./images/HTML-cheatsheet.png  )
 3. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Opdracht 2 - CSS: teksten en kleuren
 
@@ -219,7 +219,7 @@ Je hebt hier het volgende voor nodig:
 >}
 >```
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Opdracht 3 - CSS: padding & margin
 

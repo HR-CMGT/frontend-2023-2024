@@ -13,12 +13,12 @@
   - [Mini-oefening 6](#mini-oefening-6)
 
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Inleiding
 Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 1
 
@@ -27,7 +27,7 @@ Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aa
 <img src="./images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="800">
 
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 2
 
@@ -35,7 +35,7 @@ Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieron
 
 <img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="800">
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 3
 
@@ -43,7 +43,7 @@ Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieron
 
 <img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="800">
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 4
 
@@ -52,7 +52,7 @@ Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aa
 
 <img src="./images/Mini-oefening4.png" alt="Mini-oefening 4" title="Mini-oefening 4" width="800">
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 5
 
@@ -61,7 +61,7 @@ Maak de code af door in de CSS `margin` toe te passen, zoals hieronder staat aan
 
 <img src="./images/Mini-oefening5.png" alt="Mini-oefening 5" title="Mini-oefening 5" width="800">
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Mini-oefening 6
 

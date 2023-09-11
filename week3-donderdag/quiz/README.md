@@ -7,7 +7,7 @@ Noteer voor jezelf jouw antwoord per vraag. Later deze les wordt het antwoordmod
 
 >⚠️ Vul deze quiz de komende dagen zo vaak in als je wilt. Blijf hem herhalen, totdat je alles begrijpt.
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Vraag 1
 
@@ -19,7 +19,7 @@ B. Tags die aangeven hoe een element eruit moet zien.
 <br>
 C. Tags die de betekenis van de inhoud die ze bevatten definiëren.
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Vraag 2
 
@@ -42,7 +42,7 @@ A. Waar
 <br>
 B. Niet waar
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Vraag 3
 
@@ -74,7 +74,7 @@ D. De id moet ingesteld staan op de `<h1>` in plaats van de `<div>`
 <br>
 E. De `<section>` op regel 7 moet in een `<main>` worden geplaatst.
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Vraag 4
 

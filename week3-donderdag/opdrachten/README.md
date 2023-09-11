@@ -34,7 +34,7 @@ Je hebt hier het volgende voor nodig:
 | a       |     |                   |
 
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Opdracht 2 - Basis CSS
 
@@ -80,7 +80,7 @@ Je hebt hier het volgende voor nodig:
 |      | text-align             |                   |
 |      | border                 |                   |
 
-<br><hr><br>
+<br><hr><br><br>
 
 ## Opdracht 3 - Structuur aanbrengen met CSS
 
@@ -105,7 +105,7 @@ Je hebt hier het volgende voor nodig:
 <img src="../resources/mewtwo.png" alt="Mewtwo" title="Mewtwo" width="150">
 <img src="../resources/arceus.png" alt="Arceus" title="Arceus" width="150">
 
-<br><hr><br>
+<br><hr><br><br>
 
 >⚠️⚠️⚠️ **@TODO** Formulier eruit halen en verplaatsen naar week5-1? ⚠️⚠️⚠️ 
 
