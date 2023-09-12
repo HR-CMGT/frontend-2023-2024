@@ -3,6 +3,7 @@
 **Inhoudsopgave**
 - [Week 6 eindopdracht](#week-6-eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
+  - [Hulpbronnen](#hulpbronnen)
   - [Stap 1: Repository aanmaken](#stap-1-repository-aanmaken)
   - [Stap 2: GitHub Pages activeren](#stap-2-github-pages-activeren)
   - [Stap 3: Wireframes nabouwen](#stap-3-wireframes-nabouwen)
@@ -16,6 +17,23 @@
 De informatie over de opdracht, de voorwaarden en het inleveren is te vinden in de cursushandleiding.
 <br>
 ***Lees de cursushandleiding aandachtig door!***
+
+<br>
+
+## Hulpbronnen
+
+Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
+- Padding & margin
+  - [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
+- CSS Grid
+  - [Documentatie op W3Schools](https://www.w3schools.com/css/css_grid.asp)
+  - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
+  - [Video waarin alle mogelijkheden worden getoond met demo's](https://youtu.be/EiNiSFIPIQE?si=3hd2dZh_BLXVhWhj)
+  - [Spelletje om CSS grid te leren gebruiken](https://cssgridgarden.com/#nl)
+- srcset
+  - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  - [Video met beknopte uitleg over srcset](https://www.youtube.com/watch?v=SyVKRnusyqM)
+  - [Video met uitgebreide uitleg over srcset (aanrader!)](https://www.youtube.com/watch?v=2QYpkrX2N48)
 
 <br>
 

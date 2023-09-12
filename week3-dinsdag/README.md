@@ -149,8 +149,8 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 2**
 
-1. [Introductievideo HTML & CSS](https://www.youtube.com/watch?v=0sQLdlAodfQ "Introductievideo HTML & CSS")
-2. [Introductievideo HTML](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo HTML") (*bekijk tot 04:33, het
+- [Introductievideo HTML & CSS](https://www.youtube.com/watch?v=0sQLdlAodfQ "Introductievideo HTML & CSS")
+- [Introductievideo HTML](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo HTML") (*bekijk tot 04:33, het
    deel erna is niet van toepassing voor dit vak*)
 
 <br><hr><br>
@@ -180,10 +180,10 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 3**
 
-1. [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
+- [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
    op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
-2. [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
-3. [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
+- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
 
@@ -212,8 +212,8 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 4**
 
-1. [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
-2. [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
+- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 
 <br><hr><br>
