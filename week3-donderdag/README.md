@@ -250,7 +250,7 @@ Je hebt hier het volgende voor nodig:
 ## Opdracht 4a - BONUS
 
 Wanneer je de vorige opdrachten hebt afgerond, breng dan extra styling toe aan jouw pagina door de volgende wireframe na
-te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen.
+te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen. Je mag ook je eigen kleuren kiezen!
 
 De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
@@ -268,7 +268,7 @@ De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
 ## Opdracht 4b - BONUS++
 
-Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na.
+Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na. Ook bij deze opdracht mag je zelf de kleuren kiezen, of de kleuren gebruiken die hieronder staan.
 
 De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
