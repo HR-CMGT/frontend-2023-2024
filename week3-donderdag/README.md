@@ -49,7 +49,7 @@ Hieronder volgt een lijstje met semantische tags die je gebruikt om structuur aa
 tags, maar wel de veel voorkomende.
 
 | Tag         | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `<header>`  | Definieert inhoud die moet worden beschouwd als de inleidende informatie van een pagina of sectie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | `<nav>`     | Wordt gebruikt voor navigatielinks, oftewel het menu. Het kan worden geplaatst binnen de `<header>`, maar mag ook daarbuiten worden geplaatst. Nagenoeg iedere webpagina heeft een hoofdmenu, maar soms heb je ook een secundair menu, bijvoorbeeld in de `<footer>`                                                                                                                                                                                                                                                                                                             |
 | `<main>`    | Bevat de hoofdinhoud van een pagina. Hiervan mag er slechts één tag per pagina zijn.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -79,7 +79,7 @@ De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlij
 alleen voor de inhoudelijke waarde die het heeft.
 
 | Tag        | Omschrijving                                                                                                                                                                                                                              | Voorbeeld in HTML                                                                                                                       | Eindresultaat                                                                                                 |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
 | `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
@@ -96,7 +96,7 @@ alleen voor de inhoudelijke waarde die het heeft.
     - **Let op:** wanneer je CSS in de inspector wijzigt, verandert het ***niet*** in de bestanden in Visual Studio
       Code. Dit moet je handmatig wijzigen;
 
-<img src="./images/designing.png" alt="Inspector" title="Inspector" width="1012">
+<img src="./images/Inspector.png" alt="Inspector" title="Inspector" width="1012">
 
 <br>
 
@@ -146,7 +146,7 @@ Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De focus ligt i
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
-|---------|-----|-------------------|
+| ------- | --- | ----------------- |
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
@@ -156,7 +156,7 @@ Je hebt hier het volgende voor nodig:
 | h2      |     |                   |
 | p       |     |                   |
 | a       |     |                   |
-| div       |     |                   |
+| div     |     |                   |
 
 <br>
 
@@ -180,12 +180,12 @@ Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de af
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-|------|------------------------|-------------------|
+| ---- | ---------------------- | ----------------- |
 | -    | Selectors o.b.v. tag   | #B0DCFF           |
 |      | Selectors o.b.v. class | #FFEDAD           |
 |      | font-family (Arial)    | #000000           |
 |      | font-size              |                   |
-|      | line-height              |                   |
+|      | line-height            |                   |
 |      | color                  |                   |
 |      | background-color       |                   |
 |      | border                 |                   |
@@ -233,11 +233,11 @@ Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de af
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS        | Gebruikte kleuren |
-|------|------------|-------------------|
+| ---- | ---------- | ----------------- |
 | -    | padding    | -                 |
 |      | margin     |                   |
 |      | text-align |                   |
 
 **Hulpbronnen opdracht 3**
 
-1. [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
+- [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
