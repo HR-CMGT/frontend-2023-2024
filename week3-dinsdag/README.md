@@ -131,7 +131,7 @@ In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS | Gebruikte kleuren |
-|------|-----|-------------------|
+| ---- | --- | ----------------- |
 | h1   | -   | -                 |
 | h2   |     |                   |
 | p    |     |                   |
@@ -168,13 +168,13 @@ In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
-|---------|-----|-------------------|
+| ------- | --- | ----------------- |
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
 | nav     |     |                   |
 | section |     |                   |
-| div |     |                   |
+| div     |     |                   |
 
 <br>
 
@@ -182,7 +182,7 @@ Je hebt hier het volgende voor nodig:
 
 - [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
    op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
-- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
@@ -200,7 +200,7 @@ De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan 
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-|------|------------------------|-------------------|
+| ---- | ---------------------- | ----------------- |
 | -    | Selecting o.b.v. tag   | #717D96           |
 |      | Selecting o.b.v. class | #A0ABC0           |
 |      | font-family            | #E2E7F0           |
@@ -212,7 +212,7 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 4**
 
-- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 

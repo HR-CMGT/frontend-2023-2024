@@ -156,7 +156,6 @@ Je hebt hier het volgende voor nodig:
 | h2      |     |                   |
 | p       |     |                   |
 | a       |     |                   |
-| div     |     |                   |
 
 <br>
 
@@ -164,7 +163,7 @@ Je hebt hier het volgende voor nodig:
 
 - [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
    op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
-- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
@@ -194,7 +193,7 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 2**
 
-- [Cheatsheet HTML & CSS](./images/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 
