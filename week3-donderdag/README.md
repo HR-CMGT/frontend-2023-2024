@@ -252,6 +252,8 @@ Je hebt hier het volgende voor nodig:
 Wanneer je de vorige opdrachten hebt afgerond, breng dan extra styling toe aan jouw pagina door de volgende wireframe na
 te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen. Je mag ook je eigen kleuren kiezen!
 
+> ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
+
 De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
 <img src="./images/Opdracht4a.png" alt="Opdracht 4a" title="Opdracht 4a" width="1012">
@@ -269,6 +271,8 @@ De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 ## Opdracht 4b - BONUS++
 
 Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na. Ook bij deze opdracht mag je zelf de kleuren kiezen, of de kleuren gebruiken die hieronder staan.
+
+> ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
 De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
