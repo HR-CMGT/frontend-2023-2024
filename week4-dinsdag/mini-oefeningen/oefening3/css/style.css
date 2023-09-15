@@ -1,18 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #4A5468;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
 main {
+
+    padding: 50px 100px;
 
     /* Voer jouw code hieronder in */
 
-    /* display: flex;
-    gap: 20px;
-    justify-content: space-between; */
+
 }
 
 section {
 
     text-align: center;
-    padding: 20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: #FFFFFF;
+    padding: 50px 100px;
     border: 2px solid #000000;
     border-radius: 5px;
-    box-sizing: border-box;
-
 }
