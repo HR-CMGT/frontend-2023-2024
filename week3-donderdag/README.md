@@ -6,20 +6,20 @@
 
 - [Week 3 - Donderdag](#week-3---donderdag)
 - [Inhoud](#inhoud)
-  - [Semantische tags](#semantische-tags)
-    - [Waarom semantische tags?](#waarom-semantische-tags)
-    - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
-    - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
-  - [Werken met de inspector](#werken-met-de-inspector)
+    - [Semantische tags](#semantische-tags)
+        - [Waarom semantische tags?](#waarom-semantische-tags)
+        - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+        - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
+    - [Werken met de inspector](#werken-met-de-inspector)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Oefenen met de inspector](#oefenen-met-de-inspector)
 - [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
-  - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
-  - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
-  - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
-  - [Opdracht 4a - BONUS](#opdracht-4a---bonus)
-  - [Opdracht 4b - BONUS++](#opdracht-4b---bonus)
+    - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
+    - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
+    - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
+    - [Opdracht 4a - BONUS](#opdracht-4a---bonus)
+    - [Opdracht 4b - BONUS++](#opdracht-4b---bonus)
 
 <br><hr><br>
 
@@ -51,7 +51,7 @@ Hieronder volgt een lijstje met semantische tags die je gebruikt om structuur aa
 tags, maar wel de veel voorkomende.
 
 | Tag         | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `<header>`  | Definieert inhoud die moet worden beschouwd als de inleidende informatie van een pagina of sectie                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | `<nav>`     | Wordt gebruikt voor navigatielinks, oftewel het menu. Het kan worden geplaatst binnen de `<header>`, maar mag ook daarbuiten worden geplaatst. Nagenoeg iedere webpagina heeft een hoofdmenu, maar soms heb je ook een secundair menu, bijvoorbeeld in de `<footer>`                                                                                                                                                                                                                                                           |
 | `<main>`    | Bevat de hoofdinhoud van een pagina. Hiervan mag er slechts één tag per pagina zijn.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -81,7 +81,7 @@ De volgende twee tags worden ook vaak "misbruikt" vanwege het standaard uiterlij
 alleen voor de inhoudelijke waarde die het heeft.
 
 | Tag        | Omschrijving                                                                                                                                                                                                                              | Voorbeeld in HTML                                                                                                                       | Eindresultaat                                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
 | `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
@@ -151,7 +151,7 @@ maar op de code.
 Je hebt hier het volgende voor nodig:
 
 | HTML    | CSS | Gebruikte kleuren |
-| ------- | --- | ----------------- |
+|---------|-----|-------------------|
 | header  | -   | -                 |
 | main    |     |                   |
 | footer  |     |                   |
@@ -184,7 +184,7 @@ Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de af
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-| ---- | ---------------------- | ----------------- |
+|------|------------------------|-------------------|
 | -    | Selectors o.b.v. tag   | #B0DCFF           |
 |      | Selectors o.b.v. class | #FFEDAD           |
 |      | font-family (Arial)    | #000000           |
@@ -236,7 +236,7 @@ Breidt jouw webpagina uit door het volgende ontwerp na te bouwen *(klik op de af
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS        | Gebruikte kleuren |
-| ---- | ---------- | ----------------- |
+|------|------------|-------------------|
 | -    | padding    | -                 |
 |      | margin     |                   |
 |      | text-align |                   |
@@ -250,7 +250,8 @@ Je hebt hier het volgende voor nodig:
 ## Opdracht 4a - BONUS
 
 Wanneer je de vorige opdrachten hebt afgerond, breng dan extra styling toe aan jouw pagina door de volgende wireframe na
-te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen. Je mag ook je eigen kleuren kiezen!
+te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen. Je mag ook
+je eigen kleuren kiezen!
 
 > ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
@@ -259,7 +260,7 @@ De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 <img src="./images/Opdracht4a.png" alt="Opdracht 4a" title="Opdracht 4a" width="1012">
 
 | HTML | CSS | Gebruikte kleuren |
-| ---- | --- | ----------------- |
+|------|-----|-------------------|
 | ???  | ??? | #B0DCFF           |
 |      |     | #000000           |
 |      |     | #FFEDAD           |
@@ -270,7 +271,8 @@ De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 
 ## Opdracht 4b - BONUS++
 
-Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na. Ook bij deze opdracht mag je zelf de kleuren kiezen, of de kleuren gebruiken die hieronder staan.
+Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na. Ook bij deze opdracht mag je zelf de kleuren
+kiezen, of de kleuren gebruiken die hieronder staan.
 
 > ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
@@ -279,7 +281,7 @@ De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
 <img src="./images/Opdracht4b.png" alt="Opdracht 4b" title="Opdracht 4b" width="1012">
 
 | HTML | CSS | Gebruikte kleuren |
-| ---- | --- | ----------------- |
+|------|-----|-------------------|
 | ???  | ??? | #DCE1DE           |
 |      |     | #000000           |
 |      |     | #1F2421           |
