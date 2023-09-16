@@ -147,9 +147,13 @@ De HTML van een navigatie ziet er doorgaans ongeveer als volgt uit:
 
 Je begint met de `<nav>` met daarin één of meerdere `<a>`. Tot zover niets nieuws, dit heb je al meerdere malen gemaakt. Je ziet alleen bij het attribuut `href` een `#` staan in dit voorbeeld. Op die plek komt de daadwerkelijke link te staan waarnaar genavigeerd moet worden. Dus waar de gebruiker naartoe moet wanneer die op de `<a>` klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
 
+<br>
+
 **Linken binnen dezelfde pagina**
 <br>
 Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een voorbeeld van de code hiervoor vind je terug in de [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf) op pagina 2.
+
+<br>
 
 **Linken naar een andere pagina**
 <br>
