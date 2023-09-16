@@ -37,7 +37,7 @@ Om dit eindresultaat te krijgen heb je zelfs maar 3 regels code van Flexbox nodi
 <br>
 Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zetten met alle opties tot uitlijnen zoals je net hebt gelezen.
 
-<br><br>
+<br>
 
 > Naast Flexbox heb je ook nog Grid. Deze techniek staat ook in de Export-kolom in het beoordelingsmodel. Wil je hier
 > meer over weten? Zie de [hulpbronnen bij de eindopdracht](../eindopdracht/).
