@@ -18,7 +18,8 @@ Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaarge
 ## Belangrijke informatie!
 
 - Voor deze oefeningen moet je zowel HTML als CSS schrijven;
-- Op de linkjes waar een handje staat wordt de hover-state weergeven, die je ook moet maken in de CSS.
+- Op de linkjes waar een handje staat wordt de hover-state weergeven, die je ook moet maken in de CSS;
+- Voor deze oefeningen mag je iedere `<a>` met `href="#"` instellen.
 
 <br>
 
