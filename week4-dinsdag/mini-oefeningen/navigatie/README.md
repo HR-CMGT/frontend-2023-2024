@@ -21,7 +21,12 @@ Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaarge
 - Op de linkjes waar een handje staat wordt de hover-state weergeven, die je ook moet maken in de CSS;
 - Voor deze oefeningen mag je iedere `<a>` met `href="#"` instellen.
 
-<br>
+Verder heb je de volgende kleurcodes nodig voor deze oefeningen:
+
+- #000000
+- #FFFFFF
+- #457B9D
+
 
 <br><hr><br>
 
