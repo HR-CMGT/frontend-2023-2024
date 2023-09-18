@@ -22,7 +22,7 @@ Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaarge
 **Hulpbronnen voor de mini-oefeningen**
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox cheatsheet](../images/css-flexbox-poster.png)<br><img src="../images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
+- [Flexbox cheatsheet](../../images/css-flexbox-poster.png)<br><img src="../../images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd](https://www.youtube.com/watch?v=CFgeJq4l1YM)
 
 <br><hr><br>
