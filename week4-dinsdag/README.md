@@ -225,10 +225,12 @@ Ook hierbij geldt weer: wanneer er een handje op een linkje wordt getoond, dan w
 
 Voor deze opdracht heb je de volgende kleurcodes nodig:
 
-- #000000
-- #FFFFFF
-- #457B9D
-- #A0ABC0
+| Hex | RGB         | 
+|---------|--------------------|
+| `#000000` | `rgb(0,0,0)`         | 
+| `#FFFFFF` | `rgb(255,255,255)`   | 
+| `#457B9D` | `rgb(69,123,157)`    |
+| `#A0ABC0` | `rgb(160, 171, 192)` |
 
 <img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
 
