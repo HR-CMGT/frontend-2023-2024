@@ -166,15 +166,15 @@ Wanneer je klikt wordt er een hele andere pagina geopend. Dit kan een pagina van
 
 ```html
 <nav>
-  <a href="/">Home</a>
-  <a href="/over-ons.html">Over ons</a>
-  <a href="/contact.html">Contact</a>
+  <a href="index.html">Home</a>
+  <a href="over-ons.html">Over ons</a>
+  <a href="contact.html">Contact</a>
 </nav>
 ```
 
-Hier zie je dat bijvoorbeeld bij het linkje naar de contactpagina de `href` staat ingesteld op `/contact.html`. Dit betekent dat er in jouw project ook een bestandje staat die `contact.html` heet en die wordt dan geopend wanneer je op het linkje klikt.
+Hier zie je dat bijvoorbeeld bij het linkje naar de contactpagina de `href` staat ingesteld op `contact.html`. Dit betekent dat er in jouw project ook een bestandje staat die `contact.html` heet en die wordt dan geopend wanneer je op het linkje klikt.
 
-Bij het linkje voor de homepage zie je in de `href` overigens slechts een `/` staan. Dit betekent dat het hoofdbestand wordt geopend, de `index.html`, wat de homepage is.
+Bij het linkje voor de homepage zie je in de `href` overigens `index.html` staan, hierin staat namelijk de homepage.
 
 Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je de volledige URL invoeren, dus vanaf `https://`. Ook raden we aan om deze *externe link* in een nieuw tabje te openen, zodat jouw eigen website ook nog in een tabje open blijft staan. Dit stel je in met het attribuut `target` en de waarde moet dan `_blank` zijn. Dus stel, de link moet naar Google, dan zou dat er als volgt uitzien:
 
