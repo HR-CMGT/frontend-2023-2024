@@ -1,13 +1,11 @@
-body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
+/* De default state. De pseudo-class hiervoor is :link, maar je kan dus ook gewoon de a als selector gebruiken */
+a {}
 
-nav {
-    display: flex;
-    gap: 10px;
-    padding: 15px 0;
-    background-color: #E2E7F0;
-}
+/* De state wanneer je de link al eerder bezocht hebt */
+a:visited {}
 
-/* Voer jouw code hieronder in */
+/* De state wanneer de muisaanwijzer op de link staat */
+a:hover {}
+
+/* De state tijdens het klikken */
+a:active {}
