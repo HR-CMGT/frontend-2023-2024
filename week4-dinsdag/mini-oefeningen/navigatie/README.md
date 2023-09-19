@@ -30,13 +30,13 @@ Verder heb je de volgende kleurcodes nodig voor deze oefeningen:
 - #457B9D
 
 
-<br><hr><br>
+<br><br>
 
 ## Mini-oefening 1
 
 In de startmap `mini-oefeningen/navigatie/oefening1` staat code klaar om te oefenen met het stylen van `<a>`. In de HTML staat een stuk gegenereerde tekst klaar met daarin meerdere linkjes. In de CSS staan alle mogelijke selectors al klaar. Stel voor iedere selector een `color` in en bekijk in de browser wat het effect daarvan is. Speel ook met andere waarden, zoals `background-color` en `text-decoration`.
 
-<br><hr><br>
+<br><br><br>
 
 ## Mini-oefening 2
 
@@ -45,7 +45,7 @@ Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*:
 
 <img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="1012">
 
-<br><hr><br>
+<br><br><br>
 
 ## Mini-oefening 3
 
@@ -54,7 +54,7 @@ Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*:
 
 <img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="1012">
 
-<br><hr><br>
+<br><br><br>
 
 ## Mini-oefening 4
 
