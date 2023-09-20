@@ -108,6 +108,8 @@ Andere eigenschappen
 
 Object fit gebruik je om een afbeelding altijd binnen zijn container te laten passen, zonder dat de verhouding vertekend raakt. `object-fit:cover` betekent dat er randen van de zijkant weg mogen vallen om de afbeelding passend te maken. `object-fit:contain` betekent dat er witruimte toegevoegd mag worden om de afbeelding passend te maken.
 
+In dit voorbeeld staat de afbeelding in een `div`. Dit is vaak het meest praktisch, omdat de `div` al een afmeting toegewezen krijgt door je `flex` instellingen. De afbeelding wordt dan zo groot als die `div`.
+
 HTML
 ```html
 <div>
