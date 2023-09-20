@@ -22,6 +22,7 @@
 ## Afbeeldingen
 
 - Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
+- Images plaats je meestal in een container. De image afmeting is 100% van de container. De maat van de container bepaal je met flex.
 - Aspect-ratio
 - Werken met object fit (cover - contain)
 - Background images (cover - contain)
