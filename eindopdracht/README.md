@@ -14,7 +14,7 @@
 
 ## De eindopdracht 
 
-De informatie over de opdracht, de voorwaarden en het inleveren is te vinden in de cursushandleiding.
+De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de cursushandleiding.
 <br>
 ***Lees de cursushandleiding aandachtig door!***
 
