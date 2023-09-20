@@ -4,7 +4,8 @@
 - Transform, 3D, filter
 - Transition
 - Animation
-- Position absolute, fixed
+- Position fixed
+- Oefening
 
 <br><br><br>
 
@@ -40,6 +41,8 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
     rotateY:20deg;
 }
 ```
+> 🤯 Gebruik de [Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) optie om andere content op de achterkant van een div te laten zien!
+
 <br>
 
 ### Filter
@@ -85,22 +88,75 @@ In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
 
 ## Animation
 
+Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
+
+```css
+@keyframes my-cool-animation {
+  from {
+    opacity:0;
+    transform: translateX(20%);
+  }
+  to {
+    opacity:1;
+    transform: translateX(0%);
+  }
+}
+```
+Vervolgens kan je de keyframes toekennen aan een element via het `animation` keyword. Hierin kan je ook aangeven hoe lang de animatie duurt, of het moet herhalen, etc.
+```css
+div {
+    animation: 3s ease-in infinite my-cool-animation;
+}
+```
+
+
+> De browser inspector heeft een [animation inspector](https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA) om de timing van je animaties mee te ontwerpen.
+
+<br><br><br>
+
+## Position fixed
+
+We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan.*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
+
+```css
+.chatwindow {
+    position:fixed;
+    bottom:20px;
+    right:20px;
+}
+```
+### Sticky
+
+Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolled. Dit werkt goed voor `nav` elementen. 
+
+```css
+nav.sticky {
+  position: sticky;
+  top: 20px;
+}
+```
 
 <br><br><br>
 
 ## Oefening
 
-Chat request popup
+***Chat request popup***
 
-- `position absolute` haalt een element uit de document flow. Dit werkt goed voor popups, chat venster, overlay.
-- `left, top, bottom, right` bepaalt de basis positie
-- `transform` gebruik je als je een item wil animeren
-- `transition` is animatie die afspeelt na een gebruikers interactie (zoals `hover` of `scroll`)
-- `animation` is animatie die automatisch kan afspelen
+- `position fixed` met `left, top, bottom, right` plaatst een chat window rechtsonder in beeld
+- met `animation` en `transform` laten we het chat window van rechts buiten beeld, naar binnen animeren.
+- we maken een aparte animation om aandacht te vragen, bv. door de achtergrondkleur te laten oplichten
+
+***Spinning card met achterkant***
+
+- Gebruik `hover` om een `card div` 180 graden te roteren op de Y as
+- Gebruik `perspective` om een diepte effect te krijgen
+- Gebruik d[Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) om andere content op de achterkant te laten zien
 
 <Br><br><br>
   
-## Voorbeelden
+## Links
   
 - [Animeer de header image kleuren](https://codepen.io/tommiehansen/pen/BaGyVVy)
+- [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
+- [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
