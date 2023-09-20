@@ -51,6 +51,9 @@ Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. D
 
 ## Stap 3: Wireframe nabouwen
 De opdracht is om onderstaande wireframe na te bouwen, zoals omschreven in de cursushandleiding.
+<br>
+Gebruik teksten en afbeeldingen die logisch zijn bij jouw product. Kies zelf bijpassende kleuren. Maak eventueel gebruik van een kleurpalet: [https://coolors.co/palettes/palettes](https://coolors.co/palettes/palettes).
+
 Hieronder staan nog enkele tips om je hierbij te helpen.
 
 > ### Tips voor het bouwen
