@@ -5,7 +5,6 @@
 - [Week 5 - Dinsdag](#week-5---dinsdag)
   - [Responsive design](#responsive-design)
   - [Afbeeldingen](#afbeeldingen)
-  - [Relatieve units](#relatieve-units)
   - [Links](#links)
 
 <br><br><br>
@@ -16,6 +15,19 @@
 - Werken met `vw` `vh`, `%`, `em` en `rem`.
 - Media queries
 - Flex row naar flex column
+
+<br><br><br>
+
+## Absolute en relatieve units
+
+| Eenheid | Voorbeeld       | Toepassing                                   |
+|---------|-----------------|----------------------------------------------|
+| px      | width:100px;    | Een absolute pixel afmeting                  |
+| vw      | width:40vw;     | 40vw betekent 40% van de viewport width      |
+| vh      | height:30vh;    | vh betekent % van de viewport height         |
+| %       | width:20%;      | De breedte is 20% van de parent container    |
+| %       | font-size:120%; | De font size is 120% van de parent font-size |
+| rem     | font-size:2rem; | De font size is 2 maal de default font size  |
 
 <br><br><br>
 
@@ -32,22 +44,6 @@
 - Lazy loading
 
 <br><hr><br>
-
-## Absolute en relatieve units
-
-| Eenheid | Voorbeeld       | Toepassing                                   |
-|---------|-----------------|----------------------------------------------|
-| px      | width:100px;    | Een absolute pixel afmeting                  |
-| vw      | width:40vw;     | 40vw betekent 40% van de viewport width      |
-| vh      | height:30vh;    | vh betekent % van de viewport height         |
-| %       | width:20%;      | De breedte is 20% van de parent container    |
-| %       | font-size:120%; | De font size is 120% van de parent font-size |
-| rem     | font-size:2rem; | De font size is 2 maal de default font size  |
-
-
-
-
-<br><br><br>
  
 ## Links
   
