@@ -106,6 +106,8 @@ Andere eigenschappen
 
 ### Object fit
 
+Object fit gebruik je om een afbeelding altijd binnen zijn container te laten passen, zonder dat de verhouding vertekend raakt. `object-fit:cover` betekent dat er randen van de zijkant weg mogen vallen om de afbeelding passend te maken. `object-fit:contain` betekent dat er witruimte toegevoegd mag worden om de afbeelding passend te maken.
+
 HTML
 ```html
 <div>
@@ -123,6 +125,8 @@ img {
 <br>
 
 ### Achtergrond afbeeldingen
+
+Het voordeel van een achtergrond afbeelding is dat je er nog content overheen kan zetten. Dit leent zich goed voor HERO / Header elementen. Let op dat een leeg element van zichzelf geen hoogte / breedte heeft, dus dit moet je via CSS instellen.
 
 HTML
 ```html
