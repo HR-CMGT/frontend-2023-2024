@@ -24,17 +24,27 @@
 - Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
 - Images plaats je meestal in een container. De image afmeting is 100% van de container. De maat van de container bepaal je met flex.
 - Aspect-ratio
-- Werken met object fit (cover - contain)
-- Background images (cover - contain)
+- Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
+- Werken met object-fit
+- Werken met achtergrond afbeeldingen
 - Werken met DPI waarden: `srcset`
 - Werken met `picture`
 - Lazy loading
 
 <br><hr><br>
 
-## Relatieve units
+## Absolute en relatieve units
 
-⚠️⚠️⚠️ **@TODO** maak cheatsheet over relatieve units ⚠️⚠️⚠️
+| Eenheid | Voorbeeld       | Toepassing                                   |
+|---------|-----------------|----------------------------------------------|
+| px      | width:100px;    | Een absolute pixel afmeting                  |
+| vw      | width:40vw;     | 40vw betekent 40% van de viewport width      |
+| vh      | height:30vh;    | vh betekent % van de viewport height         |
+| %       | width:20%;      | De breedte is 20% van de parent container    |
+| %       | font-size:120%; | De font size is 120% van de parent font-size |
+| rem     | font-size:2rem; | De font size is 2 maal de default font size  |
+
+
 
 
 <br><br><br>
@@ -45,3 +55,4 @@
 - [Werken met `srcset` en `picture`](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
 - [Lazy Loading](https://www.w3schools.com/tags/att_img_loading.asp)
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
+- [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
