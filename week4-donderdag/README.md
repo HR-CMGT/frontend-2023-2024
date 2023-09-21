@@ -13,7 +13,7 @@
 
 ## De tussenopdracht
 
-De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de cursushandleiding.
+De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de ***cursushandleiding***.
 
 <br>
 
@@ -50,9 +50,15 @@ Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. D
 <br>
 
 ## Stap 3: Wireframe nabouwen
-De opdracht is om onderstaande wireframe na te bouwen, zoals omschreven in de cursushandleiding.
+De opdracht is om onderstaande wireframe na te bouwen, ***zoals omschreven in de cursushandleiding***.
 <br>
-Gebruik teksten en afbeeldingen die logisch zijn bij jouw product. Kies zelf bijpassende kleuren. Maak eventueel gebruik van een kleurpalet: [https://coolors.co/palettes/palettes](https://coolors.co/palettes/palettes).
+### Van wireframe naar ontwerp
+- Bedenk waar jouw website over gaat. 
+- Gebruik *teksten* en *afbeeldingen* die logisch zijn bij jouw onderwerp.
+- Kies zelf bijpassende kleuren. Maak eventueel gebruik van een kleurpalet: [https://coolors.co/palettes/palettes](https://coolors.co/palettes/palettes).
+- Kies bijpassende fonts. Tip: gebruik een fancy font voor grote kopteksten, en een prettig leesbaar font voor bodyteksten.
+  
+<br>
 
 Hieronder staan nog enkele tips om je hierbij te helpen.
 
@@ -64,7 +70,8 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
 > - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig hebt;
 > - Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
-> - 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vastloopt bij je docent, medestudent of peercoach.
+> - Je kan de hele opdracht oplossen met de stof uit de lessen, je hebt geen google/stackoverflow/chatgpt nodig.
+> - Als iets niet lukt kan je je medestudenten, peercoaches en docenten om hulp vragen!
 
 <br>
 
