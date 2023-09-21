@@ -4,7 +4,15 @@
 
 - [Week 5 - Dinsdag](#week-5---dinsdag)
   - [Responsive design](#responsive-design)
+    - [Meta viewport](#meta-viewport)
+    - [Absolute en relatieve units](#absolute-en-relatieve-units)
+    - [Media queries](#media-queries)
+    - [Flex columns](#flex-columns)
   - [Afbeeldingen](#afbeeldingen)
+    - [Object fit](#object-fit)
+    - [Achtergrond afbeeldingen](#achtergrond-afbeeldingen)
+    - [Verschillende DPI waarden](#verschillende-dpi-waarden)
+    - [Werken met picture](#werken-met-picture)
   - [Links](#links)
 
 <br><br><br>
@@ -28,8 +36,8 @@
 
 ### Absolute en relatieve units
 
-| Eenheid | Voorbeeld       | Toepassing                                   |
-|---------|-----------------|----------------------------------------------|
+| Eenheid | Voorbeeld         | Toepassing                                   |
+| ------- | ----------------- | -------------------------------------------- |
 | px      | `width:100px;`    | Een absolute pixel afmeting                  |
 | vw      | `width:40vw;`     | 40vw betekent 40% van de viewport width      |
 | vh      | `height:30vh;`    | vh betekent % van de viewport height         |
@@ -41,31 +49,22 @@
 
 ### Media queries
 
-Scherm afmetingen
+Schermafmetingen
 
 ```css
-@media (max-width: 1000px) {
-}
-@media (min-width: 250px) {
-}
-@media (width >= 600px) {
-}
-@media (width <= 400px) {
-}
-@media (400px <= width <= 1000px) {
-}
+@media (max-width: 1000px) {}
+@media (min-width: 250px) {}
+@media (width >= 600px) {}
+@media (width <= 400px) {}
+@media (400px <= width <= 1000px) {}
 ```
 Andere eigenschappen
 
 ```css
-@media (orientation: portrait) {
-}
-@media (prefers-color-scheme: dark) {
-}
-@media (prefers-reduced-motion) {
-}
-@media (min-width: 30em) and (orientation: landscape) {
-}
+@media (orientation: portrait) {}
+@media (prefers-color-scheme: dark) {}
+@media (prefers-reduced-motion) {}
+@media (min-width: 600px) and (orientation: landscape) {}
 ```
 
 
