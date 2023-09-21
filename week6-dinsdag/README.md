@@ -41,7 +41,6 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
     rotateY:20deg;
 }
 ```
-> 🤯 Gebruik de [Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) optie om andere content op de achterkant van een div te laten zien!
 
 <br>
 
@@ -138,19 +137,42 @@ nav.sticky {
 
 <br><br><br>
 
-## Oefening
+## Klassikale oefening
 
 ***Chat request popup***
 
 - `position fixed` met `left, top, bottom, right` plaatst een chat window rechtsonder in beeld
-- met `animation` en `transform` laten we het chat window van rechts buiten beeld, naar binnen animeren.
-- we maken een aparte animation om aandacht te vragen, bv. door de achtergrondkleur te laten oplichten
+- Met `transform` plaats je nu het chat window rechts *buiten* beeld
+- Met `animation` en `keyframes` laat je het chat window weer terug in beeld animeren *(de transforms zet je weer op 0)*. De animatie speelt maar 1x, dit doe je met `animation forwards`
+- Binnen het chat window plaats je een child div, met een eigen animatie. De animatie speelt continu, dit doe je met `animation infinite`. Je kan bv. de achtergrondkleur laten pulseren.
 
-***Spinning card met achterkant***
+***Cards falling in place***
 
-- Gebruik `hover` om een `card div` 180 graden te roteren op de Y as
-- Gebruik `perspective` om een diepte effect te krijgen
-- Gebruik d[Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) om andere content op de achterkant te laten zien
+- Plaats een aantal `cards` in een rij. Dit is de eindpositie.
+- Ontwerp een startpositie, van waaruit de card in beeld gaat vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
+- Gebruik `keyframes` en `animation` om de cards naar de eindpositie te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
+- Gebruik `animation-delay` om ***elke kaart*** een eigen delay te geven. Zo kan je de kaarten *na elkaar* in beeld laten vallen.
+- Experimenteer met de verschillende `ease` opties. Wat doet dit precies? Je kan op [deze site](https://easings.net/#) verschillende `eases` uitproberen en copy>pasten.
+
+<br><br><br>
+
+## Zelfstandige oefening
+
+***Audio bars***
+
+- Plaats een aantal divs naast elkaar in een container. Geef de divs een afmeting en achtergrondkleur.
+- Je kan de achtergrondkleur van groen naar rood laten lopen met [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
+- Gebruik `keyframes` en `animation` om elke bar individueel te laten bewegen.
+
+<img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/93c03d37-f405-40f8-a07e-3c5b7fdca1a9" width="100" />
+
+***Loading spinner***
+
+- Plaats een afbeelding van een loading spinner, of maak zelf een spinner met CSS.
+- Laat de afbeelding eeuwig roteren met `keyframes` en `animation`
+- Kan je de spinner meer fancy maken met extra animaties?
+  
+<img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/0ebba528-5336-4dac-983b-18f01d284088" width="100" />
 
 <Br><br><br>
   
@@ -159,4 +181,7 @@ nav.sticky {
 - [Animeer de header image kleuren](https://codepen.io/tommiehansen/pen/BaGyVVy)
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [Custom easing](https://easings.net/)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
+- [🤯 Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
+
