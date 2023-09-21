@@ -1,20 +1,10 @@
 # Week 6 - Dinsdag
 
-- UI design
 - Transform, 3D, filter
 - Transition
 - Animation
 - Position fixed
 - Oefening
-
-<br><br><br>
-
-## UI design
-
-- Voor wie is jouw website bedoeld?  Wat is het doel van de website? Kies een uitstraling die hier bij past.
-- Kies een *kleurpalet*, bv. door kleuren uit je header foto te halen, of via een tool : [Coolors](https://coolors.co), [Adobe](https://color.adobe.com/create/color-wheel), [Colormind](http://colormind.io) 
-- Gebruik [Google Fonts](https://fonts.google.com) om twee lettertypes te kiezen: een fancy lettertype voor je kopteksten, en een prettig leesbaar lettertype voor je body tekst.
-
 
 <br><br><br>
 
