@@ -7,6 +7,7 @@
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: GitHub gereed maken](#stap-2-github-gereed-maken)
   - [Stap 3: Wireframe nabouwen](#stap-3-wireframe-nabouwen)
+    - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
 
 
 <hr>
@@ -42,7 +43,7 @@ Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. D
   - Zorg ervoor dat `Public` is aangevinkt;
   - De overige velden kan je voor nu ongewijzigd laten en klik op `Create repository`;
 - Klik op `uploading an existing file` en upload de bestandsstructuur die je in stap 1 hebt aangemaakt. Klik vervolgens op `Commit changes`;
-  - ⚠️ Let op: sleep de index.html en de css-map het scherm in, zodat de mappenstructuur behouden blijft;
+  - ⚠️ Let op: sleep de inhoud van de map `frontend-tussenopdracht` het scherm in om te uploaden, zodat de mappenstructuur behouden blijft;
 - Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken;
 - Refresh de instellingenpagina een paar minuten later en dan staat bovenin de link naar jouw website. **Dát is de link die je moet inleveren in [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/169219)**;
   - ⚠️ Let op: doorloop bovenstaande stappen van het uploaden nogmaals vóórdat je het inlevert, zodat de meest recente bestanden online te zien zijn.
