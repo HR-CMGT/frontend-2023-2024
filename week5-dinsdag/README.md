@@ -131,11 +131,11 @@ Het voordeel van een achtergrond afbeelding is dat je er nog content overheen ka
 
 HTML
 ```html
-<div><div>
+<header><header>
 ```
 CSS
 ```css
-div {
+header {
   width: 50vw;
   height: 30vh;
   background-image:url(../bmo.webp);
@@ -145,6 +145,8 @@ div {
 }
 ```
 <br>
+
+## Expert: Afbeeldingen aanpassen voor device
 
 ### Verschillende DPI waarden
 
