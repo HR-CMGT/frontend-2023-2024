@@ -171,6 +171,7 @@ nav.sticky {
 - [Animeer de header image kleuren](https://codepen.io/tommiehansen/pen/BaGyVVy)
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [Animeer een SVG illustratie](https://codepen.io/eerk/pen/ZPzNqv)
 - [Custom easing](https://easings.net/)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
 - [🤯 Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
