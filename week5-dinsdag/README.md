@@ -10,7 +10,8 @@
     - [Flex columns](#flex-columns)
   - [Afbeeldingen](#afbeeldingen)
     - [Object fit](#object-fit)
-    - [Achtergrond afbeeldingen](#achtergrond-afbeeldingen)
+    - [Achtergrondafbeeldingen](#achtergrondafbeeldingen)
+  - [Expert: Afbeeldingen aanpassen voor device](#expert-afbeeldingen-aanpassen-voor-device)
     - [Verschillende DPI waarden](#verschillende-dpi-waarden)
     - [Werken met picture](#werken-met-picture)
   - [Links](#links)
@@ -97,7 +98,7 @@ Andere eigenschappen
 - Aspect-ratio
 - Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
 - Werken met object-fit
-- Werken met achtergrond afbeeldingen
+- Werken met achtergrondafbeeldingen
 - Werken met DPI waarden: `srcset`
 - Werken met `picture`
 
@@ -125,9 +126,9 @@ img {
 ```
 <br>
 
-### Achtergrond afbeeldingen
+### Achtergrondafbeeldingen
 
-Het voordeel van een achtergrond afbeelding is dat je er nog content overheen kan zetten. Dit leent zich goed voor HERO / Header elementen. Let op dat een leeg element van zichzelf geen hoogte / breedte heeft, dus dit moet je via CSS instellen.
+Het voordeel van een achtergrondafbeelding is dat je er nog content overheen kan zetten. Dit leent zich goed voor HERO / Header elementen. Let op dat een leeg element van zichzelf geen hoogte / breedte heeft, dus dit moet je via CSS instellen.
 
 HTML
 ```html
