@@ -139,10 +139,10 @@ CSS
 header {
   width: 50vw;
   height: 30vh;
-  background-image:url(../bmo.webp);
-  background-repeat:none;
-  background-position:center;
-  background-size:cover;
+  background-image:url(../images/background.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 ```
 <br>
