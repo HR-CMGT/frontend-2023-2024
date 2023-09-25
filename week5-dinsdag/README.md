@@ -3,6 +3,7 @@
 > *“A Pixel is Not a Pixel”*
 
 - [Week 5 - Dinsdag](#week-5---dinsdag)
+- [Inhoud](#inhoud)
   - [Responsive design](#responsive-design)
     - [Meta viewport](#meta-viewport)
     - [Absolute en relatieve units](#absolute-en-relatieve-units)
@@ -15,8 +16,11 @@
     - [Verschillende DPI waarden](#verschillende-dpi-waarden)
     - [Werken met picture](#werken-met-picture)
   - [Links](#links)
+- [Opdracht: Foodblog responsive](#opdracht-foodblog-responsive)
 
 <br><br><br>
+
+# Inhoud
 
 ## Responsive design
 
@@ -37,14 +41,14 @@
 
 ### Absolute en relatieve units
 
-| Eenheid | Voorbeeld         | Toepassing                                   |
-| ------- | ----------------- | -------------------------------------------- |
-| px      | `width:100px;`    | Een absolute pixel afmeting                  |
-| vw      | `width:40vw;`     | 40vw betekent 40% van de viewport width      |
-| vh      | `height:30vh;`    | vh betekent % van de viewport height         |
-| %       | `width:20%;`      | De breedte is 20% van de parent container    |
-| %       | `font-size:120%;` | De font size is 120% van de parent font-size |
-| rem     | `font-size:2rem;` | De font size is 2 maal de default font size  |
+| Eenheid | Voorbeeld          | Toepassing                                                           |
+| ------- | ------------------ | -------------------------------------------------------------------- |
+| px      | `width: 100px;`    | Een absolute pixel afmeting                                          |
+| vw      | `width: 40vw;`     | 40vw betekent 40% van de viewport width                              |
+| vh      | `height: 30vh;`    | vh betekent % van de viewport height                                 |
+| %       | `width: 20%;`      | De breedte is 20% van de parent container                            |
+| rem     | `font-size: 2rem;` | De font size is 2 maal de font-size die op de `html` staat ingesteld |
+| %       | `font-size: 120%;` | De font size is 120% van de parent font-size                         |
 
 <br>
 
@@ -113,7 +117,7 @@ In dit voorbeeld staat de afbeelding in een `div`. Dit is vaak het meest praktis
 HTML
 ```html
 <div>
-  <img src="./bmo.webp" loading="lazy" alt="a silly robot"/>
+  <img src="./robot.webp" loading="lazy" alt="a silly robot"/>
 <div>
 ```
 CSS
@@ -154,7 +158,7 @@ header {
 Met `srcset` kan je voor hogere DPI schemen een scherpere / grotere afbeelding inladen. `2x` betekent een retina scherm. 
 
 ```html
-<img srcset="bmo-320pixels.jpg, bmo-640pixels.jpg 2x" alt="a silly robot" />
+<img srcset="robot-320pixels.jpg, robot-640pixels.jpg 2x" alt="a silly robot" />
 ```
 <br>
 
@@ -164,8 +168,8 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 
 ```html
 <picture>
-  <source media="(max-width: 799px)" srcset="bmo-480-portrait.jpg" />
-  <source media="(min-width: 800px)" srcset="bmo-800-landscape.jpg" />
+  <source media="(max-width: 799px)" srcset="robot-480-portrait.jpg" />
+  <source media="(min-width: 800px)" srcset="robot-800-landscape.jpg" />
 </picture>
 ```
 
@@ -181,3 +185,19 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 - [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) en [Media query ranges](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+
+
+<br><hr><br>
+
+# Opdracht: Foodblog responsive
+
+Hieronder staat het eindresultaat op mobile wat je moet zien te bereiken. In de startcode werkt alles al op desktop, maar niet alles is optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het eindresultaat wat je hieronder ziet. Zorg ervoor dat het er voor mobile hetzelfde uitziet als wat je hieronder ziet. Hou voor mobile een maximale breedte van `600px` aan.
+
+> Let erop dat de headings op mobile iets kleiner zijn dan op desktop, dus bedenk een slimme manier om dit gemakkelijk aan te passen, zodat je niet iedere heading los hoeft in te stellen op mobile.
+
+<br>
+
+> Aangezien je op een touchscreen geen hover-state hebt, betekent het handje in onderstaand eindresultaat een tap, dus dat je erop drukt.
+
+
+<img src="./images/Foodblog-responsive.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
