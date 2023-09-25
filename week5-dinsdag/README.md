@@ -193,13 +193,13 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 
 # Opdracht: Foodblog responsive
 
-Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In de startcode werkt veel al op desktop, maar nog niet alles klopt én ook is niet alles al optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het eindresultaat wat je hieronder ziet. Zorg er dus voor dat je tot onderstaand eindresultaat komt. Hou voor mobile een maximale breedte van `600px` aan.
+Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In de startcode werkt veel al op desktop, maar nog niet alles klopt én ook is niet alles al optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het eindresultaat wat je hieronder ziet. Zorg er dus voor dat je tot onderstaand eindresultaat komt. Hou voor mobile een maximale breedte van `480px` aan, dus stel daar je media-query op in.
 
 > Let erop dat de headings op mobile iets kleiner zijn dan op desktop, dus bedenk een slimme manier om dit gemakkelijk aan te passen, zodat je niet iedere heading los hoeft in te stellen op mobile.
 
 <br>
 
-> Aangezien je op een touchscreen geen hover-state hebt, betekent het handje in onderstaand eindresultaat een tap, dus dat je erop drukt.
+> Aangezien je op een touchscreen geen hover-state hebt, betekent het handje in onderstaand eindresultaat een *tap*, dus dat je erop drukt.
 
 ## Eindresultaat mobile
 <img src="./images/Foodblog-responsive-mobile.png" alt="Opdracht 1" title="Opdracht 1" width="425">
