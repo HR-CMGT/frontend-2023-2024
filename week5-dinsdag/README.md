@@ -200,4 +200,4 @@ Hieronder staat het eindresultaat op mobile wat je moet zien te bereiken. In de 
 > Aangezien je op een touchscreen geen hover-state hebt, betekent het handje in onderstaand eindresultaat een tap, dus dat je erop drukt.
 
 
-<img src="./images/Foodblog-responsive.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
+<img src="./images/Foodblog-responsive.png" alt="Opdracht 1" title="Opdracht 1" width="425">
