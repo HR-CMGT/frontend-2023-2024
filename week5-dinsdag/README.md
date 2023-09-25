@@ -54,6 +54,30 @@
 
 <br>
 
+### Box sizing
+
+Bij het bepalen van de afmetingen van je elementen kan het verwarrend zijn dat de `margin` en `padding` niet automatisch worden meegenomen in de berekening. Dit kan je corrigeren met:
+
+```css
+* {
+    box-sizing:border-box;
+}
+```
+
+<br>
+
+### Calc
+
+Met `calc` kan je een relatieve unit combineren met een absolute unit. Deze header krijgt als hoogte de helft van het scherm, min 20 pixels.
+
+```css
+header {
+    height: calc(50vh - 20px);
+}
+```
+
+<br>
+
 ### Media queries
 
 Schermafmetingen
