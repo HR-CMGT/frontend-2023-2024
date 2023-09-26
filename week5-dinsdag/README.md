@@ -7,6 +7,8 @@
   - [Responsive design](#responsive-design)
     - [Meta viewport](#meta-viewport)
     - [Absolute en relatieve units](#absolute-en-relatieve-units)
+    - [Box sizing](#box-sizing)
+    - [Calc](#calc)
     - [Media queries](#media-queries)
     - [Flex columns](#flex-columns)
   - [Afbeeldingen](#afbeeldingen)
@@ -223,6 +225,8 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 - [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) en [Media query ranges](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+- [Afbeeldingen optimaliseren](https://tinypng.com/)
+- [Afbeeldingen omzetten naar webp](https://cloudconvert.com/webp-converter)
 
 
 <br><hr><br>
