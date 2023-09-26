@@ -7,8 +7,6 @@
   - [Responsive design](#responsive-design)
     - [Meta viewport](#meta-viewport)
     - [Absolute en relatieve units](#absolute-en-relatieve-units)
-    - [Box sizing](#box-sizing)
-    - [Calc](#calc)
     - [Media queries](#media-queries)
     - [Flex columns](#flex-columns)
   - [Afbeeldingen](#afbeeldingen)
@@ -45,14 +43,14 @@
 
 ### Absolute en relatieve units
 
-| Eenheid | Voorbeeld          | Toepassing                                                                        |
-| ------- | ------------------ | --------------------------------------------------------------------------------- |
-| px      | `width: 100px;`    | Een absolute pixel afmeting                                                       |
-| vw      | `width: 40vw;`     | 40vw betekent 40% van de **viewport** width                                       |
-| vh      | `height: 30vh;`    | 30vh betekent 30% van de **viewport** height                                      |
-| %       | `width: 20%;`      | De breedte is 20% van de **parent-container** width                               |
-| rem     | `font-size: 2rem;` | De font-size is 2 maal de font-size die op de `html` staat ingesteld              |
-| %       | `font-size: 120%;` | De font-size is 120% van de font-size die het krijgt van een **parent-container** |
+| Eenheid | Voorbeeld          | Toepassing                                                           |
+| ------- | ------------------ | -------------------------------------------------------------------- |
+| px      | `width: 100px;`    | Een absolute pixel afmeting                                          |
+| vw      | `width: 40vw;`     | 40vw betekent 40% van de viewport width                              |
+| vh      | `height: 30vh;`    | vh betekent % van de viewport height                                 |
+| %       | `width: 20%;`      | De breedte is 20% van de parent container                            |
+| rem     | `font-size: 2rem;` | De font size is 2 maal de font-size die op de `html` staat ingesteld |
+| %       | `font-size: 120%;` | De font size is 120% van de parent font-size                         |
 
 <br>
 
@@ -124,12 +122,22 @@ Andere eigenschappen
 
 ## Afbeeldingen
 
-- Afbeelding formaten: `webp`, `png`, `jpg`, `gif`, `svg`, lazy loading.
-- Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
+### Formaten
+
+- Afbeelding formaten zijn: `webp`, `png`, `jpg`, `gif`, `svg`.
+- `.png` en `.webp` zijn *lossless* waardoor de kwaliteit hoog blijft. Ook kan je *transparatie* toevoegen.
+- `.jpg` is goed voor foto's, maar niet voor scherpe logo's, iconen en tekst, door de hoge compressie.
+- `.gif` is *for the memes* maar is eigenlijk erg verouderd. Je hebt weinig kleuren en het bestand wordt heel groot. Animaties kan je beter in `.mp4` of `.webp` plaatsen.
+- `.svg` is een vector formaat, dus schaalbaar zonder kwaliteitsverlies. Dit is handig voor logo's en iconen.
+- Gebruik `lazy loading` om niet alle afbeeldingen tegelijk in te laden.
+
+### Schalen
+
+- Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
+- Door in je css alleen de hoogte of breedte aan te passen blijft de verhouding correct, maar je document kan er rommelig uit gaan zien.
 - Images plaats je meestal in een container. De image afmeting is 100% van de container. De maat van de container bepaal je met flex.
 - Aspect-ratio
-- Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
-- Werken met object-fit
+- Werken met `object-fit`
 - Werken met achtergrondafbeeldingen
 - Werken met DPI waarden: `srcset`
 - Werken met `picture`
@@ -225,8 +233,10 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 - [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) en [Media query ranges](https://css-tricks.com/the-new-css-media-query-range-syntax/)
-- [Afbeeldingen optimaliseren](https://tinypng.com/)
-- [Afbeeldingen omzetten naar webp](https://cloudconvert.com/webp-converter)
+- [Wat is WebP?](https://developers.google.com/speed/webp/faq)
+- [Converteer je image naar WebP](https://cloudconvert.com/webp-converter)
+- [Verklein de bestandsgrootte van je images](https://tinypng.com/)
+- Op mobiel heb je geen muis, je kan met [Touch Actions](https://css-tricks.com/almanac/properties/t/touch-action/) bepalen wat user gestures doen.
 
 
 <br><hr><br>
