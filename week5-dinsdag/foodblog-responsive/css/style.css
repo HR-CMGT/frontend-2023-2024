@@ -67,11 +67,10 @@ header {
     gap: 20px;
     align-items: center;
     padding: 20px 50px;
-    height: calc(100vh - 80px);
     border-radius: 5px;
     border: 3px solid #84a98c;
 
-    background: url(../images/background.jpg);
+    background-color: #84a98c;
 }
 
 header .left-column {

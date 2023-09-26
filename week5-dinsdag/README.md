@@ -132,6 +132,18 @@ img {
 ```
 <br>
 
+Standaard wordt het midden van de afbeelding getoond, maar stel, het hoofdonderwerp staat ergens anders op de afbeelding, bijvoorbeeld onderaan, dan kan je met `object-position` de gewenste positie bepalen:
+CSS
+```css
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+}
+```
+<br>
+
 ### Achtergrondafbeeldingen
 
 Het voordeel van een achtergrondafbeelding is dat je er nog content overheen kan zetten. Dit leent zich goed voor HERO / Header elementen. Let op dat een leeg element van zichzelf geen hoogte / breedte heeft, dus dit moet je via CSS instellen.
