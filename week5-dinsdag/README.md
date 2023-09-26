@@ -133,11 +133,11 @@ Andere eigenschappen
 
 ### Schalen
 
-- Door alleen de hoogte of breedte aan te passen blijft de verhouding correct
+- Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
+- Door in je css alleen de hoogte of breedte aan te passen blijft de verhouding correct, maar je document kan er rommelig uit gaan zien.
 - Images plaats je meestal in een container. De image afmeting is 100% van de container. De maat van de container bepaal je met flex.
 - Aspect-ratio
-- Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
-- Werken met object-fit
+- Werken met `object-fit`
 - Werken met achtergrondafbeeldingen
 - Werken met DPI waarden: `srcset`
 - Werken met `picture`
