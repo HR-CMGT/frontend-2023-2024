@@ -45,14 +45,14 @@
 
 ### Absolute en relatieve units
 
-| Eenheid | Voorbeeld          | Toepassing                                                           |
-| ------- | ------------------ | -------------------------------------------------------------------- |
-| px      | `width: 100px;`    | Een absolute pixel afmeting                                          |
-| vw      | `width: 40vw;`     | 40vw betekent 40% van de viewport width                              |
-| vh      | `height: 30vh;`    | vh betekent % van de viewport height                                 |
-| %       | `width: 20%;`      | De breedte is 20% van de parent container                            |
-| rem     | `font-size: 2rem;` | De font size is 2 maal de font-size die op de `html` staat ingesteld |
-| %       | `font-size: 120%;` | De font size is 120% van de parent font-size                         |
+| Eenheid | Voorbeeld          | Toepassing                                                                        |
+| ------- | ------------------ | --------------------------------------------------------------------------------- |
+| px      | `width: 100px;`    | Een absolute pixel afmeting                                                       |
+| vw      | `width: 40vw;`     | 40vw betekent 40% van de **viewport** width                                       |
+| vh      | `height: 30vh;`    | 30vh betekent 30% van de **viewport** height                                      |
+| %       | `width: 20%;`      | De breedte is 20% van de **parent-container** width                               |
+| rem     | `font-size: 2rem;` | De font-size is 2 maal de font-size die op de `html` staat ingesteld              |
+| %       | `font-size: 120%;` | De font-size is 120% van de font-size die het krijgt van een **parent-container** |
 
 <br>
 
