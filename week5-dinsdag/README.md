@@ -223,6 +223,9 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 - [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) en [Media query ranges](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+- [Converteer je image naar WebP](https://cloudconvert.com/webp-converter)
+- [Verklein de bestandsgrootte van je images](https://tinypng.com/)
+- Op mobiel heb je geen muis, je kan met [Touch Actions](https://css-tricks.com/almanac/properties/t/touch-action/) bepalen wat user gestures doen.
 
 
 <br><hr><br>
