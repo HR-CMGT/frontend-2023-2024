@@ -23,7 +23,8 @@
   - [Opdracht 2: HTML formulier](#opdracht-2-html-formulier)
   - [Opdracht 3: CSS formulier](#opdracht-3-css-formulier)
   - [Opdracht 4: Responsive](#opdracht-4-responsive)
-  - [Opdracht 5: het formulier versturen](#opdracht-5-het-formulier-versturen)
+  - [Opdracht 5: Validatie](#opdracht-5-validatie)
+  - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
     - [Namen van invulvelden](#namen-van-invulvelden)
 - [Links](#links)
 
@@ -340,11 +341,18 @@ Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="425">
 
+<br><br>
+
+## Opdracht 5: Validatie
+Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
+
+<img src="./images/Opdracht5.png" alt="Opdracht 5" title="Opdracht 5" width="1012">
+
 
 
 <br><br>
 
-## Opdracht 5: het formulier versturen
+## Opdracht 6: het formulier versturen
 
 Voor deze les hebben we een testpagina gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. In het dropdown menu geef je aan, naar welke docent je het formulier stuurt. Je kan onderstaande voorbeeldcode gebruiken.
 
