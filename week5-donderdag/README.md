@@ -22,7 +22,8 @@
   - [Opdracht 1: Bestandsstructuur opzetten](#opdracht-1-bestandsstructuur-opzetten)
   - [Opdracht 2: HTML formulier](#opdracht-2-html-formulier)
   - [Opdracht 3: CSS formulier](#opdracht-3-css-formulier)
-  - [Opdracht 4: het formulier versturen](#opdracht-4-het-formulier-versturen)
+  - [Opdracht 4: Responsive](#opdracht-4-responsive)
+  - [Opdracht 5: het formulier versturen](#opdracht-5-het-formulier-versturen)
     - [Namen van invulvelden](#namen-van-invulvelden)
 - [Links](#links)
 
@@ -109,7 +110,7 @@ De tag `<input>` kan je gebruiken voor meerdere type invoervelden. De keuze maak
 ```HTML
 <label for="cars">Kies een auto</label>
 <select id="cars" name="cars">
-    <option selected disabled value="none">Kies een auto</option>
+    <option value="">Kies een auto</option>
     <option value="volvo">Volvo</option>
     <option value="saab">Saab</option>
     <option value="fiat">Fiat</option>
@@ -322,18 +323,28 @@ In de komende opdrachten werk je toe naar een compleet formulier met alle opties
 Schrijf de HTML. Voer de placeholders in en maak alle velden `required`;
 Alleen HTML (behalve flex column, zodat alles onder elkaar staat).
 De docenten zijn: Antwan, Bas, Erik en Martijn.
+
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
 
 <br><br>
+
 ## Opdracht 3: CSS formulier
 Schrijf de CSS, zodat het eruit ziet als onderstaand ontwerp.
+
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
+
+<br><br>
+
+## Opdracht 4: Responsive
+Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
+
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="425">
 
 
 
 <br><br>
 
-## Opdracht 4: het formulier versturen
+## Opdracht 5: het formulier versturen
 
 Voor deze les hebben we een testpagina gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. In het dropdown menu geef je aan, naar welke docent je het formulier stuurt. Je kan onderstaande voorbeeldcode gebruiken.
 
