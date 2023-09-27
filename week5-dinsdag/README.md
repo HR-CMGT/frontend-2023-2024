@@ -2,6 +2,9 @@
 
 > *“A Pixel is Not a Pixel”*
 
+<br>
+
+**Inhoudsopgave**
 - [Week 5 - Dinsdag](#week-5---dinsdag)
 - [Inhoud](#inhoud)
   - [Responsive design](#responsive-design)
