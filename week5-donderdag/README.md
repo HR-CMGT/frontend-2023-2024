@@ -203,17 +203,17 @@ De default styling van veel form-elementen is niet erg mooi en niet optimaal lee
 ```css
 /* voorbeeld: alle input elementen */
 input {
-    font-size:1em;
+    font-size:1rem;
 }
 /* voorbeeld: alleen text input */
 input[type=text] {
     padding:2px;
-    font-size:1em;
+    font-size:1rem;
 }
 
 select {
   padding: 6px;
-  font-size: 1em;
+  font-size: 1rem;
   border: 0;
 }
 ```
@@ -223,7 +223,7 @@ select {
 ```css
 button {
   padding: 6px;
-  font-size: 1em;
+  font-size: 1rem;
   border-radius: 8px;
   border: 0;
   background-color: darkblue;
