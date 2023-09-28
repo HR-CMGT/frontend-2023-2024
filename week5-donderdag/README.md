@@ -126,10 +126,10 @@ De tag `<input>` kan je gebruiken voor meerdere type invoervelden. De keuze maak
 <label for="cat">Ik heb een kat</label>
 
 <input type="checkbox" id="dog" name="dog" value="Dog">
-<label for="vehicle2">Ik heb een hond</label>
+<label for="dog">Ik heb een hond</label>
 
 <input type="checkbox" id="capibara" name="capibara" value="Capibara">
-<label for="vehicle3">Ik heb een capibara</label>
+<label for="capibara">Ik heb een capibara</label>
 ```
 
 <br>
