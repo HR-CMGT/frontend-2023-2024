@@ -110,7 +110,7 @@ De tag `<input>` kan je gebruiken voor meerdere type invoervelden. De keuze maak
 ```HTML
 <label for="cars">Kies een auto</label>
 <select id="cars" name="cars">
-    <option value="">Kies een auto</option>
+    <option value="" disabled selected>Kies een auto</option>
     <option value="volvo">Volvo</option>
     <option value="saab">Saab</option>
     <option value="fiat">Fiat</option>
