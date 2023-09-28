@@ -11,7 +11,7 @@
 
 ## What CSS can do
 
-- [Voorbeelden bekijken op Codepen Spark](https://codepen.io/spark)
+- [Voorbeelden bekijken op Codepen Spark](https://codepen.io/spark), zoals [kat in wasmachine](https://codepen.io/Jopzik/pen/yLGMzOK), [glas effect](https://codepen.io/hluebbering/pen/dywzPre), 
 - [CSS Tricks - cool card navigation](https://css-tricks.com)
 - [Wat zit er eigenlijk aan de achterkant van een div?](https://codepen.io/eerk/pen/WNLdrLK)
 
@@ -263,4 +263,5 @@ section div {
 - [Custom easing](https://easings.net/)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
 - [🤯 Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
+- [Animatie gebaseerd op scroll](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)
 
