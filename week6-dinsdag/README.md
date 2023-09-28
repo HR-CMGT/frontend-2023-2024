@@ -138,6 +138,12 @@ nav.sticky {
 
 - Gebruik `position:fixed` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
 
+### Fancy cards
+
+- Plaats een aantal divs naast elkaar met de class `card`.
+- On `hover` maak je de card groter met `transform:scale(1.1)` en je voegt een schaduw toe met `box-shadow`.
+- Geef de card een `transition` zodat de animatie geleidelijk gaat.
+
 ### Chat request
 
 - Ontwerp een chat window in een eigen div element, onder je andere html code.
@@ -145,12 +151,6 @@ nav.sticky {
 - Met `transform:translateX()` plaats je nu het chat window rechts *buiten* beeld
 - Ontwerp een `@keyframes` animatie die de `translateX()` weer terug op 0 zet.
 - Gebruik `animation` om het chat window te animeren. De animatie speelt maar 1x, dit doe je met `forwards`.
-
-### Fancy cards
-
-- Plaats een aantal divs naast elkaar met de class `card`.
-- On `hover` maak je de card groter met `transform:scale(1.1)` en je voegt een schaduw toe met `box-shadow`.
-- Geef de card een `transition` zodat de animatie geleidelijk gaat.
 
 <br><br><br>
 
