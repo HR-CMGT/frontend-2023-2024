@@ -156,6 +156,11 @@ nav.sticky {
 
 ## Zelfstandige oefening
 
+Gebruik de documentatie om de oefeningen te kunnen maken:
+
+- [animation](https://www.w3schools.com/cssref/css3_pr_animation.php)
+- [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
+
 ### Cards falling in place
 
 - Plaats een aantal `cards` naast elkaar in een section met `flex`. Dit is de eindpositie. Geef de section een `perspective` van bv. 200px.
@@ -208,6 +213,8 @@ section div {
 - Gebruik `animation` om elke bar indiviueel te laten bewegen. Door de `time` en `ease` per bar te veranderen bewegen alle bars verschillend.
 
 <img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/93c03d37-f405-40f8-a07e-3c5b7fdca1a9" width="100" />
+
+STARTCODE
 
 HTML
 
