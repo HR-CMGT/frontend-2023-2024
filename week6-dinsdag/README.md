@@ -1,10 +1,19 @@
 # Week 6 - Dinsdag
 
+- What CSS can do
 - Transform, 3D, filter
 - Transition
 - Animation
 - Position fixed
 - Oefening
+
+<br><br><br>
+
+## What CSS can do
+
+- [Voorbeelden bekijken op Codepen Spark](https://codepen.io/spark)
+- [CSS Tricks - cool card navigation](https://css-tricks.com)
+- [Wat zit er eigenlijk aan de achterkant van een div?](https://codepen.io/eerk/pen/WNLdrLK)
 
 <br><br><br>
 
