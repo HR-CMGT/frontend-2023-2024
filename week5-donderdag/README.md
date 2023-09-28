@@ -25,7 +25,6 @@
   - [Opdracht 4: Responsive](#opdracht-4-responsive)
   - [Opdracht 5: Validatie](#opdracht-5-validatie)
   - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
-    - [Namen van invulvelden](#namen-van-invulvelden)
 - [Links](#links)
 
 
@@ -382,6 +381,7 @@ body {
 
 h1 {
     font-size: 2.5rem;
+    margin-top: 0;
 }
 
 .center-container {
@@ -395,7 +395,7 @@ nav {
     padding: 15px 30px;
     display: flex;
     justify-content: flex-end;
-    gap: 15px;
+    gap: 25px;
     border-bottom: 2px solid #1A202C;
 }
 
@@ -407,35 +407,43 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+main {
+    padding: 50px 0;
+}
 ```
 
 <br><br>
 
 ## Opdracht 2: HTML formulier
-Schrijf de HTML. Voer de placeholders in en maak alle velden `required`;
-Alleen HTML (behalve flex column, zodat alles onder elkaar staat).
-De docenten zijn: Antwan, Bas, Erik en Martijn.
+In deze opdracht ga je de HTML van het formulier schrijven. Bouw hiervoor het formulier in onderstaand ontwerp na. Zorg ervoor dat het er inhoudelijk echt hetzelfde uitziet. Dus voer ook de `placeholders` in, maak alle velden `required` en kies de juiste `type` per veld.
+
+Het enige wat je voor deze opdracht in de CSS moet doen is ervoor zorgen dat de inhoud van `<form>` als een `column` wordt weergegeven, zodat alles onder elkaar komt te staan.
+
+Bij de `<select>` onder *Verstuur naar** moet je kunnen kiezen uit de volgende docenten: Antwan, Bas, Erik en Martijn.
+
+> Wil je het formulier ook echt versturen? Kijk dan naar [opdracht 6](#opdracht-6-het-formulier-versturen).
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
 
 <br><br>
 
 ## Opdracht 3: CSS formulier
-Schrijf de CSS, zodat het eruit ziet als onderstaand ontwerp.
+Op dit moment staat alle HTML, maar het ziet er nog niet zo mooi uit. Schrijf daarom de CSS, zodat het eruit ziet als onderstaand ontwerp. Bedenk hoe je Flexbox hiervoor kan inzetten.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
 
 <br><br>
 
 ## Opdracht 4: Responsive
-Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
+Je formulier ziet er nu mooi uit! Maar op mobile wordt het erg krap. Zorg er daarom voor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="425">
 
 <br><br>
 
 ## Opdracht 5: Validatie
-Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
+Jouw formulier ziet er mooi uit én is goed leesbaar op mobile. De laatste stap is nu om validatie toe te passen. Dat betekent dat je aangeeft welke velden correct zijn ingevoerd en welke nog niet. Dus wanneer er bijvoorbeeld geen naam is ingevoerd moet dat veld een rode rand krijgen. Zo wordt het voor de gebruiker duidelijk welke velden er nog ingevoerd moeten worden. Zorg er daarom voor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
 
 <img src="./images/Opdracht5.png" alt="Opdracht 5" title="Opdracht 5" width="1012">
 
@@ -445,38 +453,17 @@ Zorg ervoor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
 
 ## Opdracht 6: het formulier versturen
 
-Voor deze les hebben we een testpagina gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. In het dropdown menu geef je aan, naar welke docent je het formulier stuurt. Je kan onderstaande voorbeeldcode gebruiken.
+Voor deze les hebben we een testpagina gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. Voer daarvoor de volgende stappen uit:
+1. In de `<select>` kies je een docent en naar diegene wordt jouw vraag gemaild. Om dit werkend te maken moet je bij ieder formulier-element de juiste `name` invoeren. De volgende names zijn nodig: 'name', 'city', 'email', 'birthdate', 'category', 'question' en 'send-to'. Iedere docent heeft trouwens een eigen nummer die je als `value` in moet stellen: 0 = Antwan, 1 = Bas, 2 = Erik en 3 = Martijn.
 
-### Namen van invulvelden
-
-Voor deze test moeten je invulvelden de volgende `name` eigenschappen hebben: 'name', 'city', 'email', 'date', 'category', 'question' en 'send-to'. Het veld 'send-to' moet altijd 0 (Antwan), 1 (Bas), 2 (Erik) of 3 (Martijn) als waarde bevatten.
-
+2. Vervang de openings `<form>` tag voor onderstaande. De betekenis van deze attributen leer je bij Programmeren 2.
 ```html
 <form action="https://docent.cmi.hr.nl/moora/frontend/send-mail.php" method="POST">
-    
-    <!-- jouw velden hier -->
-
-    <div>
-        <label class="label" for="send-to">Stuur de mail naar</label>
-        <select id="send-to" name="send-to">
-            <option value="0">Antwan</option>
-            <option value="1">Bas</option>
-            <option value="2">Erik</option>
-            <option value="3">Martijn</option>
-        </select>
-    </div>
-
-    <div>
-        <button type="submit">Versturen</button>
-    </div>
-</form>
 ```
 
-Maak een `contact-bedankt.html` pagina waarin je een bevestiging toont aan de gebruiker (*"We hebben uw reservering ontvangen!"*). Test of het werkt door op de `submit` button te klikken.
+3. Maak in de map van deze opdracht (dus `forms`) een nieuw bestand aan met de naam `contact-bedankt.html`. Nadat je het formulier hebt verzonden word je automatisch doorgestuurd naar deze pagina. Zet hierop een tekst als *"Bedankt voor je vraag, de gekozen docent zal er zo snel mogelijk op reageren."*. Test of het werkt door op de `submit` button te klikken.
 
-<br>
-<br>
-<br>
+<br><br>
 
 # Links
 
