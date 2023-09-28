@@ -19,7 +19,7 @@
     - [Mobile](#mobile)
   - [Validatie feedback met CSS](#validatie-feedback-met-css)
 - [Opdracht: Forms](#opdracht-forms)
-  - [Opdracht 1: Bestandsstructuur opzetten](#opdracht-1-bestandsstructuur-opzetten)
+  - [Opdracht 1: Nieuw project opzetten](#opdracht-1-nieuw-project-opzetten)
   - [Opdracht 2: HTML formulier](#opdracht-2-html-formulier)
   - [Opdracht 3: CSS formulier](#opdracht-3-css-formulier)
   - [Opdracht 4: Responsive](#opdracht-4-responsive)
@@ -318,8 +318,10 @@ In de komende opdrachten werk je toe naar een compleet formulier met alle opties
 
 <br>
 
-## Opdracht 1: Bestandsstructuur opzetten
-1. Maak in jouw lesmap een nieuwe map aan en noem die `forms`. Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
+## Opdracht 1: Nieuw project opzetten
+Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan je opdracht 6 namelijk niet uitvoeren. Voer de volgende stappen uit:
+
+1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in [opdracht 1c van les 1](../week3-dinsdag/#opdracht-1c---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
 2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
 3. Kopieer vervolgens de volgende startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../week4-dinsdag/#html-voor-de-navigatie).
 4. Open de `index.html` met Live Server en controleer of de navigatie werkt. Wanneer je naar de andere pagina navigeert zou de `<h1>` moeten veranderen, want die is anders per pagina, maar de vormgeving zou wel hetzelfde moeten blijven.
@@ -453,7 +455,7 @@ Jouw formulier ziet er mooi uit én is goed leesbaar op mobile. De laatste stap 
 
 ## Opdracht 6: het formulier versturen
 
-Voor deze les hebben we een testpagina gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. Voer daarvoor de volgende stappen uit:
+Voor deze les hebben we een testfunctie gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. Voer daarvoor de volgende stappen uit:
 1. In de `<select>` kies je een docent en naar diegene wordt jouw vraag gemaild. Om dit werkend te maken moet je bij ieder formulier-element de juiste `name` invoeren. De volgende names zijn nodig: 'name', 'city', 'email', 'birthdate', 'category', 'question' en 'send-to'. Iedere docent heeft trouwens een eigen nummer die je als `value` in moet stellen: 0 = Antwan, 1 = Bas, 2 = Erik en 3 = Martijn.
 
 2. Vervang de openings `<form>` tag voor onderstaande. De betekenis van deze attributen leer je bij Programmeren 2.
