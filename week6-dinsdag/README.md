@@ -129,40 +129,53 @@ nav.sticky {
 
 ## Klassikale oefening
 
-***Chat request popup***
+### Transition op nav bar
 
-- `position fixed` met `left, top, bottom, right` plaatst een chat window rechtsonder in beeld
-- Met `transform` plaats je nu het chat window rechts *buiten* beeld
-- Met `animation` en `keyframes` laat je het chat window weer terug in beeld animeren *(de transforms zet je weer op 0)*. De animatie speelt maar 1x, dit doe je met `animation forwards`
-- Binnen het chat window plaats je een child div, met een eigen animatie. De animatie speelt continu, dit doe je met `animation infinite`. Je kan bv. de achtergrondkleur laten pulseren.
+- Plaats een `hover` effect op je nav bar buttons.
+- Gebruik `transition` om de hover te animeren.
 
-***Cards falling in place***
+### Fixed nav bar
 
-- Plaats een aantal `cards` in een rij. Dit is de eindpositie.
-- Ontwerp een startpositie, van waaruit de card in beeld gaat vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
-- Gebruik `keyframes` en `animation` om de cards naar de eindpositie te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
-- Gebruik `animation-delay` om ***elke kaart*** een eigen delay te geven. Zo kan je de kaarten *na elkaar* in beeld laten vallen.
-- Experimenteer met de verschillende `ease` opties. Wat doet dit precies? Je kan op [deze site](https://easings.net/#) verschillende `eases` uitproberen en copy>pasten.
+- Gebruik `position:fixed` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
+
+### Chat request
+
+- Ontwerp een chat window in een eigen div element, onder je andere html code.
+- Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll positie.
+- Met `transform:translateX()` plaats je nu het chat window rechts *buiten* beeld
+- Ontwerp een `@keyframes` animatie die de `translateX()` weer terug op 0 zet.
+- Gebruik `animation` om het chat window te animeren. De animatie speelt maar 1x, dit doe je met `forwards`.
+
+### Fancy cards
+
+- Plaats een aantal divs naast elkaar met de class `card`.
+- On `hover` maak je de card groter met `transform:scale(1.1)` en je voegt een schaduw toe met `box-shadow`.
+- Geef de card een `transition` zodat de animatie geleidelijk gaat.
 
 <br><br><br>
 
 ## Zelfstandige oefening
 
+Kies een van de oefeningen om mee aan de slag te gaan.
+
+<br>
+
+***Cards falling in place***
+
+- Plaats een aantal `cards` naast elkaar met `flex`. Dit is de eindpositie.
+- Ontwerp een startpositie, van waaruit de card in beeld gaat vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
+- Gebruik `keyframes` en `animation` om de cards naar de eindpositie te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
+- Gebruik `animation-delay` om ***elke kaart*** een eigen delay te geven. Zo kan je de kaarten *na elkaar* in beeld laten vallen.
+- Experimenteer met de verschillende `ease` opties. Wat doet dit precies? Je kan op [deze site](https://easings.net/#) verschillende `eases` uitproberen en copy>pasten.
+
 ***Audio bars***
 
-- Plaats een aantal divs naast elkaar in een container. Geef de divs een afmeting en achtergrondkleur.
+- Plaats vijf divs naast elkaar in een flex container. Geef de divs een afmeting en achtergrondkleur.
 - Je kan de achtergrondkleur van groen naar rood laten lopen met [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
-- Gebruik `keyframes` en `animation` om elke bar individueel te laten bewegen.
+- Gebruik `keyframes` om een animatie te ontwerpen, de bars kunnen groeien en krimpen.
+- Gebruik `animation` om elke bar te laten bewegen. Door de `time` en `ease` per bar te veranderen bewegen alle bars verschillend.
 
 <img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/93c03d37-f405-40f8-a07e-3c5b7fdca1a9" width="100" />
-
-***Loading spinner***
-
-- Plaats een afbeelding van een loading spinner, of maak zelf een spinner met CSS.
-- Laat de afbeelding eeuwig roteren met `keyframes` en `animation`
-- Kan je de spinner meer fancy maken met extra animaties?
-  
-<img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/0ebba528-5336-4dac-983b-18f01d284088" width="100" />
 
 <Br><br><br>
   
