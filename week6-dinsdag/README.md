@@ -136,7 +136,7 @@ nav.sticky {
 
 ### Fixed nav bar
 
-- Gebruik `position:fixed` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
+- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
 
 ### Fancy cards
 
@@ -156,26 +156,85 @@ nav.sticky {
 
 ## Zelfstandige oefening
 
-Kies een van de oefeningen om mee aan de slag te gaan.
+### Cards falling in place
 
-<br>
-
-***Cards falling in place***
-
-- Plaats een aantal `cards` naast elkaar met `flex`. Dit is de eindpositie.
-- Ontwerp een startpositie, van waaruit de card in beeld gaat vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
-- Gebruik `keyframes` en `animation` om de cards naar de eindpositie te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
+- Plaats een aantal `cards` naast elkaar in een section met `flex`. Dit is de eindpositie. Geef de section een `perspective` van bv. 200px.
+- Geef de cards een startpositie, van waaruit ze straks in beeld gaan vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
+- Ontwerp `keyframes` om van de startpositie naar de eindpositie te animeren. In de eindpositie staat de `opacity` weer op 1. De transforms kan je uit zetten met `transform:none`.
+- Gebruik `animation` om de cards te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
 - Gebruik `animation-delay` om ***elke kaart*** een eigen delay te geven. Zo kan je de kaarten *na elkaar* in beeld laten vallen.
 - Experimenteer met de verschillende `ease` opties. Wat doet dit precies? Je kan op [deze site](https://easings.net/#) verschillende `eases` uitproberen en copy>pasten.
 
-***Audio bars***
+STARTCODE
+
+HTML
+
+```html
+<section>
+  <div>Luffy</div>
+  <div>Zoro</div>
+  <div>Nami</div>
+  <div>Sanji</div>
+  <div>Tony</div>
+  <div>Franky</div>
+  <div>Brook</div>
+  <div>Jinbei</div>
+</section>
+```
+CSS
+```
+section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+section div {
+  background-color: white;
+  width: 120px;
+  height: 120px;
+  border-radius: 20px;
+  padding: 20px;
+}
+```
+
+
+### Audio bars
 
 - Plaats vijf divs naast elkaar in een flex container. Geef de divs een afmeting en achtergrondkleur.
 - Je kan de achtergrondkleur van groen naar rood laten lopen met [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
-- Gebruik `keyframes` om een animatie te ontwerpen, de bars kunnen groeien en krimpen.
-- Gebruik `animation` om elke bar te laten bewegen. Door de `time` en `ease` per bar te veranderen bewegen alle bars verschillend.
+- Gebruik `keyframes` om een animatie te ontwerpen, de bars kunnen hoger en korter worden.
+- Gebruik `animation` om elke bar indiviueel te laten bewegen. Door de `time` en `ease` per bar te veranderen bewegen alle bars verschillend.
 
 <img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/93c03d37-f405-40f8-a07e-3c5b7fdca1a9" width="100" />
+
+HTML
+
+```html
+<section>
+  <div></div>
+  <div></div>  
+  <div></div>  
+  <div></div>  
+  <div></div>  
+</section>
+```
+
+CSS
+
+```css
+section {
+  width:400px;
+  height:300px;
+  display:flex;
+  gap:5px;
+}
+section div {
+  background-color:grey;
+  flex:1;
+}
+```
 
 <Br><br><br>
   
