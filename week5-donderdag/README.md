@@ -315,11 +315,102 @@ input:invalid:not(:placeholder-shown) {
 <br><br>
 
 # Opdracht: Forms
-In de komende opdrachten werk je toe naar een compleet formulier met alle opties die hierboven zijn besproken.
+In de komende opdrachten werk je toe naar een compleet formulier met alle opties die hierboven zijn besproken. Dit formulier ga je op een eigen pagina maken. Dus je hebt de `index.html`, waar je tot nu toe in het hebt gewerkt, wat de homepage is. In onderstaande opdracht ga je ook een `contact.html` maken, waarin jouw formulier komt. Dit bestand bekijk je via een andere URL dan de homepage, waardoor je twee pagina's die je kan bezoeken.
+
+<br>
 
 ## Opdracht 1: Bestandsstructuur opzetten
-...
+1. Maak in jouw lesmap een nieuwe map aan en noem die `forms`. Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../week3-dinsdag/##opdracht-1d---bestandsstructuur-html-en-css).
+2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
+3. Kopieer vervolgens de volgende startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../week4-dinsdag/#html-voor-de-navigatie).
+4. Open de `index.html` met Live Server en controleer of de navigatie werkt. Wanneer je naar de andere pagina navigeert zou de `<h1>` moeten veranderen, want die is anders per pagina, maar de vormgeving zou wel hetzelfde moeten blijven.
+
+<br>
+
+> ⚠️ Zorg ervoor dat je de HTML-code ***in de `<body>`*** plakt!
+
+<br>
+
+
+**index.html**
+```html
+<nav>
+    <a href="">Home</a>
+    <a href="">Contact</a>
+</nav>
+
+<main>
+    <div class="center-container">
+        <section>
+            <h1>Homepage</h1>
+        </section>
+    </div>
+</main>
+```
+
+<br>
+
+**contact.html**
+```html
+<nav>
+    <a href="">Home</a>
+    <a href="">Contact</a>
+</nav>
+
+<main>
+    <div class="center-container">
+        <section>
+            <h1>Contactformulier</h1>
+        </section>
+    </div>
+</main>
+```
+
+<br>
+
+**style.css**
+```css
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EDF0F7;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.center-container {
+    margin: 0 auto;
+    width: 90vw;
+    max-width: 650px;
+}
+
+nav {
+    background-color: #FFFFFF;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    border-bottom: 2px solid #1A202C;
+}
+
+nav a {
+    color: #717D96;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+```
+
 <br><br>
+
 ## Opdracht 2: HTML formulier
 Schrijf de HTML. Voer de placeholders in en maak alle velden `required`;
 Alleen HTML (behalve flex column, zodat alles onder elkaar staat).
