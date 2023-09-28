@@ -473,3 +473,4 @@ Voor deze les hebben we een testfunctie gemaakt waarmee je daadwerkelijk het for
 - [MDN uitleg voor het uitlijnen van labels](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 - [Codepen voorbeeld met uitgebreide responsive styling](https://codepen.io/CityRay/pen/vXEaZj)
 - [autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete)
+- [Toegankelijkheids richtlijnen voor formulieren](https://digitaaltoegankelijk.nl/nieuws/web-formulieren-en-de-wcag-waar-moet-je-op-letten/)
