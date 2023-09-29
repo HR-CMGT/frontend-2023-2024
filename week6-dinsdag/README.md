@@ -11,9 +11,10 @@
 
 ## What CSS can do
 
-- [Voorbeelden bekijken op Codepen Spark](https://codepen.io/spark), zoals [kat in wasmachine](https://codepen.io/Jopzik/pen/yLGMzOK), [glas effect](https://codepen.io/hluebbering/pen/dywzPre), 
-- [CSS Tricks - cool card navigation](https://css-tricks.com)
-- [Wat zit er eigenlijk aan de achterkant van een div?](https://codepen.io/eerk/pen/WNLdrLK)
+- [Codepen Spark](https://codepen.io/spark) *([kat in wasmachine](https://codepen.io/Jopzik/pen/yLGMzOK) en [glas effect](https://codepen.io/hluebbering/pen/dywzPre))*, en [A single div](https://a.singlediv.com/)
+- [CSS Tricks](https://css-tricks.com)  - cool card navigation
+- [Linktree](https://linktr.ee/) - background blur en ronddraaiende cards
+
 
 <br><br><br>
 
@@ -165,19 +166,24 @@ nav.sticky {
 
 ## Zelfstandige oefening
 
-Gebruik de documentatie om de oefeningen te kunnen maken:
+- Falling Cards
+- Audio Bars
 
-- [animation](https://www.w3schools.com/cssref/css3_pr_animation.php)
-- [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php)
+Gebruik de [animation](https://www.w3schools.com/cssref/css3_pr_animation.php) en [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php) documentatie om de oefeningen te kunnen maken.
 
-### Cards falling in place
+<br><br><br>
+
+### Falling cards
 
 - Plaats een aantal `cards` naast elkaar in een section met `flex`. Dit is de eindpositie. Geef de section een `perspective` van bv. 200px.
 - Geef de cards een startpositie, van waaruit ze straks in beeld gaan vallen. Dit doe je met `opacity` en verschillende `transforms`, zoals `scale`, `rotateY` en `translateZ`.
-- Ontwerp `keyframes` om van de startpositie naar de eindpositie te animeren. In de eindpositie staat de `opacity` weer op 1. De transforms kan je uit zetten met `transform:none`.
-- Gebruik `animation` om de cards te animeren. De animatie speelt maar 1x, dit doe je met `animation forwards`.
-- Gebruik `animation-delay` om ***elke kaart*** een eigen delay te geven. Zo kan je de kaarten *na elkaar* in beeld laten vallen.
-- Experimenteer met de verschillende `ease` opties. Wat doet dit precies? Je kan op [deze site](https://easings.net/#) verschillende `eases` uitproberen en copy>pasten.
+- In je `@keyframes` animatie zet je de cards weer terug op hun eindpositie. Je kan hier `transform:none` gebruiken.
+- Gebruik `animation` om de cards te animeren. De animatie speelt maar 1x, dit doe je met `ease-out animation forwards`.
+- Geef elke card een `id`. Gebruik `animation-delay` om *elke kaart een eigen delay* te geven. Daardoor vallen ze na elkaar in beeld.
+
+VOORBEELD
+
+<img src="./fallingcards.gif">
 
 STARTCODE
 
@@ -211,17 +217,34 @@ section div {
   border-radius: 20px;
   padding: 20px;
 }
-```
 
+@keyframes {
+    from {
+
+    }
+    to {
+
+    }
+}
+```
+ADVANCED
+
+- Gebruik `background-image:url()` en `text-shadow` om de kaartjes vorm te geven!
+
+<img src="./fallingcards-images.gif">
+
+<br><br><br>
 
 ### Audio bars
 
-- Plaats vijf divs naast elkaar in een flex container. Geef de divs een afmeting en achtergrondkleur.
-- Je kan de achtergrondkleur van groen naar rood laten lopen met [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
-- Gebruik `keyframes` om een animatie te ontwerpen, de bars kunnen hoger en korter worden.
-- Gebruik `animation` om elke bar indiviueel te laten bewegen. Door de `time` en `ease` per bar te veranderen bewegen alle bars verschillend.
+- Plaats vijf divs naast elkaar in een flex container. Geef de divs een achtergrondkleur.
+- Gebruik [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php) om de `height` van een bar te animeren. Je kan meerdere stappen in een animatie maken, zodat de bar niet meteen van vol naar leeg gaat.
+- Geef elke bar een `id`. Geef elke bar een eigen `animation` met verschillende `time` en de `delay`.
+- De animaties zijn `alternate infinite` zodat het eeuwig doorgaat en weer terug gaat naar de beginpositie.
 
-<img src="https://github.com/HR-CMGT/frontend-2023-2024/assets/6097853/93c03d37-f405-40f8-a07e-3c5b7fdca1a9" width="100" />
+VOORBEELD
+
+<img src="audiobars.gif" width="200px">
 
 STARTCODE
 
@@ -241,27 +264,53 @@ CSS
 
 ```css
 section {
-  width:400px;
-  height:300px;
+  width:300px;
+  height:200px;
   display:flex;
   gap:5px;
+  align-items:end;
 }
 section div {
   background-color:grey;
   flex:1;
+  height:100%;
+}
+@keyframes {
+    0% {
+
+    }
+    25% {
+        
+    }
+    50% {
+        
+    }
+    100% {
+        
+    }
 }
 ```
+
+Advanced 
+
+- Geef de bars [dit background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met `background-image:url()`.
+- Gebruik `background-position:bottom` zodat groen onderaan staat.
+- Gebruik `background-size:100px 200px` zodat de achtergrondafmeting hetzelfde is als de bar.
+
+VOORBEELD
+
+<img src="audiobars-color.gif" width="200px">
 
 <Br><br><br>
   
 ## Links
   
-- [Animeer de header image kleuren](https://codepen.io/tommiehansen/pen/BaGyVVy)
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- [Animeer een SVG illustratie](https://codepen.io/eerk/pen/ZPzNqv)
-- [Custom easing](https://easings.net/)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
-- [🤯 Backface Visibility](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
+- [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
+- [Blend mode](https://codepen.io/tommiehansen/pen/BaGyVVy)
+- [Custom easing](https://easings.net/)
+- [Achterkant Div](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
 - [Animatie gebaseerd op scroll](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)
-
+- [Animeer een SVG illustratie](https://codepen.io/eerk/pen/ZPzNqv) en [meer voorbeelden](https://codepen.io/collection/nRJxyn)
