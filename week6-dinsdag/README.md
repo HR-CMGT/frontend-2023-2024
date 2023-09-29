@@ -5,7 +5,8 @@
 - Transition
 - Animation
 - Position fixed
-- Oefening
+- Klassikale oefening
+- Zelfstandige oefening
 
 <br><br><br>
 
