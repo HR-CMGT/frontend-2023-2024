@@ -4,19 +4,19 @@
 - [Inhoud](#inhoud)
   - [What CSS can do](#what-css-can-do)
   - [Transition](#transition)
-  - [Transform, 3D, filter](#transform-3d-filter)
-    - [Transform](#transform)
+  - [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
     - [Filter](#filter)
-    - [3D Effect](#3d-effect)
+    - [Transform](#transform)
+    - [3D-effect](#3d-effect)
   - [Animation](#animation)
   - [Position fixed](#position-fixed)
     - [Sticky](#sticky)
-- [Klassikale opdracht](#opdrachten-transition--animation)
+- [Klassikale opdracht](#klassikale-opdracht)
     - [Transition op nav bar](#transition-op-nav-bar)
     - [Fixed nav bar](#fixed-nav-bar)
     - [Fancy cards](#fancy-cards)
     - [Chat request](#chat-request)
-- [Zelfstandig oefenen](#extra-oefeningen)
+  - [Zelfstandig oefenen](#zelfstandig-oefenen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
 - [Links](#links)
@@ -72,9 +72,28 @@ In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
 
 <br><br><br>
 
-## Transform, 3D, filter
+## Filter, transform en 3D-effect
 
 Je kunt met CSS meerdere effecten toepassen op HTML-elementen. Hieronder staan er drie toegelicht.
+
+<br>
+
+### Filter
+
+Er zijn verschillende filters beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met transitions en animations. 
+
+```css
+div {
+  filter: blur(20px) brightness(50%) saturate(4) hue-rotate(24deg);
+}
+```
+
+<br>
+
+**Hulpbronnen**
+- [Documentatie CSS filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
+- [Tutorial over CSS filter](https://css-tricks.com/almanac/properties/f/filter/)
+- [Video over CSS filter](https://www.youtube.com/watch?v=qyUz1iF8E6Y)
 
 <br>
 
@@ -99,26 +118,7 @@ div {
   
 <br>
 
-### Filter
-
-Er zijn verschillende filters beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met transitions en animations. 
-
-```css
-div {
-  filter: blur(20px) brightness(50%) saturate(4) hue-rotate(24deg);
-}
-```
-
-<br>
-
-**Hulpbronnen**
-- [Documentatie CSS filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
-- [Tutorial over CSS filter](https://css-tricks.com/almanac/properties/f/filter/)
-- [Video over CSS filter](https://www.youtube.com/watch?v=qyUz1iF8E6Y)
-
-<br>
-
-### 3D Effect
+### 3D-effect
 
 Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je moet de parent container een `perspective` waarde geven, dit is de afstand van het element tot de gebruiker.
 
