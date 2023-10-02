@@ -235,6 +235,7 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
   
 - [Guide to responsive images](https://elad.medium.com/a-complete-guide-for-responsive-images-b13db359c6c7)
 - [Werken met `srcset` en `picture`](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
+- [Werken met viewport units](https://web.dev/viewport-units/)
 - [Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Lazy Loading](https://www.w3schools.com/tags/att_img_loading.asp)
 - [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
