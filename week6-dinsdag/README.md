@@ -1,58 +1,39 @@
 # Week 6 - Dinsdag
 
-- What CSS can do
-- Transform, 3D, filter
-- Transition
-- Animation
-- Position fixed
-- Oefening
+- [Week 6 - Dinsdag](#week-6---dinsdag)
+- [Inhoud](#inhoud)
+  - [What CSS can do](#what-css-can-do)
+  - [Transition](#transition)
+  - [Transform, 3D, filter](#transform-3d-filter)
+    - [Transform](#transform)
+    - [Filter](#filter)
+    - [3D Effect](#3d-effect)
+  - [Animation](#animation)
+  - [Position fixed](#position-fixed)
+    - [Sticky](#sticky)
+- [Opdrachten transition \& animation](#opdrachten-transition--animation)
+    - [Transition op nav bar](#transition-op-nav-bar)
+    - [Fixed nav bar](#fixed-nav-bar)
+    - [Fancy cards](#fancy-cards)
+    - [Chat request](#chat-request)
+  - [Extra oefeningen](#extra-oefeningen)
+    - [Falling cards](#falling-cards)
+    - [Audio bars](#audio-bars)
+- [Links](#links)
+
 
 <br><br><br>
 
+# Inhoud
+
 ## What CSS can do
+
+Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspiratie.
 
 - [Codepen Spark](https://codepen.io/spark) *([kat in wasmachine](https://codepen.io/Jopzik/pen/yLGMzOK) en [glas effect](https://codepen.io/hluebbering/pen/dywzPre))*, en [A single div](https://a.singlediv.com/)
 - [CSS Tricks](https://css-tricks.com)  - cool card navigation
 - [Linktree](https://linktr.ee/) - background blur en ronddraaiende cards
 
-
-<br><br><br>
-
-## Transform, 3D, filter
-
-Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de transform.
-
-```css
-div {
-    transform:scale(2) rotate(10deg) translate(10px, 10px);
-    transform-origin:center; 
-}
-```
-
-### 3D Effect
-
-Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je moet de parent container een `perspective` waarde geven, dit is de afstand van het element tot de gebruiker.
-
-```css
-.parent {
-    perspective:100px;
-}
-.child {
-    rotateY:20deg;
-}
-```
-
-<br>
-
-### Filter
-
-Er zijn verschillende [filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function) beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met transitions en animations. 
-
-```css
-div {
-  filter: blur(20px) brightness(50%) saturate(4) hue-rotate(24deg);
-}
-```
 
 <br><br><br>
 
@@ -83,6 +64,80 @@ In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
 }
 ```
 
+<br>
+
+**Hulpbronnen**
+
+- [Documentatie transition](https://www.w3schools.com/css/css3_transitions.asp)
+
+<br><br><br>
+
+## Transform, 3D, filter
+
+Je kunt met CSS meerdere effecten toepassen op HTML-elementen. Hieronder staan er drie toegelicht.
+
+<br>
+
+### Transform
+
+Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de transform.
+
+```css
+div {
+    transform:scale(2) rotate(10deg) translate(10px, 10px);
+    transform-origin:center; 
+}
+```
+
+  <br>
+  
+  **Hulpbronnen**
+  - [Tutorial over transform](https://css-tricks.com/almanac/properties/t/transform/)
+  - [Video over transform](https://www.youtube.com/watch?v=rzD-cPhq02E)
+  - [Video met voorbeelden van transform](https://www.youtube.com/shorts/-RhONXwP2AQ)
+  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
+  
+<br>
+
+### Filter
+
+Er zijn verschillende filters beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met transitions en animations. 
+
+```css
+div {
+  filter: blur(20px) brightness(50%) saturate(4) hue-rotate(24deg);
+}
+```
+
+<br>
+
+**Hulpbronnen**
+- [Documentatie CSS filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
+- [Tutorial over CSS filter](https://css-tricks.com/almanac/properties/f/filter/)
+- [Video over CSS filter](https://www.youtube.com/watch?v=qyUz1iF8E6Y)
+
+<br>
+
+### 3D Effect
+
+Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je moet de parent container een `perspective` waarde geven, dit is de afstand van het element tot de gebruiker.
+
+```css
+.parent {
+    perspective:100px;
+}
+.child {
+    transform: rotateY(20deg);
+}
+```
+
+<br>
+
+**Hulpbronnen**
+-  [Tutorial over 3D-effect](https://css-tricks.com/how-css-perspective-works/)
+-  [Video over 3D-effect (let op: voorbeeld is in SCCS)](https://www.youtube.com/watch?v=A6gYSyiEvjM)
+
+
 <br><br><br>
 
 ## Animation
@@ -108,14 +163,20 @@ div {
 }
 ```
 
+<br>
 
 > De browser inspector heeft een [animation inspector](https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA) om de timing van je animaties mee te ontwerpen.
+
+<br>
+
+**Hulpbronnen**
+  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
 
 <br><br><br>
 
 ## Position fixed
 
-We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan.*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
+We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
 
 ```css
 .chatwindow {
@@ -137,7 +198,7 @@ nav.sticky {
 
 <br><br><br>
 
-## Klassikale oefening
+# Opdrachten transition & animation
 
 ### Transition op nav bar
 
@@ -164,14 +225,14 @@ nav.sticky {
 
 <br><br><br>
 
-## Zelfstandige oefening
+## Extra oefeningen
 
 - Falling Cards
 - Audio Bars
 
 Gebruik de [animation](https://www.w3schools.com/cssref/css3_pr_animation.php) en [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php) documentatie om de oefeningen te kunnen maken.
 
-<br><br><br>
+<br>
 
 ### Falling cards
 
@@ -293,7 +354,7 @@ section div {
 
 Advanced 
 
-- Geef de bars [dit background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met `background-image:url()`.
+- Geef de bars [deze background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met `background-image:url()`.
 - Gebruik `background-position:bottom` zodat groen onderaan staat.
 - Gebruik `background-size:100px 200px` zodat de achtergrondafmeting hetzelfde is als de bar.
 
@@ -303,8 +364,9 @@ VOORBEELD
 
 <Br><br><br>
   
-## Links
-  
+# Links
+
+- [Learn CSS animation in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
