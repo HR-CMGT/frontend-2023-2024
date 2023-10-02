@@ -11,12 +11,12 @@
   - [Animation](#animation)
   - [Position fixed](#position-fixed)
     - [Sticky](#sticky)
-- [Opdrachten transition \& animation](#opdrachten-transition--animation)
+- [Klassikale opdracht](#opdrachten-transition--animation)
     - [Transition op nav bar](#transition-op-nav-bar)
     - [Fixed nav bar](#fixed-nav-bar)
     - [Fancy cards](#fancy-cards)
     - [Chat request](#chat-request)
-  - [Extra oefeningen](#extra-oefeningen)
+- [Zelfstandig oefenen](#extra-oefeningen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
 - [Links](#links)
@@ -198,7 +198,7 @@ nav.sticky {
 
 <br><br><br>
 
-# Opdrachten transition & animation
+# Klassikale opdracht
 
 ### Transition op nav bar
 
@@ -225,7 +225,7 @@ nav.sticky {
 
 <br><br><br>
 
-## Extra oefeningen
+## Zelfstandig oefenen
 
 - Falling Cards
 - Audio Bars
@@ -241,6 +241,7 @@ Gebruik de [animation](https://www.w3schools.com/cssref/css3_pr_animation.php) e
 - In je `@keyframes` animatie zet je de cards weer terug op hun eindpositie. Je kan hier `transform:none` gebruiken.
 - Gebruik `animation` om de cards te animeren. De animatie speelt maar 1x, dit doe je met `ease-out animation forwards`.
 - Geef elke card een `id`. Gebruik `animation-delay` om *elke kaart een eigen delay* te geven. Daardoor vallen ze na elkaar in beeld.
+- Gebruik de [easing inspector](./easing-editor.png) om de kaartjes te laten stuiteren.
 
 VOORBEELD
 
@@ -372,7 +373,7 @@ VOORBEELD
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
 - [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
 - [Blend mode](https://codepen.io/tommiehansen/pen/BaGyVVy)
-- [Custom easing](https://easings.net/)
+- [Ontwerp easing met de browser inspector](./easing-editor.png) of kies een [custom easing](https://easings.net/)
 - [Achterkant Div](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
 - [Animatie gebaseerd op scroll](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)
 - [Animeer een SVG illustratie](https://codepen.io/eerk/pen/ZPzNqv) en [meer voorbeelden](https://codepen.io/collection/nRJxyn)
