@@ -34,6 +34,9 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
   - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
   - [Video met beknopte uitleg over srcset](https://www.youtube.com/watch?v=SyVKRnusyqM)
   - [Video met uitgebreide uitleg over srcset (aanrader!)](https://www.youtube.com/watch?v=2QYpkrX2N48)
+- Semantische HTML
+  - [Veelgebruikte semantische HTML-tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  - [Lijst met alle HTML-tags (alleen <div> en <span> zijn niet semantisch)](https://www.w3schools.com/TAGS/default.asp)
 
 <br>
 
