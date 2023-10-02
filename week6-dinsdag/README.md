@@ -111,6 +111,7 @@ div {
   <br>
   
   **Hulpbronnen**
+  - [Documentatie transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform?retiredLocale=nl)
   - [Tutorial over transform](https://css-tricks.com/almanac/properties/t/transform/)
   - [Video over transform](https://www.youtube.com/watch?v=rzD-cPhq02E)
   - [Video met voorbeelden van transform](https://www.youtube.com/shorts/-RhONXwP2AQ)
@@ -170,6 +171,7 @@ div {
 <br>
 
 **Hulpbronnen**
+  - [Documentatie animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
   - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
 
 <br><br><br>
