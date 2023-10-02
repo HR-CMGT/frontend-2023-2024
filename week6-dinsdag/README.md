@@ -1,6 +1,7 @@
 # Week 6 - Dinsdag
 
 - [Week 6 - Dinsdag](#week-6---dinsdag)
+- [Inhoud](#inhoud)
   - [What CSS can do](#what-css-can-do)
   - [Transition](#transition)
   - [Transform, 3D, filter](#transform-3d-filter)
@@ -10,18 +11,20 @@
   - [Animation](#animation)
   - [Position fixed](#position-fixed)
     - [Sticky](#sticky)
-  - [Klassikale oefening](#klassikale-oefening)
+- [Opdrachten transition \& animation](#opdrachten-transition--animation)
     - [Transition op nav bar](#transition-op-nav-bar)
     - [Fixed nav bar](#fixed-nav-bar)
     - [Fancy cards](#fancy-cards)
     - [Chat request](#chat-request)
-  - [Zelfstandige oefening](#zelfstandige-oefening)
+  - [Extra oefeningen](#extra-oefeningen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
-  - [Links](#links)
+- [Links](#links)
 
 
 <br><br><br>
+
+# Inhoud
 
 ## What CSS can do
 
@@ -173,7 +176,7 @@ div {
 
 ## Position fixed
 
-We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan.*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
+We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
 
 ```css
 .chatwindow {
@@ -195,7 +198,7 @@ nav.sticky {
 
 <br><br><br>
 
-## Klassikale oefening
+# Opdrachten transition & animation
 
 ### Transition op nav bar
 
@@ -222,14 +225,14 @@ nav.sticky {
 
 <br><br><br>
 
-## Zelfstandige oefening
+## Extra oefeningen
 
 - Falling Cards
 - Audio Bars
 
 Gebruik de [animation](https://www.w3schools.com/cssref/css3_pr_animation.php) en [keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.php) documentatie om de oefeningen te kunnen maken.
 
-<br><br><br>
+<br>
 
 ### Falling cards
 
@@ -351,7 +354,7 @@ section div {
 
 Advanced 
 
-- Geef de bars [dit background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met `background-image:url()`.
+- Geef de bars [deze background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met `background-image:url()`.
 - Gebruik `background-position:bottom` zodat groen onderaan staat.
 - Gebruik `background-size:100px 200px` zodat de achtergrondafmeting hetzelfde is als de bar.
 
@@ -361,7 +364,7 @@ VOORBEELD
 
 <Br><br><br>
   
-## Links
+# Links
   
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
