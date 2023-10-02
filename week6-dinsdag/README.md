@@ -61,6 +61,12 @@ In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
 }
 ```
 
+<br>
+
+**Hulpbronnen**
+
+- [Documentatie transition](https://www.w3schools.com/css/css3_transitions.asp)
+
 <br><br><br>
 
 ## Transform, 3D, filter
@@ -86,6 +92,7 @@ div {
   - [Tutorial over transform](https://css-tricks.com/almanac/properties/t/transform/)
   - [Video over transform](https://www.youtube.com/watch?v=rzD-cPhq02E)
   - [Video met voorbeelden van transform](https://www.youtube.com/shorts/-RhONXwP2AQ)
+  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
   
 <br>
 
@@ -153,8 +160,14 @@ div {
 }
 ```
 
+<br>
 
 > De browser inspector heeft een [animation inspector](https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA) om de timing van je animaties mee te ontwerpen.
+
+<br>
+
+**Hulpbronnen**
+  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
 
 <br><br><br>
 
