@@ -47,7 +47,7 @@ Met een *transition* kan je bepalen hoe snel de CSS van een element verandert. D
   - box-shadow,
   - css filter
 
-In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse hover. Dit verandering komt langzaam op gang, en remt aan het einde weer af (ease).
+In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse hover. De *transition* komt langzaam op gang, en remt aan het einde weer af (ease).
 
 ```css
 .card {
