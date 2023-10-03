@@ -178,7 +178,7 @@ div {
 
 ## Position fixed
 
-We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
+We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolt. 
 
 ```css
 .chatwindow {
@@ -189,7 +189,7 @@ We hebben geleerd dat layout elementen automatisch door de browser worden geposi
 ```
 ### Sticky
 
-Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolled. Dit werkt goed voor `nav` elementen. 
+Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolt. Dit werkt goed voor `nav` elementen. 
 
 ```css
 nav.sticky {
@@ -209,7 +209,7 @@ nav.sticky {
 
 ### Fixed nav bar
 
-- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
+- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolt.
 
 ### Fancy cards
 
@@ -220,7 +220,7 @@ nav.sticky {
 ### Chat request
 
 - Ontwerp een chat window in een eigen div element, onder je andere html code.
-- Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll positie.
+- Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll-positie.
 - Met `transform:translateX()` plaats je nu het chat window rechts *buiten* beeld
 - Ontwerp een `@keyframes` animatie die de `translateX()` weer terug op 0 zet.
 - Gebruik `animation` om het chat window te animeren. De animatie speelt maar 1x, dit doe je met `forwards`.
