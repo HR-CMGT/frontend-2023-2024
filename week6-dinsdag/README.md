@@ -4,19 +4,19 @@
 - [Inhoud](#inhoud)
   - [What CSS can do](#what-css-can-do)
   - [Transition](#transition)
-  - [Transform, 3D, filter](#transform-3d-filter)
-    - [Transform](#transform)
+  - [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
     - [Filter](#filter)
-    - [3D Effect](#3d-effect)
+    - [Transform](#transform)
+    - [3D-effect](#3d-effect)
   - [Animation](#animation)
   - [Position fixed](#position-fixed)
     - [Sticky](#sticky)
-- [Klassikale opdracht](#opdrachten-transition--animation)
+- [Klassikale opdracht](#klassikale-opdracht)
     - [Transition op nav bar](#transition-op-nav-bar)
     - [Fixed nav bar](#fixed-nav-bar)
     - [Fancy cards](#fancy-cards)
     - [Chat request](#chat-request)
-- [Zelfstandig oefenen](#extra-oefeningen)
+  - [Zelfstandig oefenen](#zelfstandig-oefenen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
 - [Links](#links)
@@ -39,7 +39,7 @@ Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspirat
 
 ## Transition
 
-Een *transition* is een *animatie* die automatisch afspeelt op het moment dat de CSS van een element verandert. Dit werkt goed samen met `hover` effecten. Je kan bijna alle eigenschappen animeren, zoals:
+Met een *transition* kan je bepalen hoe snel de CSS van een element verandert. Dit past goed bij `hover` effecten, en werkt voor bijna alle eigenschappen, zoals:
   - kleur,
   - afmeting,
   - transform,
@@ -47,7 +47,7 @@ Een *transition* is een *animatie* die automatisch afspeelt op het moment dat de
   - box-shadow,
   - css filter
 
-In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
+In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse hover. De *transition* komt langzaam op gang, en remt aan het einde weer af (ease).
 
 ```css
 .card {
@@ -72,31 +72,10 @@ In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
 
 <br><br><br>
 
-## Transform, 3D, filter
+## Filter, transform en 3D-effect
 
 Je kunt met CSS meerdere effecten toepassen op HTML-elementen. Hieronder staan er drie toegelicht.
 
-<br>
-
-### Transform
-
-Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de transform.
-
-```css
-div {
-    transform:scale(2) rotate(10deg) translate(10px, 10px);
-    transform-origin:center; 
-}
-```
-
-  <br>
-  
-  **Hulpbronnen**
-  - [Tutorial over transform](https://css-tricks.com/almanac/properties/t/transform/)
-  - [Video over transform](https://www.youtube.com/watch?v=rzD-cPhq02E)
-  - [Video met voorbeelden van transform](https://www.youtube.com/shorts/-RhONXwP2AQ)
-  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
-  
 <br>
 
 ### Filter
@@ -118,7 +97,29 @@ div {
 
 <br>
 
-### 3D Effect
+### Transform
+
+Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de transform.
+
+```css
+div {
+    transform:scale(2) rotate(10deg) translate(10px, 10px);
+    transform-origin:center; 
+}
+```
+
+  <br>
+  
+  **Hulpbronnen**
+  - [Documentatie transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform?retiredLocale=nl)
+  - [Tutorial over transform](https://css-tricks.com/almanac/properties/t/transform/)
+  - [Video over transform](https://www.youtube.com/watch?v=rzD-cPhq02E)
+  - [Video met voorbeelden van transform](https://www.youtube.com/shorts/-RhONXwP2AQ)
+  - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
+  
+<br>
+
+### 3D-effect
 
 Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je moet de parent container een `perspective` waarde geven, dit is de afstand van het element tot de gebruiker.
 
@@ -142,7 +143,7 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
 
 ## Animation
 
-Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
+Een *animation* bepaalt net als een *transition* hoe de CSS van een element verandert. Je hebt alleen veel meer controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
 
 ```css
 @keyframes my-cool-animation {
@@ -170,13 +171,14 @@ div {
 <br>
 
 **Hulpbronnen**
+  - [Documentatie animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
   - [Video over transform én animation](https://www.youtube.com/watch?v=YszONjKpgg4)
 
 <br><br><br>
 
 ## Position fixed
 
-We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolled. 
+We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolt. 
 
 ```css
 .chatwindow {
@@ -187,7 +189,7 @@ We hebben geleerd dat layout elementen automatisch door de browser worden geposi
 ```
 ### Sticky
 
-Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolled. Dit werkt goed voor `nav` elementen. 
+Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolt. Dit werkt goed voor `nav` elementen. 
 
 ```css
 nav.sticky {
@@ -207,7 +209,7 @@ nav.sticky {
 
 ### Fixed nav bar
 
-- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolled.
+- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolt.
 
 ### Fancy cards
 
@@ -218,7 +220,7 @@ nav.sticky {
 ### Chat request
 
 - Ontwerp een chat window in een eigen div element, onder je andere html code.
-- Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll positie.
+- Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll-positie.
 - Met `transform:translateX()` plaats je nu het chat window rechts *buiten* beeld
 - Ontwerp een `@keyframes` animatie die de `translateX()` weer terug op 0 zet.
 - Gebruik `animation` om het chat window te animeren. De animatie speelt maar 1x, dit doe je met `forwards`.
