@@ -143,7 +143,7 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
 
 ## Animation
 
-Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
+Een *animation* bepaalt net als een *transition* hoe de CSS van een element verandert. Je hebt alleen veel meer controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
 
 ```css
 @keyframes my-cool-animation {
