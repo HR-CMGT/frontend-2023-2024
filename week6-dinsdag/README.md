@@ -39,7 +39,7 @@ Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspirat
 
 ## Transition
 
-Een *transition* is een *animatie* die automatisch afspeelt op het moment dat de CSS van een element verandert. Dit werkt goed samen met `hover` effecten. Je kan bijna alle eigenschappen animeren, zoals:
+Met een *transition* kan je bepalen hoe (snel) de CSS van een element verandert. Dit werkt goed samen met `hover` effecten. Dit werkt voor bijna alle eigenschappen, zoals:
   - kleur,
   - afmeting,
   - transform,
@@ -47,7 +47,7 @@ Een *transition* is een *animatie* die automatisch afspeelt op het moment dat de
   - box-shadow,
   - css filter
 
-In dit voorbeeld komt een kaartje los van de ondergrond on mouse hover.
+In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse hover.
 
 ```css
 .card {
