@@ -364,7 +364,19 @@ VOORBEELD
 <img src="audiobars-color.gif" width="200px">
 
 <Br><br><br>
-  
+
+# Responsive design
+
+Op mobiel wil je wellicht geen `hover` effecten hebben, omdat er geen muispointer is. Je kan dit oplossen met `@media (hover: hover) {}`. Dit is een media query die alleen wordt uitgevoerd als de gebruiker een muispointer heeft. 
+
+```css
+@media (hover: hover) {
+    /* css die alleen werkt als er een muispointer is */
+}
+```
+
+<Br><br><br>
+
 # Links
 
 - [Learn CSS animation in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
