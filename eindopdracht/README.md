@@ -71,6 +71,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
 > - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig hebt;
 > - Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
+> - Je kan het **★** karakter gebruiken voor de "star ratings".
 > - 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vastloopt bij je docent, medestudent of peercoach.
 
 ### Desktop wireframe
