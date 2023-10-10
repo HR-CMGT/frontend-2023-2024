@@ -391,3 +391,4 @@ Op mobiel wil je wellicht geen `hover` effecten hebben, omdat er geen muispointe
 - [Achterkant Div](https://css-tricks.com/almanac/properties/b/backface-visibility/) en [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
 - [Animatie gebaseerd op scroll](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)
 - [Animeer een SVG illustratie](https://codepen.io/eerk/pen/ZPzNqv) en [meer voorbeelden](https://codepen.io/collection/nRJxyn)
+- [Tools om CSS animaties en shapes te ontwerpen](https://dev.to/lissy93/super-useful-css-resources-1ba3)
